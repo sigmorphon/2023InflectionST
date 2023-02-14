@@ -141,6 +141,11 @@ Samopriya Basu, Aryaman Arora, Jungyeul Park, Seunghun Lee, Peter Dirix, Elena K
 
 ### Organizers
 
+**Task Logistics**:
+Canaan Breiss 
+
+**Data Preparation**:
+Jinyoung Jo, Canaan Breiss
 
 ### References
 

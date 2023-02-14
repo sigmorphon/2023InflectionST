@@ -61,20 +61,20 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 
 
 ## Timeline
-    February 15, 2023: Task website is complete, and accepting registrations to the mailing list
+  * February 15, 2023: Task website is complete, and accepting registrations to the mailing list
 **Stage 1: Development Phase**
   * February 17, 2023: Training and development splits for development languages released; we invite participants to report errors
   * February 22, 2023: Neural and non-neural baselines for development languages released
 **Stage 2: Generalization Phase**
-    March 24, 2023: Training and development splits for surprise languages released
+  * March 24, 2023: Training and development splits for surprise languages released
 **Stage 3: Evaluation Phase**
-    March 31, 2023: Test splits for all languages (both development and surprise) released
-    April 14, 2023: Participants submit test predictions on all languages
-    April 21, 2023: Results announced to participants
+  * March 31, 2023: Test splits for all languages (both development and surprise) released
+  * April 14, 2023: Participants submit test predictions on all languages
+  * April 21, 2023: Results announced to participants
 **Stage 4: Write-up Phase**
-    May 8, 2023: System papers due for review
-    May 22, 2023: Reviews back to participants
-    May 31, 2023: CR deadline; task paper due from organizers.
+  * May 8, 2023: System papers due for review
+  * May 22, 2023: Reviews back to participants
+  * May 31, 2023: CR deadline; task paper due from organizers.
 ### Data
 
 ## Evaluation
@@ -162,16 +162,16 @@ Models will be evaluated in two ways, by measuring accuracy and ability to gener
 Child learners generalize in particular ways. Systems will be evaluated according to how well they generalize and analyzed to determine in what ways they generalize similarly or differently to humans. For that, we will identify error types and compare them against those produced by children. We will also evaluate the effects of the token frequency, type frequency, and phonological neighborhood density.
 
 ### Timeline
-    February 15, 2023: Task website is complete, and accepting registrations to the mailing
+  * February 15, 2023: Task website is complete, and accepting registrations to the mailing
      list
-    February 17, 2023: Data preparation is complete, and training and evaluation data is released to participants
-    February 22, 2023: Baseline systems released to participants
-    March 31, 2023: Test data is available for participants
-    April 14, 2023: Final Submissions are due.
-    April 21, 2023: Results announced to participants
-    May 8, 2023: System papers due for review
-    May 22, 2023: Reviews back to participants
-    May 31, 2023:  CR deadline; task paper due from organizers
+  * February 17, 2023: Data preparation is complete, and training and evaluation data is released to participants
+  * February 22, 2023: Baseline systems released to participants
+  * March 31, 2023: Test data is available for participants
+  * April 14, 2023: Final Submissions are due.
+  * April 21, 2023: Results announced to participants
+  * May 8, 2023: System papers due for review
+  * May 22, 2023: Reviews back to participants
+  * May 31, 2023:  CR deadline; task paper due from organizers
 
 ### Submission Instructions 
 

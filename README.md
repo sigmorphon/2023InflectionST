@@ -136,13 +136,19 @@ This shared task focuses specifically on data that has been argued to be relevan
 
 We bring to bear data from the interaction of two variable processes in Korean, Post-Obstruent Tensification (POT) and Cluster Simplification (CS), which are active in the language broadly. When their conditioning environments overlap, we can observe crucial evidence about how (or whether) the processes are ordered (Kim-Renaud, 1974; Sohn, 1999, Kim, 2003).
 
-CS targets underlying consonant clusters in coda position, yielding simplification when followed by a C-initial suffix, /anc-nɨn/ → [an-nɨn] ‘to sit-COMP’; /kulm-nɨn/ → [kum-nɨn] ‘to starve-COMP’. CS is variable depending on verb identity and final consonant place. POT causes a lenis consonant to tensify after an obstruent, e.g. /cap-ta/ → [cap-t*a] ‘to hold-DECL’; /pat-ko/ → [pat-k*o] ‘to receive-and’. When the first consonant of the cluster is /l/ and both processes are applicable, an opaque surface form can arise, e.g. in [nʌl-t*a], we may see un-licensed post-liquid tensification, which is generally absent in the language (e.g. /cul-ta/ [cul-ta], *[cul-t*a] ‘to decrease-DECL’). 
+CS targets underlying consonant clusters in coda position, yielding simplification when followed by a C-initial suffix, /anc-nɨn/ → [an-nɨn] ‘to sit-COMP’; /kulm-nɨn/ → [kum-nɨn] ‘to starve-COMP’. CS is variable depending on verb identity and final consonant place. POT causes a lenis consonant to tensify after an obstruent, e.g. /cap-ta/ → [cap-t\*a] ‘to hold-DECL’; /pat-ko/ → [pat-k\*o] ‘to receive-and’. When the first consonant of the cluster is /l/ and both processes are applicable, an opaque surface form can arise, e.g. in [nʌl-t\*a], we may see un-licensed post-liquid tensification, which is generally absent in the language (e.g. /cul-ta/ [cul-ta], *[cul-t\*a] ‘to decrease-DECL’). 
 
 Both processes exhibit variation both within and across word types, and so speakers likely represent both item-specific and grammar-wide generalizations about how these processes interact. The learning data is also quite sparse: in a child-directed speech corpus of ~53,000 words, the environment crucial to learn an ordering appears only 12 times (The Ko Corpus, Ko et al. 2021). In a corpus of adult speech, the forms occur a total of about 1,000 times in ~900,000 phrases (The NIKL Korean Dialogue Corpus; National Institute of Korean Language, 2021). This poses a challenge for models that need large amounts of data to reliably learn linguistic patterns.
 
 ### Data and Evaluation
 
-The task is as follows: given representative learning data that a child might be exposed to, as well as the distribution of words and their forms in a corpus of adult-directed speech and a dictionary-style list of all existing -lC verbs, predict the range of human answers to a verb inflection task whether they are asked to produce forms where POT and CS overlap. Data comes from a wug-test involving three types of verbs: existing high-frequency, existing low-frequency, and novel. Held-out experimental responses will be used as the test set, over which accuracy will be calculated.
+The task is as follows: predict human responses to a generalization task (_wug_-test), involving existing high-frequency, existing low-frequency, and novel verbs. 
+
+Verbs come in two types, those which have a simplex coda, and so provide an environment to observe POT in the absence of the complex coda, and those which have a lC coda, where the environments for POT and CS can overlap. Each type has cases that are affixed with suffixes that start with a vowel (no POT or CS expected for lC verbs), suffixes that start with a sonorant (CS expected in lC verbs, POT not possible), or those that start with an obstruent (POT and CS applicable in lC verbs). 
+
+The primary training data consists of the experimental responses of 10 subjects, plus 3 for development, and the models will be evaluated on how well they predict the vector of features corresponding to the answer given: POT, CS (two types possible, see explanatory notes), nasalization (orthogonal but present in nasal-initial suffixes), and lateralization (possible but unlikely). Depending on the type of stem and suffix, any of these features may be on (if the process applies), off (if not), or NA (if not applicable). Models will be evaluated using the likelihood they assign to held-out responses to the same experimental items from 5 unseen participants. 
+
+Auxiliary training data is a list of all -lC verbs in a Korean dictionary, the distribution of words and their forms (featurized the same way as the experiment) in a corpus of adult-directed speech, and a corpus of infant-directed speech. You are not required to incorporate this info into the model, but you might find it helpful - this is our best current estimate of the type of learning data available to humans learning the same processes.
 
 ### Timeline
 
@@ -152,17 +158,14 @@ The task is as follows: given representative learning data that a child might be
 ### Organizers
 
 Canaan Breiss, Jinyoung Jo
+Contact: canaanbreiss1@gmail.com
 
 ### References
 
 Kim, S. (2003). Phyocwun Palum Silthay Cosa II [A Survey of Standard Pronunciation II]. National Institute of Korean Language, Seoul.
-
 Kim-Renaud, Y.-K. (1974). Korean Consonantal Phonology. PhD thesis, University of Hawaii.
-
 Ko, E.-S., Jo, J., On, K.-W., and Zhang, B.-T. (2020). Introducing theKo corpus of Korean mother–child interaction. Frontiers in Psychology, 11:3698.
-
 National Institute of Korean Language (2021). NIKL Korean Dialogue Corpus (audio) 2020(v.1.3).
-
 Sohn, H.-M. (1999). The Korean Language. Cambridge University Press, Cambridge, UK.
 
 

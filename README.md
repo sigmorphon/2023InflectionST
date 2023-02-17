@@ -146,7 +146,7 @@ The task is as follows: predict human responses to a generalization task (_wug_-
 
 Verbs come in two types, those which have a simplex coda, and so provide an environment to observe POT in the absence of the complex coda, and those which have a lC coda, where the environments for POT and CS can overlap. Each type has cases that are affixed with suffixes that start with a vowel (no POT or CS expected for lC verbs), suffixes that start with a sonorant (CS expected in lC verbs, POT not possible), or those that start with an obstruent (POT and CS applicable in lC verbs). 
 
-The primary training data consists of the experimental responses of 10 subjects, plus 3 for development, and the models will be evaluated on how well they predict the vector of features corresponding to the answer given: POT, CS (two types possible, see explanatory notes), nasalization (orthogonal but present in nasal-initial suffixes), and lateralization (possible but unlikely). Depending on the type of stem and suffix, any of these features may be on (if the process applies), off (if not), or NA (if not applicable). Models will be evaluated using the likelihood they assign to held-out responses to the same experimental items from 5 unseen participants. 
+The primary training data consists of the experimental responses of 10 subjects, plus 3 for development, and the models will be evaluated on how well they predict the vector of features corresponding to the answer given: POT, CS (two types possible, see explanatory notes), nasalization (orthogonal but present in nasal-initial suffixes), and lateralization (possible but unlikely). Depending on the type of stem and suffix, any of these features may be on (if the process applies), off (if not), or NA (if not applicable). Models will be evaluated using the likelihood they assign to held-out responses to the same experimental items from 5 unseen participants. Of particular interest are models that are based primarily on the lexical and corpus data and treat the experimental data as a learning target; learning purely based on the experimental data alone is perhaps of less linguistic interest, since it doesn't try to mimic what humans are doing (learning from sparse and gappy naturalistic data, and generalizing out of sample on the wug test).
 
 Auxiliary training data is a list of all -lC verbs in a Korean dictionary, the distribution of words and their forms (featurized the same way as the experiment) in a corpus of adult-directed speech, and a corpus of infant-directed speech. You are not required to incorporate this info into the model, but you might find it helpful - this is our best current estimate of the type of learning data available to humans learning the same processes.
 
@@ -158,14 +158,19 @@ Auxiliary training data is a list of all -lC verbs in a Korean dictionary, the d
 ### Organizers
 
 Canaan Breiss, Jinyoung Jo
+
 Contact: canaanbreiss1@gmail.com
 
 ### References
 
 Kim, S. (2003). Phyocwun Palum Silthay Cosa II [A Survey of Standard Pronunciation II]. National Institute of Korean Language, Seoul.
+
 Kim-Renaud, Y.-K. (1974). Korean Consonantal Phonology. PhD thesis, University of Hawaii.
+
 Ko, E.-S., Jo, J., On, K.-W., and Zhang, B.-T. (2020). Introducing theKo corpus of Korean mother–child interaction. Frontiers in Psychology, 11:3698.
+
 National Institute of Korean Language (2021). NIKL Korean Dialogue Corpus (audio) 2020(v.1.3).
+
 Sohn, H.-M. (1999). The Korean Language. Cambridge University Press, Cambridge, UK.
 
 

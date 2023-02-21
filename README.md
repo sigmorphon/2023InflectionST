@@ -175,7 +175,7 @@ Sohn, H.-M. (1999). The Korean Language. Cambridge University Press, Cambridge, 
 
 
 
-## Part 3: Models of Acquisition of Inflectional Noun Moprhology in Polish, Estonian, and Finnish
+## Part 3: Models of Acquisition of Inflectional Noun Morphology in Polish, Estonian, and Finnish
 
 ### Task Description
 We propose a cross-linguistic modelling of child language acquisition to mediate between the theories of the acquisition of inflectional morphology. This will also allow for a more fine-grained analysis of generalizations made by contemporary connectionist models.

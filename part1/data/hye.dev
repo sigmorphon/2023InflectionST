@@ -1,0 +1,1000 @@
+ալքիմիա	N;ABL(PL)	ալքիմիաներից
+ալքիմիա	N;ABL(SG)	ալքիմիայից
+ալքիմիա	N;ABL(SG;PSS(1,SG))	ալքիմիայիցս
+ալքիմիա	N;ABL(SG;PSS(2,SG))	ալքիմիայիցդ
+ալքիմիա	N;DAT(PL)	ալքիմիաների
+ալքիմիա	N;DAT(PL;DEF)	ալքիմիաներին
+ալքիմիա	N;DAT(PL;PSS(1,SG))	ալքիմիաներիս
+ալքիմիա	N;DAT(PL;PSS(2,SG))	ալքիմիաներիդ
+ալքիմիա	N;DAT(SG)	ալքիմիայի
+ալքիմիա	N;DAT(SG;DEF)	ալքիմիային
+ալքիմիա	N;INS(PL)	ալքիմիաներով
+ալքիմիա	N;INS(SG;PSS(1,SG))	ալքիմիայովս
+ալքիմիա	N;INS(SG;PSS(2,SG))	ալքիմիայովդ
+ալքիմիա	N;LOC(PL)	ալքիմիաներում
+ալքիմիա	N;LOC(PL;PSS(1,SG))	ալքիմիաներումս
+ալքիմիա	N;LOC(SG;PSS(1,SG))	ալքիմիայումս
+ալքիմիա	N;LOC(SG;PSS(2,SG))	ալքիմիայումդ
+ալքիմիա	N;NOM(PL;PSS(2,SG))	ալքիմիաներդ
+ալքիմիա	N;NOM(SG)	ալքիմիա
+ալքիմիա	N;NOM(SG;DEF)	ալքիմիան
+ալքիմիա	N;NOM(SG;PSS(2,SG))	ալքիմիադ
+աննման	ADJ;ABL(PL;PSS(1,SG))	աննմաններիցս
+աննման	ADJ;ABL(SG)	աննմանից
+աննման	ADJ;ABL(SG;PSS(2,SG))	աննմանիցդ
+աննման	ADJ;DAT(PL)	աննմանների
+աննման	ADJ;DAT(PL;DEF)	աննմաններին
+աննման	ADJ;DAT(PL;PSS(1,SG))	աննմաններիս
+աննման	ADJ;DAT(PL;PSS(2,SG))	աննմաններիդ
+աննման	ADJ;DAT(SG)	աննմանի
+աննման	ADJ;DAT(SG;PSS(1,SG))	աննմանիս
+աննման	ADJ;DAT(SG;PSS(2,SG))	աննմանիդ
+աննման	ADJ;INS(PL)	աննմաններով
+աննման	ADJ;INS(PL;PSS(1,SG))	աննմաններովս
+աննման	ADJ;INS(PL;PSS(2,SG))	աննմաններովդ
+աննման	ADJ;INS(SG)	աննմանով
+աննման	ADJ;INS(SG;PSS(1,SG))	աննմանովս
+աննման	ADJ;NOM(PL)	աննմաններ
+աննման	ADJ;NOM(PL;DEF)	աննմանները
+աննման	ADJ;NOM(PL;PSS(1,SG))	աննմաններս
+աննման	ADJ;NOM(PL;PSS(2,SG))	աննմաններդ
+աննման	ADJ;NOM(SG)	աննման
+աննման	ADJ;NOM(SG;PSS(1,SG))	աննմանս
+ապահովել	V;FUT;COND;NEG;NOM(1,PL)	չենք ապահովի
+ապահովել	V;FUT;COND;NOM(1,SG)	կապահովեմ
+ապահովել	V;FUT;IND;NEG;NOM(3,PL)	չեն ապահովելու
+ապահովել	V;FUT;PRF;COND;NEG;NOM(3,PL)	չէին ապահովի
+ապահովել	V;FUT;PRF;COND;NEG;NOM(3,SG)	չէր ապահովի
+ապահովել	V;FUT;PRF;COND;NOM(1,SG)	կապահովեի
+ապահովել	V;FUT;SBJV;NEG;NOM(2,SG)	չապահովես
+ապահովել	V;FUT;SBJV;NEG;NOM(3,PL)	չապահովեն
+ապահովել	V;IPFV;IND;NOM(2,PL)	ապահովում էիք
+ապահովել	V;IPFV;IND;NOM(3,PL)	ապահովում էին
+ապահովել	V;NFIN;NEG	չապահովել
+ապահովել	V;PRS;PRF;IND;NEG;NOM(3,PL)	չեն ապահովել
+ապահովել	V;PST;IND;NEG;NOM(1,SG)	չապահովեցի
+ապահովել	V;PST;IND;NOM(1,SG)	ապահովեցի
+ապահովել	V;PST;IND;NOM(2,SG)	ապահովեցիր
+ապահովել	V;PST;PRF;IND;NEG;NOM(3,PL)	չէին ապահովել
+ապահովել	V;PST;PRF;IND;NOM(2,PL)	ապահովել էիք
+ապահովել	V;PST;PRF;IND;NOM(2,SG)	ապահովել էիր
+ապահովել	V;V.CONV;CONN	ապահովի
+ապահովել	V;V.PTCP;RES	ապահոված
+առաջադիմական	ADJ;ABL(SG)	առաջադիմականից
+առաջադիմական	ADJ;ABL(SG;PSS(1,SG))	առաջադիմականիցս
+առաջադիմական	ADJ;DAT(PL;PSS(2,SG))	առաջադիմականներիդ
+առաջադիմական	ADJ;DAT(SG;PSS(1,SG))	առաջադիմականիս
+առաջադիմական	ADJ;LOC(PL;PSS(2,SG))	առաջադիմականներումդ
+առաջադիմական	ADJ;NOM(SG)	առաջադիմական
+առաջադիմական	ADJ;NOM(SG;PSS(2,SG))	առաջադիմականդ
+առաջադիմական	N;ABL(PL;PSS(2,SG))	առաջադիմականներիցդ
+առաջադիմական	N;ABL(SG;PSS(1,SG))	առաջադիմականիցս
+առաջադիմական	N;DAT(PL;PSS(1,SG))	առաջադիմականներիս
+առաջադիմական	N;DAT(PL;PSS(2,SG))	առաջադիմականներիդ
+առաջադիմական	N;DAT(SG;DEF)	առաջադիմականին
+առաջադիմական	N;DAT(SG;PSS(2,SG))	առաջադիմականիդ
+առաջադիմական	N;INS(PL)	առաջադիմականներով
+առաջադիմական	N;INS(SG)	առաջադիմականով
+առաջադիմական	N;LOC(PL)	առաջադիմականներում
+առաջադիմական	N;LOC(PL;PSS(1,SG))	առաջադիմականներումս
+առաջադիմական	N;NOM(PL)	առաջադիմականներ
+առաջադիմական	N;NOM(PL;PSS(2,SG))	առաջադիմականներդ
+առաջադիմական	N;NOM(SG)	առաջադիմական
+աստղադիտարան	N;ABL(PL)	աստղադիտարաններից
+աստղադիտարան	N;ABL(PL;PSS(1,SG))	աստղադիտարաններիցս
+աստղադիտարան	N;ABL(PL;PSS(2,SG))	աստղադիտարաններիցդ
+աստղադիտարան	N;ABL(SG)	աստղադիտարանից
+աստղադիտարան	N;ABL(SG;PSS(2,SG))	աստղադիտարանիցդ
+աստղադիտարան	N;DAT(PL;PSS(1,SG))	աստղադիտարաններիս
+աստղադիտարան	N;DAT(SG)	աստղադիտարանի
+աստղադիտարան	N;INS(SG)	աստղադիտարանով
+աստղադիտարան	N;INS(SG;PSS(1,SG))	աստղադիտարանովս
+աստղադիտարան	N;INS(SG;PSS(2,SG))	աստղադիտարանովդ
+աստղադիտարան	N;LOC(PL)	աստղադիտարաններում
+աստղադիտարան	N;LOC(PL;PSS(1,SG))	աստղադիտարաններումս
+աստղադիտարան	N;LOC(PL;PSS(2,SG))	աստղադիտարաններումդ
+աստղադիտարան	N;LOC(SG)	աստղադիտարանում
+աստղադիտարան	N;LOC(SG;PSS(1,SG))	աստղադիտարանումս
+աստղադիտարան	N;LOC(SG;PSS(2,SG))	աստղադիտարանումդ
+աստղադիտարան	N;NOM(PL)	աստղադիտարաններ
+աստղադիտարան	N;NOM(PL;DEF)	աստղադիտարանները
+աստղադիտարան	N;NOM(PL;PSS(2,SG))	աստղադիտարաններդ
+աստղադիտարան	N;NOM(SG;DEF)	աստղադիտարանը
+բանվոր	N;ABL(PL)	բանվորներից
+բանվոր	N;ABL(PL;PSS(2,SG))	բանվորներիցդ
+բանվոր	N;ABL(SG)	բանվորից
+բանվոր	N;DAT(PL)	բանվորների
+բանվոր	N;DAT(PL;DEF)	բանվորներին
+բանվոր	N;DAT(PL;PSS(1,SG))	բանվորներիս
+բանվոր	N;DAT(PL;PSS(2,SG))	բանվորներիդ
+բանվոր	N;DAT(SG)	բանվորի
+բանվոր	N;DAT(SG;PSS(2,SG))	բանվորիդ
+բանվոր	N;INS(PL)	բանվորներով
+բանվոր	N;INS(PL;PSS(1,SG))	բանվորներովս
+բանվոր	N;INS(SG)	բանվորով
+բանվոր	N;INS(SG;PSS(1,SG))	բանվորովս
+բանվոր	N;INS(SG;PSS(2,SG))	բանվորովդ
+բանվոր	N;NOM(PL;DEF)	բանվորները
+բանվոր	N;NOM(PL;PSS(1,SG))	բանվորներս
+բանվոր	N;NOM(PL;PSS(2,SG))	բանվորներդ
+բանվոր	N;NOM(SG)	բանվոր
+բանվոր	N;NOM(SG;DEF)	բանվորը
+բանվոր	N;NOM(SG;PSS(2,SG))	բանվորդ
+բդկել	V;FUT;IND;NEG;NOM(1,PL)	չենք բդկելու
+բդկել	V;FUT;IND;NOM(3,SG)	բդկելու է
+բդկել	V;FUT;PRF;COND;NEG;NOM(2,SG)	չէիր բդկի
+բդկել	V;FUT;PRF;IND;NEG;NOM(3,PL)	չէին բդկելու
+բդկել	V;FUT;PRF;SBJV;NEG;NOM(1,PL)	չբդկեինք
+բդկել	V;FUT;PRF;SBJV;NOM(1,SG)	բդկեի
+բդկել	V;FUT;PRF;SBJV;NOM(3,PL)	բդկեին
+բդկել	V;FUT;SBJV;NEG;NOM(1,PL)	չբդկենք
+բդկել	V;IMP;NEG;NOM(2,SG)	մի՛ բդկիր
+բդկել	V;IMP;NOM(2,SG)	բդկի՛ր
+բդկել	V;IPFV;IND;NOM(1,PL)	բդկում էինք
+բդկել	V;PRS;IND;NOM(2,PL)	բդկում եք
+բդկել	V;PST;IND;NEG;NOM(1,PL)	չբդկեցինք
+բդկել	V;PST;IND;NEG;NOM(1,SG)	չբդկեցի
+բդկել	V;PST;IND;NOM(2,PL)	բդկեցիք
+բդկել	V;PST;IND;NOM(2,SG)	բդկեցիր
+բդկել	V;PST;PRF;IND;NOM(1,PL)	բդկել էինք
+բդկել	V;V.CONV;FUT1	բդկելու
+բդկել	V;V.CONV;FUT2	բդկելիք
+բդկել	V;V.CONV;PFV	բդկել
+գիտակից	ADJ;ABL(PL)	գիտակիցներից
+գիտակից	ADJ;ABL(PL;PSS(1,SG))	գիտակիցներիցս
+գիտակից	ADJ;ABL(PL;PSS(2,SG))	գիտակիցներիցդ
+գիտակից	ADJ;ABL(SG)	գիտակիցից
+գիտակից	ADJ;ABL(SG;PSS(2,SG))	գիտակիցիցդ
+գիտակից	ADJ;DAT(PL)	գիտակիցների
+գիտակից	ADJ;DAT(PL;DEF)	գիտակիցներին
+գիտակից	ADJ;DAT(PL;PSS(1,SG))	գիտակիցներիս
+գիտակից	ADJ;DAT(PL;PSS(2,SG))	գիտակիցներիդ
+գիտակից	ADJ;DAT(SG;DEF)	գիտակիցին
+գիտակից	ADJ;DAT(SG;PSS(2,SG))	գիտակիցիդ
+գիտակից	ADJ;INS(PL;PSS(1,SG))	գիտակիցներովս
+գիտակից	ADJ;INS(PL;PSS(2,SG))	գիտակիցներովդ
+գիտակից	ADJ;INS(SG;PSS(1,SG))	գիտակիցովս
+գիտակից	ADJ;LOC(PL)	գիտակիցներում
+գիտակից	ADJ;LOC(PL;PSS(1,SG))	գիտակիցներումս
+գիտակից	ADJ;LOC(PL;PSS(2,SG))	գիտակիցներումդ
+գիտակից	ADJ;LOC(SG)	գիտակիցում
+գիտակից	ADJ;LOC(SG;PSS(2,SG))	գիտակիցումդ
+գիտակից	ADJ;NOM(SG)	գիտակից
+գիտակից	ADJ;NOM(SG;PSS(1,SG))	գիտակիցս
+գնոստիկական	ADJ;ABL(PL)	գնոստիկականներից
+գնոստիկական	ADJ;ABL(PL;PSS(1,SG))	գնոստիկականներիցս
+գնոստիկական	ADJ;ABL(SG)	գնոստիկականից
+գնոստիկական	ADJ;ABL(SG;PSS(1,SG))	գնոստիկականիցս
+գնոստիկական	ADJ;DAT(PL;DEF)	գնոստիկականներին
+գնոստիկական	ADJ;DAT(PL;PSS(1,SG))	գնոստիկականներիս
+գնոստիկական	ADJ;DAT(PL;PSS(2,SG))	գնոստիկականներիդ
+գնոստիկական	ADJ;DAT(SG)	գնոստիկականի
+գնոստիկական	ADJ;INS(PL)	գնոստիկականներով
+գնոստիկական	ADJ;INS(PL;PSS(1,SG))	գնոստիկականներովս
+գնոստիկական	ADJ;INS(SG)	գնոստիկականով
+գնոստիկական	ADJ;LOC(PL)	գնոստիկականներում
+գնոստիկական	ADJ;LOC(PL;PSS(2,SG))	գնոստիկականներումդ
+գնոստիկական	ADJ;LOC(SG)	գնոստիկականում
+գնոստիկական	ADJ;LOC(SG;PSS(1,SG))	գնոստիկականումս
+գնոստիկական	ADJ;NOM(PL)	գնոստիկականներ
+գնոստիկական	ADJ;NOM(PL;PSS(1,SG))	գնոստիկականներս
+գնոստիկական	ADJ;NOM(PL;PSS(2,SG))	գնոստիկականներդ
+գնոստիկական	ADJ;NOM(SG;DEF)	գնոստիկականը
+գնոստիկական	ADJ;NOM(SG;PSS(1,SG))	գնոստիկականս
+գնոստիկական	ADJ;NOM(SG;PSS(2,SG))	գնոստիկականդ
+դայլայլել	V;FUT;COND;NEG;NOM(1,PL)	չենք դայլայլի
+դայլայլել	V;FUT;COND;NOM(1,SG)	կդայլայլեմ
+դայլայլել	V;FUT;COND;NOM(3,PL)	կդայլայլեն
+դայլայլել	V;FUT;IND;NEG;NOM(2,SG)	չես դայլայլելու
+դայլայլել	V;FUT;IND;NOM(2,SG)	դայլայլելու ես
+դայլայլել	V;FUT;PRF;COND;NOM(3,SG)	կդայլայլեր
+դայլայլել	V;FUT;PRF;SBJV;NEG;NOM(2,SG)	չդայլայլեիր
+դայլայլել	V;FUT;SBJV;NEG;NOM(1,PL)	չդայլայլենք
+դայլայլել	V;FUT;SBJV;NOM(1,PL)	դայլայլենք
+դայլայլել	V;IPFV;IND;NOM(2,SG)	դայլայլում էիր
+դայլայլել	V;NFIN	դայլայլել
+դայլայլել	V;PRS;IND;NEG;NOM(3,PL)	չեն դայլայլում
+դայլայլել	V;PRS;IND;NEG;NOM(3,SG)	չի դայլայլում
+դայլայլել	V;PST	դայլայլ
+դայլայլել	V;PST;IND;NEG;NOM(2,SG)	չդայլայլեցիր
+դայլայլել	V;PST;PRF;IND;NOM(1,PL)	դայլայլել էինք
+դայլայլել	V;V.CONV;IPFV	դայլայլում
+դայլայլել	V;V.CONV;PFV	դայլայլել
+դայլայլել	V;V.PTCP;SUB	դայլայլող
+երդ	N;ABL(PL;PSS(1,SG))	երդերիցս
+երդ	N;ABL(PL;PSS(2,SG))	երդերիցդ
+երդ	N;ABL(SG)	երդից
+երդ	N;ABL(SG;PSS(1,SG))	երդիցս
+երդ	N;DAT(PL)	երդերի
+երդ	N;DAT(PL;PSS(1,SG))	երդերիս
+երդ	N;DAT(PL;PSS(2,SG))	երդերիդ
+երդ	N;DAT(SG;DEF)	երդին
+երդ	N;DAT(SG;PSS(1,SG))	երդիս
+երդ	N;INS(SG)	երդով
+երդ	N;INS(SG;PSS(2,SG))	երդովդ
+երդ	N;LOC(PL)	երդերում
+երդ	N;LOC(PL;PSS(2,SG))	երդերումդ
+երդ	N;LOC(SG;PSS(2,SG))	երդումդ
+երդ	N;NOM(PL)	երդեր
+երդ	N;NOM(PL;DEF)	երդերը
+երդ	N;NOM(PL;PSS(1,SG))	երդերս
+երդ	N;NOM(SG)	երդ
+երդ	N;NOM(SG;PSS(1,SG))	երդս
+երդ	N;NOM(SG;PSS(2,SG))	երդդ
+զույգ	ADJ;ABL(SG)	զույգից
+զույգ	ADJ;ABL(SG;PSS(1,SG))	զույգիցս
+զույգ	ADJ;DAT(PL;DEF)	զույգերին
+զույգ	ADJ;DAT(PL;PSS(1,SG))	զույգերիս
+զույգ	ADJ;INS(PL)	զույգերով
+զույգ	ADJ;INS(SG;PSS(1,SG))	զույգովս
+զույգ	ADJ;LOC(SG;PSS(1,SG))	զույգումս
+զույգ	ADJ;NOM(PL;DEF)	զույգերը
+զույգ	N;ABL(PL)	զույգերից
+զույգ	N;ABL(SG)	զույգից
+զույգ	N;DAT(PL)	զույգերի
+զույգ	N;DAT(PL;PSS(2,SG))	զույգերիդ
+զույգ	N;DAT(SG;DEF)	զույգին
+զույգ	N;DAT(SG;PSS(1,SG))	զույգիս
+զույգ	N;INS(PL)	զույգերով
+զույգ	N;INS(PL;PSS(1,SG))	զույգերովս
+զույգ	N;INS(PL;PSS(2,SG))	զույգերովդ
+զույգ	N;INS(SG;PSS(2,SG))	զույգովդ
+զույգ	N;LOC(SG;PSS(2,SG))	զույգումդ
+զույգ	N;NOM(PL;PSS(2,SG))	զույգերդ
+զրահավոր	ADJ;ABL(PL)	զրահավորներից
+զրահավոր	ADJ;ABL(PL;PSS(2,SG))	զրահավորներիցդ
+զրահավոր	ADJ;DAT(SG)	զրահավորի
+զրահավոր	ADJ;INS(PL;PSS(1,SG))	զրահավորներովս
+զրահավոր	ADJ;INS(SG;PSS(2,SG))	զրահավորովդ
+զրահավոր	ADJ;LOC(PL;PSS(1,SG))	զրահավորներումս
+զրահավոր	ADJ;LOC(SG)	զրահավորում
+զրահավոր	ADJ;LOC(SG;PSS(1,SG))	զրահավորումս
+զրահավոր	ADJ;NOM(PL)	զրահավորներ
+զրահավոր	ADJ;NOM(SG;PSS(1,SG))	զրահավորս
+զրահավոր	ADJ;NOM(SG;PSS(2,SG))	զրահավորդ
+զրահավոր	N;ABL(SG)	զրահավորից
+զրահավոր	N;ABL(SG;PSS(2,SG))	զրահավորիցդ
+զրահավոր	N;DAT(PL;PSS(2,SG))	զրահավորներիդ
+զրահավոր	N;DAT(SG)	զրահավորի
+զրահավոր	N;INS(PL)	զրահավորներով
+զրահավոր	N;INS(PL;PSS(2,SG))	զրահավորներովդ
+զրահավոր	N;LOC(PL;PSS(2,SG))	զրահավորներումդ
+զրահավոր	N;NOM(SG;PSS(1,SG))	զրահավորս
+էրբիում	N;ABL(PL)	էրբիումներից
+էրբիում	N;ABL(PL;PSS(1,SG))	էրբիումներիցս
+էրբիում	N;ABL(PL;PSS(2,SG))	էրբիումներիցդ
+էրբիում	N;ABL(SG)	էրբիումից
+էրբիում	N;ABL(SG;PSS(1,SG))	էրբիումիցս
+էրբիում	N;ABL(SG;PSS(2,SG))	էրբիումիցդ
+էրբիում	N;DAT(PL)	էրբիումների
+էրբիում	N;DAT(PL;DEF)	էրբիումներին
+էրբիում	N;DAT(PL;PSS(1,SG))	էրբիումներիս
+էրբիում	N;DAT(PL;PSS(2,SG))	էրբիումներիդ
+էրբիում	N;DAT(SG;DEF)	էրբիումին
+էրբիում	N;DAT(SG;PSS(2,SG))	էրբիումիդ
+էրբիում	N;INS(PL;PSS(1,SG))	էրբիումներովս
+էրբիում	N;INS(PL;PSS(2,SG))	էրբիումներովդ
+էրբիում	N;INS(SG)	էրբիումով
+էրբիում	N;INS(SG;PSS(2,SG))	էրբիումովդ
+էրբիում	N;LOC(PL)	էրբիումներում
+էրբիում	N;LOC(SG;PSS(1,SG))	էրբիումումս
+էրբիում	N;NOM(PL;DEF)	էրբիումները
+էրբիում	N;NOM(SG;PSS(1,SG))	էրբիումս
+լավագույն	ADJ;ABL(PL)	լավագույններից
+լավագույն	ADJ;ABL(PL;PSS(1,SG))	լավագույններիցս
+լավագույն	ADJ;ABL(PL;PSS(2,SG))	լավագույններիցդ
+լավագույն	ADJ;ABL(SG)	լավագույնից
+լավագույն	ADJ;ABL(SG;PSS(1,SG))	լավագույնիցս
+լավագույն	ADJ;ABL(SG;PSS(2,SG))	լավագույնիցդ
+լավագույն	ADJ;DAT(PL)	լավագույնների
+լավագույն	ADJ;DAT(PL;DEF)	լավագույններին
+լավագույն	ADJ;DAT(PL;PSS(1,SG))	լավագույններիս
+լավագույն	ADJ;DAT(PL;PSS(2,SG))	լավագույններիդ
+լավագույն	ADJ;DAT(SG;DEF)	լավագույնին
+լավագույն	ADJ;INS(PL)	լավագույններով
+լավագույն	ADJ;INS(PL;PSS(2,SG))	լավագույններովդ
+լավագույն	ADJ;INS(SG)	լավագույնով
+լավագույն	ADJ;INS(SG;PSS(1,SG))	լավագույնովս
+լավագույն	ADJ;NOM(PL)	լավագույններ
+լավագույն	ADJ;NOM(PL;PSS(1,SG))	լավագույններս
+լավագույն	ADJ;NOM(PL;PSS(2,SG))	լավագույններդ
+լավագույն	ADJ;NOM(SG;DEF)	լավագույնը
+լավագույն	ADJ;NOM(SG;PSS(2,SG))	լավագույնդ
+լոլիկ	N;ABL(PL)	լոլիկներից
+լոլիկ	N;ABL(PL;PSS(1,SG))	լոլիկներիցս
+լոլիկ	N;ABL(SG)	լոլիկից
+լոլիկ	N;ABL(SG;PSS(1,SG))	լոլիկիցս
+լոլիկ	N;ABL(SG;PSS(2,SG))	լոլիկիցդ
+լոլիկ	N;DAT(PL;PSS(2,SG))	լոլիկներիդ
+լոլիկ	N;DAT(SG)	լոլիկի
+լոլիկ	N;INS(PL)	լոլիկներով
+լոլիկ	N;INS(PL;PSS(1,SG))	լոլիկներովս
+լոլիկ	N;INS(PL;PSS(2,SG))	լոլիկներովդ
+լոլիկ	N;INS(SG)	լոլիկով
+լոլիկ	N;LOC(PL;PSS(1,SG))	լոլիկներումս
+լոլիկ	N;LOC(PL;PSS(2,SG))	լոլիկներումդ
+լոլիկ	N;NOM(PL)	լոլիկներ
+լոլիկ	N;NOM(PL;PSS(1,SG))	լոլիկներս
+լոլիկ	N;NOM(PL;PSS(2,SG))	լոլիկներդ
+լոլիկ	N;NOM(SG;DEF)	լոլիկը
+լոլիկ	N;NOM(SG;PSS(1,SG))	լոլիկս
+լոլիկ	N;NOM(SG;PSS(2,SG))	լոլիկդ
+լորամարգ	N;ABL(PL)	լորամարգերից
+լորամարգ	N;ABL(PL;PSS(2,SG))	լորամարգերիցդ
+լորամարգ	N;ABL(SG;PSS(1,SG))	լորամարգիցս
+լորամարգ	N;DAT(PL)	լորամարգերի
+լորամարգ	N;DAT(PL;DEF)	լորամարգերին
+լորամարգ	N;DAT(PL;PSS(1,SG))	լորամարգերիս
+լորամարգ	N;DAT(PL;PSS(2,SG))	լորամարգերիդ
+լորամարգ	N;DAT(SG)	լորամարգի
+լորամարգ	N;DAT(SG;DEF)	լորամարգին
+լորամարգ	N;INS(PL)	լորամարգերով
+լորամարգ	N;INS(PL;PSS(1,SG))	լորամարգերովս
+լորամարգ	N;INS(SG)	լորամարգով
+լորամարգ	N;INS(SG;PSS(1,SG))	լորամարգովս
+լորամարգ	N;INS(SG;PSS(2,SG))	լորամարգովդ
+լորամարգ	N;NOM(PL)	լորամարգեր
+լորամարգ	N;NOM(PL;DEF)	լորամարգերը
+լորամարգ	N;NOM(PL;PSS(2,SG))	լորամարգերդ
+լորամարգ	N;NOM(SG;DEF)	լորամարգը
+լորամարգ	N;NOM(SG;PSS(1,SG))	լորամարգս
+լորամարգ	N;NOM(SG;PSS(2,SG))	լորամարգդ
+խեթկել	V;FUT;COND;NEG;NOM(2,PL)	չեք խեթկի
+խեթկել	V;FUT;COND;NOM(1,PL)	կխեթկենք
+խեթկել	V;FUT;COND;NOM(3,PL)	կխեթկեն
+խեթկել	V;FUT;COND;NOM(3,SG)	կխեթկի
+խեթկել	V;FUT;IND;NEG;NOM(1,SG)	չեմ խեթկելու
+խեթկել	V;FUT;PRF;COND;NEG;NOM(2,PL)	չէիք խեթկի
+խեթկել	V;FUT;PRF;COND;NOM(2,SG)	կխեթկեիր
+խեթկել	V;FUT;PRF;IND;NEG;NOM(1,SG)	չէի խեթկելու
+խեթկել	V;FUT;PRF;SBJV;NEG;NOM(2,PL)	չխեթկեիք
+խեթկել	V;FUT;PRF;SBJV;NEG;NOM(3,PL)	չխեթկեին
+խեթկել	V;FUT;SBJV;NEG;NOM(1,PL)	չխեթկենք
+խեթկել	V;FUT;SBJV;NOM(3,PL)	խեթկեն
+խեթկել	V;IMP;NEG;NOM(2,SG)	մի՛ խեթկիր
+խեթկել	V;NFIN	խեթկել
+խեթկել	V;PRS;PRF;IND;NEG;NOM(1,PL)	չենք խեթկել
+խեթկել	V;PST;IND;NOM(3,PL)	խեթկեցին
+խեթկել	V;PST;PRF;IND;NEG;NOM(1,PL)	չէինք խեթկել
+խեթկել	V;PST;PRF;IND;NEG;NOM(2,SG)	չէիր խեթկել
+խեթկել	V;PST;PRF;IND;NEG;NOM(3,PL)	չէին խեթկել
+խեթկել	V;V.CONV;CONN	խեթկի
+խեթկել	V;V.CONV;PFV	խեթկել
+խոչընդոտ	N;ABL(PL;PSS(1,SG))	խոչընդոտներիցս
+խոչընդոտ	N;ABL(SG)	խոչընդոտից
+խոչընդոտ	N;ABL(SG;PSS(1,SG))	խոչընդոտիցս
+խոչընդոտ	N;DAT(PL)	խոչընդոտների
+խոչընդոտ	N;DAT(PL;PSS(1,SG))	խոչընդոտներիս
+խոչընդոտ	N;DAT(PL;PSS(2,SG))	խոչընդոտներիդ
+խոչընդոտ	N;DAT(SG;DEF)	խոչընդոտին
+խոչընդոտ	N;DAT(SG;PSS(2,SG))	խոչընդոտիդ
+խոչընդոտ	N;INS(PL)	խոչընդոտներով
+խոչընդոտ	N;INS(PL;PSS(2,SG))	խոչընդոտներովդ
+խոչընդոտ	N;INS(SG;PSS(2,SG))	խոչընդոտովդ
+խոչընդոտ	N;LOC(PL)	խոչընդոտներում
+խոչընդոտ	N;LOC(SG)	խոչընդոտում
+խոչընդոտ	N;LOC(SG;PSS(1,SG))	խոչընդոտումս
+խոչընդոտ	N;LOC(SG;PSS(2,SG))	խոչընդոտումդ
+խոչընդոտ	N;NOM(PL;DEF)	խոչընդոտները
+խոչընդոտ	N;NOM(PL;PSS(1,SG))	խոչընդոտներս
+խոչընդոտ	N;NOM(PL;PSS(2,SG))	խոչընդոտներդ
+խոչընդոտ	N;NOM(SG)	խոչընդոտ
+խոչընդոտ	N;NOM(SG;PSS(2,SG))	խոչընդոտդ
+խոպոպացվել	V;FUT;IND;NEG;NOM(2,SG)	չես խոպոպացվելու
+խոպոպացվել	V;FUT;IND;NOM(1,PL)	խոպոպացվելու ենք
+խոպոպացվել	V;FUT;PRF;COND;NEG;NOM(1,SG)	չէի խոպոպացվի
+խոպոպացվել	V;FUT;PRF;COND;NOM(1,SG)	կխոպոպացվեի
+խոպոպացվել	V;FUT;PRF;COND;NOM(3,SG)	կխոպոպացվեր
+խոպոպացվել	V;FUT;PRF;IND;NEG;NOM(3,SG)	չէր խոպոպացվելու
+խոպոպացվել	V;FUT;PRF;SBJV;NEG;NOM(2,SG)	չխոպոպացվեիր
+խոպոպացվել	V;FUT;PRF;SBJV;NOM(3,SG)	խոպոպացվեր
+խոպոպացվել	V;FUT;SBJV;NEG;NOM(1,SG)	չխոպոպացվեմ
+խոպոպացվել	V;FUT;SBJV;NEG;NOM(3,SG)	չխոպոպացվի
+խոպոպացվել	V;FUT;SBJV;NOM(1,PL)	խոպոպացվենք
+խոպոպացվել	V;IPFV;IND;NEG;NOM(1,SG)	չէի խոպոպացվում
+խոպոպացվել	V;IPFV;IND;NOM(1,SG)	խոպոպացվում էի
+խոպոպացվել	V;IPFV;IND;NOM(2,PL)	խոպոպացվում էիք
+խոպոպացվել	V;NFIN	խոպոպացվել
+խոպոպացվել	V;NFIN;NEG	չխոպոպացվել
+խոպոպացվել	V;PRS;IND;NEG;NOM(1,PL)	չենք խոպոպացվում
+խոպոպացվել	V;PRS;IND;NOM(1,SG)	խոպոպացվում եմ
+խոպոպացվել	V;PST	խոպոպացվ
+խոպոպացվել	V;PST;IND;NEG;NOM(1,PL)	չխոպոպացվեցինք
+խոր	ADJ;ABL(PL)	խորերից
+խոր	ADJ;ABL(SG)	խորից
+խոր	ADJ;ABL(SG;PSS(1,SG))	խորիցս
+խոր	ADJ;ABL(SG;PSS(2,SG))	խորիցդ
+խոր	ADJ;DAT(PL)	խորերի
+խոր	ADJ;DAT(PL;DEF)	խորերին
+խոր	ADJ;DAT(PL;PSS(1,SG))	խորերիս
+խոր	ADJ;DAT(PL;PSS(2,SG))	խորերիդ
+խոր	ADJ;DAT(SG)	խորի
+խոր	ADJ;DAT(SG;DEF)	խորին
+խոր	ADJ;DAT(SG;PSS(1,SG))	խորիս
+խոր	ADJ;DAT(SG;PSS(2,SG))	խորիդ
+խոր	ADJ;INS(PL)	խորերով
+խոր	ADJ;INS(PL;PSS(1,SG))	խորերովս
+խոր	ADJ;INS(SG;PSS(1,SG))	խորովս
+խոր	ADJ;INS(SG;PSS(2,SG))	խորովդ
+խոր	ADJ;LOC(PL;PSS(1,SG))	խորերումս
+խոր	ADJ;LOC(SG;PSS(1,SG))	խորումս
+խոր	ADJ;NOM(PL;PSS(2,SG))	խորերդ
+խոր	ADJ;NOM(SG)	խոր
+խոր	ADJ;NOM(SG;DEF)	խորը
+կարգիչ	N;ABL(PL)	կարգիչներից
+կարգիչ	N;ABL(PL;PSS(1,SG))	կարգիչներիցս
+կարգիչ	N;ABL(PL;PSS(2,SG))	կարգիչներիցդ
+կարգիչ	N;ABL(SG;PSS(1,SG))	կարգչիցս
+կարգիչ	N;ABL(SG;PSS(2,SG))	կարգչիցդ
+կարգիչ	N;DAT(PL)	կարգիչների
+կարգիչ	N;DAT(PL;PSS(2,SG))	կարգիչներիդ
+կարգիչ	N;DAT(SG;DEF)	կարգչին
+կարգիչ	N;DAT(SG;PSS(1,SG))	կարգչիս
+կարգիչ	N;DAT(SG;PSS(2,SG))	կարգչիդ
+կարգիչ	N;INS(PL)	կարգիչներով
+կարգիչ	N;INS(PL;PSS(1,SG))	կարգիչներովս
+կարգիչ	N;INS(SG)	կարգչով
+կարգիչ	N;INS(SG;PSS(1,SG))	կարգչովս
+կարգիչ	N;INS(SG;PSS(2,SG))	կարգչովդ
+կարգիչ	N;NOM(PL)	կարգիչներ
+կարգիչ	N;NOM(PL;DEF)	կարգիչները
+կարգիչ	N;NOM(PL;PSS(1,SG))	կարգիչներս
+կարգիչ	N;NOM(SG)	կարգիչ
+կարգիչ	N;NOM(SG;DEF)	կարգիչը
+կենսալից	ADJ;ABL(PL;PSS(2,SG))	կենսալիցներիցդ
+կենսալից	ADJ;ABL(SG;PSS(1,SG))	կենսալիցիցս
+կենսալից	ADJ;ABL(SG;PSS(2,SG))	կենսալիցիցդ
+կենսալից	ADJ;DAT(PL)	կենսալիցների
+կենսալից	ADJ;DAT(PL;DEF)	կենսալիցներին
+կենսալից	ADJ;DAT(PL;PSS(2,SG))	կենսալիցներիդ
+կենսալից	ADJ;DAT(SG)	կենսալիցի
+կենսալից	ADJ;DAT(SG;PSS(1,SG))	կենսալիցիս
+կենսալից	ADJ;DAT(SG;PSS(2,SG))	կենսալիցիդ
+կենսալից	ADJ;INS(SG)	կենսալիցով
+կենսալից	ADJ;INS(SG;PSS(1,SG))	կենսալիցովս
+կենսալից	ADJ;INS(SG;PSS(2,SG))	կենսալիցովդ
+կենսալից	ADJ;LOC(PL)	կենսալիցներում
+կենսալից	ADJ;LOC(PL;PSS(1,SG))	կենսալիցներումս
+կենսալից	ADJ;LOC(PL;PSS(2,SG))	կենսալիցներումդ
+կենսալից	ADJ;LOC(SG)	կենսալիցում
+կենսալից	ADJ;LOC(SG;PSS(1,SG))	կենսալիցումս
+կենսալից	ADJ;NOM(PL;PSS(1,SG))	կենսալիցներս
+կենսալից	ADJ;NOM(PL;PSS(2,SG))	կենսալիցներդ
+կենսալից	ADJ;NOM(SG)	կենսալից
+կորնչել	V;FUT;COND;NOM(1,SG)	կկորնչեմ
+կորնչել	V;FUT;COND;NOM(2,PL)	կկորնչեք
+կորնչել	V;FUT;IND;NEG;NOM(1,PL)	չենք կորնչելու
+կորնչել	V;FUT;IND;NEG;NOM(2,PL)	չեք կորնչելու
+կորնչել	V;FUT;PRF;IND;NOM(1,PL)	կորնչելու էինք
+կորնչել	V;IPFV;IND;NEG;NOM(1,SG)	չէի կորնչում
+կորնչել	V;IPFV;IND;NOM(1,SG)	կորնչում էի
+կորնչել	V;IPFV;IND;NOM(3,PL)	կորնչում էին
+կորնչել	V;NFIN;NEG	չկորնչել
+կորնչել	V;PRS;IND;NEG;NOM(1,SG)	չեմ կորնչում
+կորնչել	V;PRS;IND;NEG;NOM(3,SG)	չի կորնչում
+կորնչել	V;PRS;PRF;IND;NEG;NOM(1,SG)	չեմ կորնչել
+կորնչել	V;PRS;PRF;IND;NOM(2,SG)	կորնչել ես
+կորնչել	V;PRS;PRF;IND;NOM(3,SG)	կորնչել է
+կորնչել	V;PST;IND;NEG;NOM(1,SG)	չկորնչեցի
+կորնչել	V;PST;IND;NEG;NOM(2,SG)	չկորնչեցիր
+կորնչել	V;PST;PRF;IND;NEG;NOM(1,PL)	չէինք կորնչել
+կորնչել	V;PST;PRF;IND;NEG;NOM(2,SG)	չէիր կորնչել
+կորնչել	V;PST;PRF;IND;NEG;NOM(3,PL)	չէին կորնչել
+կորնչել	V;V.CONV;CONN;NEG	չկորնչի
+կռիչք	N;ABL(PL)	կռիչքներից
+կռիչք	N;ABL(PL;PSS(1,SG))	կռիչքներիցս
+կռիչք	N;ABL(SG)	կռիչքից
+կռիչք	N;ABL(SG;PSS(1,SG))	կռիչքիցս
+կռիչք	N;DAT(PL)	կռիչքների
+կռիչք	N;DAT(PL;DEF)	կռիչքներին
+կռիչք	N;DAT(PL;PSS(1,SG))	կռիչքներիս
+կռիչք	N;DAT(SG;PSS(1,SG))	կռիչքիս
+կռիչք	N;INS(PL)	կռիչքներով
+կռիչք	N;INS(PL;PSS(1,SG))	կռիչքներովս
+կռիչք	N;INS(SG;PSS(1,SG))	կռիչքովս
+կռիչք	N;INS(SG;PSS(2,SG))	կռիչքովդ
+կռիչք	N;LOC(PL)	կռիչքներում
+կռիչք	N;LOC(PL;PSS(2,SG))	կռիչքներումդ
+կռիչք	N;LOC(SG;PSS(1,SG))	կռիչքումս
+կռիչք	N;LOC(SG;PSS(2,SG))	կռիչքումդ
+կռիչք	N;NOM(PL)	կռիչքներ
+կռիչք	N;NOM(PL;DEF)	կռիչքները
+կռիչք	N;NOM(PL;PSS(1,SG))	կռիչքներս
+կռիչք	N;NOM(SG)	կռիչք
+կռիչք	N;NOM(SG;PSS(1,SG))	կռիչքս
+համակարգել	V;FUT;PRF;COND;NEG;NOM(1,PL)	չէինք համակարգի
+համակարգել	V;FUT;PRF;COND;NEG;NOM(1,SG)	չէի համակարգի
+համակարգել	V;FUT;PRF;COND;NEG;NOM(2,PL)	չէիք համակարգի
+համակարգել	V;FUT;PRF;COND;NOM(1,PL)	կհամակարգեինք
+համակարգել	V;FUT;PRF;COND;NOM(2,SG)	կհամակարգեիր
+համակարգել	V;FUT;PRF;IND;NOM(3,PL)	համակարգելու էին
+համակարգել	V;FUT;PRF;SBJV;NOM(1,PL)	համակարգեինք
+համակարգել	V;FUT;PRF;SBJV;NOM(2,SG)	համակարգեիր
+համակարգել	V;FUT;SBJV;NEG;NOM(3,PL)	չհամակարգեն
+համակարգել	V;IMP;NOM(2,SG)	համակարգի՛ր
+համակարգել	V;IPFV;IND;NOM(3,SG)	համակարգում էր
+համակարգել	V;PRS;IND;NEG;NOM(2,PL)	չեք համակարգում
+համակարգել	V;PRS;IND;NOM(1,SG)	համակարգում եմ
+համակարգել	V;PRS;IND;NOM(3,PL)	համակարգում են
+համակարգել	V;PRS;PRF;IND;NEG;NOM(1,SG)	չեմ համակարգել
+համակարգել	V;PRS;PRF;IND;NOM(1,PL)	համակարգել ենք
+համակարգել	V;PST;PRF;IND;NOM(2,SG)	համակարգել էիր
+համակարգել	V;PST;PRF;IND;NOM(3,SG)	համակարգել էր
+համակարգել	V;V.CONV;PFV	համակարգել
+համակարգել	V;V.PTCP;RES	համակարգած
+հասուն	ADJ;ABL(PL)	հասուններից
+հասուն	ADJ;ABL(PL;PSS(1,SG))	հասուններիցս
+հասուն	ADJ;ABL(PL;PSS(2,SG))	հասուններիցդ
+հասուն	ADJ;ABL(SG;PSS(1,SG))	հասունիցս
+հասուն	ADJ;DAT(PL;DEF)	հասուններին
+հասուն	ADJ;DAT(PL;PSS(2,SG))	հասուններիդ
+հասուն	ADJ;DAT(SG)	հասունի
+հասուն	ADJ;DAT(SG;DEF)	հասունին
+հասուն	ADJ;DAT(SG;PSS(2,SG))	հասունիդ
+հասուն	ADJ;INS(PL;PSS(1,SG))	հասուններովս
+հասուն	ADJ;INS(PL;PSS(2,SG))	հասուններովդ
+հասուն	ADJ;INS(SG;PSS(1,SG))	հասունովս
+հասուն	ADJ;LOC(PL)	հասուններում
+հասուն	ADJ;LOC(PL;PSS(1,SG))	հասուններումս
+հասուն	ADJ;LOC(SG;PSS(2,SG))	հասունումդ
+հասուն	ADJ;NOM(PL)	հասուններ
+հասուն	ADJ;NOM(PL;DEF)	հասունները
+հասուն	ADJ;NOM(PL;PSS(2,SG))	հասուններդ
+հասուն	ADJ;NOM(SG;DEF)	հասունը
+հասուն	ADJ;NOM(SG;PSS(1,SG))	հասունս
+հասուն	ADJ;NOM(SG;PSS(2,SG))	հասունդ
+հեռու	ADJ;ABL(PL;PSS(1,SG))	հեռուներիցս
+հեռու	ADJ;ABL(PL;PSS(2,SG))	հեռուներիցդ
+հեռու	ADJ;ABL(SG)	հեռվից
+հեռու	ADJ;DAT(PL)	հեռուների
+հեռու	ADJ;DAT(PL;PSS(2,SG))	հեռուներիդ
+հեռու	ADJ;DAT(SG)	հեռվի
+հեռու	ADJ;DAT(SG;DEF)	հեռվին
+հեռու	ADJ;DAT(SG;PSS(1,SG))	հեռվիս
+հեռու	ADJ;DAT(SG;PSS(2,SG))	հեռվիդ
+հեռու	ADJ;INS(PL)	հեռուներով
+հեռու	ADJ;INS(PL;PSS(2,SG))	հեռուներովդ
+հեռու	ADJ;INS(SG;PSS(1,SG))	հեռվովս
+հեռու	ADJ;LOC(PL;PSS(1,SG))	հեռուներումս
+հեռու	ADJ;LOC(SG;PSS(1,SG))	հեռվումս
+հեռու	ADJ;LOC(SG;PSS(2,SG))	հեռվումդ
+հեռու	ADJ;NOM(PL)	հեռուներ
+հեռու	ADJ;NOM(PL;DEF)	հեռուները
+հեռու	ADJ;NOM(PL;PSS(2,SG))	հեռուներդ
+հեռու	ADJ;NOM(SG)	հեռու
+հեռու	ADJ;NOM(SG;DEF)	հեռուն
+հեռու	ADJ;NOM(SG;PSS(2,SG))	հեռուդ
+հուզել	V;FUT;COND;NOM(3,PL)	կհուզեն
+հուզել	V;FUT;COND;NOM(3,SG)	կհուզի
+հուզել	V;FUT;IND;NOM(1,PL)	հուզելու ենք
+հուզել	V;FUT;PRF;COND;NOM(2,PL)	կհուզեիք
+հուզել	V;FUT;PRF;IND;NEG;NOM(1,SG)	չէի հուզելու
+հուզել	V;FUT;PRF;IND;NOM(3,PL)	հուզելու էին
+հուզել	V;FUT;PRF;SBJV;NEG;NOM(3,PL)	չհուզեին
+հուզել	V;FUT;PRF;SBJV;NOM(1,SG)	հուզեի
+հուզել	V;FUT;SBJV;NEG;NOM(2,SG)	չհուզես
+հուզել	V;FUT;SBJV;NOM(1,SG)	հուզեմ
+հուզել	V;FUT;SBJV;NOM(3,SG)	հուզի
+հուզել	V;IPFV;IND;NEG;NOM(1,PL)	չէինք հուզում
+հուզել	V;IPFV;IND;NEG;NOM(2,PL)	չէիք հուզում
+հուզել	V;PRS;IND;NEG;NOM(2,SG)	չես հուզում
+հուզել	V;PRS;IND;NEG;NOM(3,SG)	չի հուզում
+հուզել	V;PRS;IND;NOM(1,PL)	հուզում ենք
+հուզել	V;PRS;IND;NOM(3,PL)	հուզում են
+հուզել	V;PRS;PRF;IND;NEG;NOM(1,PL)	չենք հուզել
+հուզել	V;PST	հուզ
+հուզել	V;PST;PRF;IND;NOM(1,PL)	հուզել էինք
+հուզել	V;V.CONV;FUT1	հուզելու
+հրաշք	N;ABL(PL)	հրաշքներից
+հրաշք	N;ABL(PL;PSS(2,SG))	հրաշքներիցդ
+հրաշք	N;ABL(SG;PSS(2,SG))	հրաշքիցդ
+հրաշք	N;DAT(PL)	հրաշքների
+հրաշք	N;DAT(SG)	հրաշքի
+հրաշք	N;DAT(SG;DEF)	հրաշքին
+հրաշք	N;DAT(SG;PSS(1,SG))	հրաշքիս
+հրաշք	N;DAT(SG;PSS(2,SG))	հրաշքիդ
+հրաշք	N;INS(PL)	հրաշքներով
+հրաշք	N;INS(PL;PSS(1,SG))	հրաշքներովս
+հրաշք	N;INS(PL;PSS(2,SG))	հրաշքներովդ
+հրաշք	N;LOC(PL;PSS(1,SG))	հրաշքներումս
+հրաշք	N;LOC(PL;PSS(2,SG))	հրաշքներումդ
+հրաշք	N;LOC(SG)	հրաշքում
+հրաշք	N;LOC(SG;PSS(1,SG))	հրաշքումս
+հրաշք	N;LOC(SG;PSS(2,SG))	հրաշքումդ
+հրաշք	N;NOM(PL;DEF)	հրաշքները
+հրաշք	N;NOM(PL;PSS(2,SG))	հրաշքներդ
+հրաշք	N;NOM(SG;DEF)	հրաշքը
+հրաշք	N;NOM(SG;PSS(1,SG))	հրաշքս
+հրաշք	N;NOM(SG;PSS(2,SG))	հրաշքդ
+հրեական	ADJ;ABL(PL)	հրեականներից
+հրեական	ADJ;ABL(PL;PSS(2,SG))	հրեականներիցդ
+հրեական	ADJ;ABL(SG)	հրեականից
+հրեական	ADJ;ABL(SG;PSS(2,SG))	հրեականիցդ
+հրեական	ADJ;DAT(PL;DEF)	հրեականներին
+հրեական	ADJ;DAT(PL;PSS(1,SG))	հրեականներիս
+հրեական	ADJ;DAT(PL;PSS(2,SG))	հրեականներիդ
+հրեական	ADJ;DAT(SG)	հրեականի
+հրեական	ADJ;DAT(SG;DEF)	հրեականին
+հրեական	ADJ;DAT(SG;PSS(2,SG))	հրեականիդ
+հրեական	ADJ;INS(PL)	հրեականներով
+հրեական	ADJ;INS(PL;PSS(1,SG))	հրեականներովս
+հրեական	ADJ;INS(SG)	հրեականով
+հրեական	ADJ;INS(SG;PSS(2,SG))	հրեականովդ
+հրեական	ADJ;LOC(PL)	հրեականներում
+հրեական	ADJ;LOC(SG)	հրեականում
+հրեական	ADJ;LOC(SG;PSS(2,SG))	հրեականումդ
+հրեական	ADJ;NOM(PL)	հրեականներ
+հրեական	ADJ;NOM(PL;PSS(2,SG))	հրեականներդ
+հրեական	ADJ;NOM(SG)	հրեական
+հրեական	ADJ;NOM(SG;DEF)	հրեականը
+ճոռոմաբան	ADJ;ABL(SG;PSS(1,SG))	ճոռոմաբանիցս
+ճոռոմաբան	ADJ;DAT(PL;PSS(1,SG))	ճոռոմաբաններիս
+ճոռոմաբան	ADJ;DAT(SG;PSS(1,SG))	ճոռոմաբանիս
+ճոռոմաբան	ADJ;DAT(SG;PSS(2,SG))	ճոռոմաբանիդ
+ճոռոմաբան	ADJ;INS(PL)	ճոռոմաբաններով
+ճոռոմաբան	ADJ;LOC(SG)	ճոռոմաբանում
+ճոռոմաբան	ADJ;NOM(PL)	ճոռոմաբաններ
+ճոռոմաբան	ADJ;NOM(PL;PSS(1,SG))	ճոռոմաբաններս
+ճոռոմաբան	ADJ;NOM(SG)	ճոռոմաբան
+ճոռոմաբան	ADJ;NOM(SG;DEF)	ճոռոմաբանը
+ճոռոմաբան	ADJ;NOM(SG;PSS(2,SG))	ճոռոմաբանդ
+ճոռոմաբան	N;ABL(PL;PSS(1,SG))	ճոռոմաբաններիցս
+ճոռոմաբան	N;DAT(PL)	ճոռոմաբանների
+ճոռոմաբան	N;DAT(PL;DEF)	ճոռոմաբաններին
+ճոռոմաբան	N;DAT(PL;PSS(1,SG))	ճոռոմաբաններիս
+ճոռոմաբան	N;DAT(SG;PSS(1,SG))	ճոռոմաբանիս
+ճոռոմաբան	N;DAT(SG;PSS(2,SG))	ճոռոմաբանիդ
+ճոռոմաբան	N;INS(PL)	ճոռոմաբաններով
+ճոռոմաբան	N;INS(SG)	ճոռոմաբանով
+ճոռոմաբան	N;NOM(PL;PSS(1,SG))	ճոռոմաբաններս
+ճոռոմաբան	N;NOM(SG)	ճոռոմաբան
+մեծատառ	ADJ;ABL(PL;PSS(2,SG))	մեծատառերիցդ
+մեծատառ	ADJ;ABL(SG;PSS(2,SG))	մեծատառիցդ
+մեծատառ	ADJ;DAT(PL)	մեծատառերի
+մեծատառ	ADJ;DAT(PL;PSS(2,SG))	մեծատառերիդ
+մեծատառ	ADJ;DAT(SG;DEF)	մեծատառին
+մեծատառ	ADJ;INS(PL;PSS(1,SG))	մեծատառերովս
+մեծատառ	ADJ;INS(SG)	մեծատառով
+մեծատառ	ADJ;LOC(PL;PSS(1,SG))	մեծատառերումս
+մեծատառ	ADJ;LOC(PL;PSS(2,SG))	մեծատառերումդ
+մեծատառ	ADJ;LOC(SG)	մեծատառում
+մեծատառ	ADJ;NOM(PL)	մեծատառեր
+մեծատառ	ADJ;NOM(PL;DEF)	մեծատառերը
+մեծատառ	ADJ;NOM(SG)	մեծատառ
+մեծատառ	N;DAT(PL;PSS(2,SG))	մեծատառերիդ
+մեծատառ	N;INS(PL;PSS(1,SG))	մեծատառերովս
+մեծատառ	N;INS(SG;PSS(1,SG))	մեծատառովս
+մեծատառ	N;LOC(PL)	մեծատառերում
+մեծատառ	N;NOM(PL)	մեծատառեր
+մեծատառ	N;NOM(PL;DEF)	մեծատառերը
+մեքսիկ	N;ABL(PL;PSS(1,SG))	մեքսիկներիցս
+մեքսիկ	N;ABL(PL;PSS(2,SG))	մեքսիկներիցդ
+մեքսիկ	N;ABL(SG)	մեքսիկից
+մեքսիկ	N;ABL(SG;PSS(1,SG))	մեքսիկիցս
+մեքսիկ	N;DAT(PL;DEF)	մեքսիկներին
+մեքսիկ	N;DAT(PL;PSS(1,SG))	մեքսիկներիս
+մեքսիկ	N;DAT(SG)	մեքսիկի
+մեքսիկ	N;INS(PL)	մեքսիկներով
+մեքսիկ	N;INS(PL;PSS(2,SG))	մեքսիկներովդ
+մեքսիկ	N;INS(SG)	մեքսիկով
+մեքսիկ	N;INS(SG;PSS(1,SG))	մեքսիկովս
+մեքսիկ	N;INS(SG;PSS(2,SG))	մեքսիկովդ
+մեքսիկ	N;NOM(PL;DEF)	մեքսիկները
+մեքսիկ	N;NOM(PL;PSS(1,SG))	մեքսիկներս
+մեքսիկ	N;NOM(SG)	մեքսիկ
+մեքսիկ	N;NOM(SG;DEF)	մեքսիկը
+մեքսիկ	N;NOM(SG;PSS(1,SG))	մեքսիկս
+միջատաբան	N;ABL(PL)	միջատաբաններից
+միջատաբան	N;ABL(PL;PSS(2,SG))	միջատաբաններիցդ
+միջատաբան	N;ABL(SG;PSS(1,SG))	միջատաբանիցս
+միջատաբան	N;ABL(SG;PSS(2,SG))	միջատաբանիցդ
+միջատաբան	N;DAT(PL)	միջատաբանների
+միջատաբան	N;DAT(PL;DEF)	միջատաբաններին
+միջատաբան	N;DAT(PL;PSS(1,SG))	միջատաբաններիս
+միջատաբան	N;DAT(SG)	միջատաբանի
+միջատաբան	N;DAT(SG;DEF)	միջատաբանին
+միջատաբան	N;DAT(SG;PSS(1,SG))	միջատաբանիս
+միջատաբան	N;DAT(SG;PSS(2,SG))	միջատաբանիդ
+միջատաբան	N;INS(PL)	միջատաբաններով
+միջատաբան	N;INS(PL;PSS(1,SG))	միջատաբաններովս
+միջատաբան	N;INS(SG;PSS(1,SG))	միջատաբանովս
+միջատաբան	N;INS(SG;PSS(2,SG))	միջատաբանովդ
+միջատաբան	N;NOM(PL)	միջատաբաններ
+միջատաբան	N;NOM(PL;DEF)	միջատաբանները
+միջատաբան	N;NOM(PL;PSS(1,SG))	միջատաբաններս
+միջատաբան	N;NOM(PL;PSS(2,SG))	միջատաբաններդ
+միջատաբան	N;NOM(SG;DEF)	միջատաբանը
+նվաղել	V;FUT;COND;NOM(1,SG)	կնվաղեմ
+նվաղել	V;FUT;COND;NOM(2,PL)	կնվաղեք
+նվաղել	V;FUT;COND;NOM(3,PL)	կնվաղեն
+նվաղել	V;FUT;IND;NEG;NOM(2,PL)	չեք նվաղելու
+նվաղել	V;FUT;PRF;COND;NEG;NOM(1,SG)	չէի նվաղի
+նվաղել	V;FUT;PRF;COND;NEG;NOM(2,PL)	չէիք նվաղի
+նվաղել	V;FUT;PRF;COND;NOM(1,PL)	կնվաղեինք
+նվաղել	V;FUT;PRF;IND;NEG;NOM(1,SG)	չէի նվաղելու
+նվաղել	V;FUT;PRF;IND;NOM(3,PL)	նվաղելու էին
+նվաղել	V;FUT;PRF;SBJV;NEG;NOM(2,PL)	չնվաղեիք
+նվաղել	V;FUT;PRF;SBJV;NEG;NOM(3,PL)	չնվաղեին
+նվաղել	V;FUT;PRF;SBJV;NEG;NOM(3,SG)	չնվաղեր
+նվաղել	V;FUT;PRF;SBJV;NOM(1,PL)	նվաղեինք
+նվաղել	V;FUT;SBJV;NEG;NOM(2,PL)	չնվաղեք
+նվաղել	V;FUT;SBJV;NEG;NOM(3,PL)	չնվաղեն
+նվաղել	V;IMP;NEG;NOM(2,PL)	մի՛ նվաղեք
+նվաղել	V;IPFV;IND;NEG;NOM(2,PL)	չէիք նվաղում
+նվաղել	V;PRS;PRF;IND;NEG;NOM(2,PL)	չեք նվաղել
+նվաղել	V;PRS;PRF;IND;NOM(2,SG)	նվաղել ես
+նվաղել	V;PST;PRF;IND;NOM(1,PL)	նվաղել էինք
+ոստնել	V;FUT;IND;NEG;NOM(1,PL)	չենք ոստնելու
+ոստնել	V;FUT;IND;NEG;NOM(2,SG)	չես ոստնելու
+ոստնել	V;FUT;IND;NOM(1,SG)	ոստնելու եմ
+ոստնել	V;FUT;PRF;COND;NOM(3,PL)	կոստնեին
+ոստնել	V;FUT;PRF;IND;NOM(1,SG)	ոստնելու էի
+ոստնել	V;FUT;PRF;IND;NOM(3,PL)	ոստնելու էին
+ոստնել	V;FUT;PRF;SBJV;NEG;NOM(3,SG)	չոստներ
+ոստնել	V;FUT;SBJV;NEG;NOM(2,SG)	չոստնես
+ոստնել	V;IMP;NEG;NOM(2,PL)	մի՛ ոստնեք
+ոստնել	V;IPFV;IND;NEG;NOM(2,SG)	չէիր ոստնում
+ոստնել	V;IPFV;IND;NOM(3,SG)	ոստնում էր
+ոստնել	V;PRS;PRF;IND;NEG;NOM(1,PL)	չենք ոստնել
+ոստնել	V;PRS;PRF;IND;NOM(1,PL)	ոստնել ենք
+ոստնել	V;PST;IND;NEG;NOM(3,PL)	չոստնեցին
+ոստնել	V;PST;IND;NOM(3,SG)	ոստնեց
+ոստնել	V;PST;PRF;IND;NEG;NOM(3,SG)	չէր ոստնել
+ոստնել	V;PST;PRF;IND;NOM(1,PL)	ոստնել էինք
+ոստնել	V;PST;PRF;IND;NOM(1,SG)	ոստնել էի
+ոստնել	V;V.CONV;CONN	ոստնի
+ոստնել	V;V.PTCP;SUB	ոստնող
+ուլենի	N;ABL(SG)	ուլենիից
+ուլենի	N;ABL(SG;PSS(1,SG))	ուլենիիցս
+ուլենի	N;ABL(SG;PSS(2,SG))	ուլենիիցդ
+ուլենի	N;DAT(SG)	ուլենիի
+ուլենի	N;DAT(SG;DEF)	ուլենիին
+ուլենի	N;DAT(SG;PSS(1,SG))	ուլենիիս
+ուլենի	N;DAT(SG;PSS(2,SG))	ուլենիիդ
+ուլենի	N;INS(SG)	ուլենիով
+ուլենի	N;INS(SG;PSS(1,SG))	ուլենիովս
+ուլենի	N;INS(SG;PSS(2,SG))	ուլենիովդ
+ուլենի	N;LOC(SG)	ուլենիում
+ուլենի	N;LOC(SG;PSS(1,SG))	ուլենիումս
+ուլենի	N;LOC(SG;PSS(2,SG))	ուլենիումդ
+ուլենի	N;NOM(SG)	ուլենի
+ուլենի	N;NOM(SG;DEF)	ուլենին
+ուլենի	N;NOM(SG;PSS(1,SG))	ուլենիս
+ուլենի	N;NOM(SG;PSS(2,SG))	ուլենիդ
+ուռթել	V;FUT;COND;NEG;NOM(2,SG)	չես ուռթի
+ուռթել	V;FUT;COND;NOM(3,PL)	կուռթեն
+ուռթել	V;FUT;IND;NOM(2,PL)	ուռթելու եք
+ուռթել	V;FUT;PRF;COND;NEG;NOM(3,SG)	չէր ուռթի
+ուռթել	V;FUT;PRF;IND;NEG;NOM(1,PL)	չէինք ուռթելու
+ուռթել	V;FUT;PRF;IND;NOM(3,PL)	ուռթելու էին
+ուռթել	V;FUT;PRF;SBJV;NOM(1,PL)	ուռթեինք
+ուռթել	V;FUT;PRF;SBJV;NOM(3,PL)	ուռթեին
+ուռթել	V;FUT;SBJV;NEG;NOM(2,SG)	չուռթես
+ուռթել	V;FUT;SBJV;NEG;NOM(3,SG)	չուռթի
+ուռթել	V;PRS;IND;NEG;NOM(1,SG)	չեմ ուռթում
+ուռթել	V;PRS;IND;NOM(2,PL)	ուռթում եք
+ուռթել	V;PRS;PRF;IND;NEG;NOM(1,SG)	չեմ ուռթել
+ուռթել	V;PRS;PRF;IND;NOM(1,SG)	ուռթել եմ
+ուռթել	V;PST;IND;NEG;NOM(2,PL)	չուռթեցիք
+ուռթել	V;PST;PRF;IND;NEG;NOM(1,SG)	չէի ուռթել
+ուռթել	V;PST;PRF;IND;NEG;NOM(2,SG)	չէիր ուռթել
+ուռթել	V;PST;PRF;IND;NOM(3,SG)	ուռթել էր
+ուռթել	V;V.PTCP;RES	ուռթած
+ուռթել	V;V.PTCP;SUB	ուռթող
+պաստեղ	N;ABL(PL)	պաստեղներից
+պաստեղ	N;ABL(PL;PSS(2,SG))	պաստեղներիցդ
+պաստեղ	N;DAT(PL)	պաստեղների
+պաստեղ	N;DAT(PL;PSS(2,SG))	պաստեղներիդ
+պաստեղ	N;DAT(SG)	պաստեղի
+պաստեղ	N;DAT(SG;DEF)	պաստեղին
+պաստեղ	N;DAT(SG;PSS(2,SG))	պաստեղիդ
+պաստեղ	N;INS(PL)	պաստեղներով
+պաստեղ	N;INS(PL;PSS(2,SG))	պաստեղներովդ
+պաստեղ	N;INS(SG)	պաստեղով
+պաստեղ	N;INS(SG;PSS(1,SG))	պաստեղովս
+պաստեղ	N;INS(SG;PSS(2,SG))	պաստեղովդ
+պաստեղ	N;LOC(PL;PSS(1,SG))	պաստեղներումս
+պաստեղ	N;LOC(SG)	պաստեղում
+պաստեղ	N;LOC(SG;PSS(1,SG))	պաստեղումս
+պաստեղ	N;NOM(PL)	պաստեղներ
+պաստեղ	N;NOM(PL;DEF)	պաստեղները
+պաստեղ	N;NOM(PL;PSS(2,SG))	պաստեղներդ
+պաստեղ	N;NOM(SG)	պաստեղ
+պաստեղ	N;NOM(SG;PSS(1,SG))	պաստեղս
+պաստեղ	N;NOM(SG;PSS(2,SG))	պաստեղդ
+պարկեշտ	ADJ;ABL(PL)	պարկեշտներից
+պարկեշտ	ADJ;ABL(PL;PSS(1,SG))	պարկեշտներիցս
+պարկեշտ	ADJ;ABL(SG;PSS(1,SG))	պարկեշտիցս
+պարկեշտ	ADJ;ABL(SG;PSS(2,SG))	պարկեշտիցդ
+պարկեշտ	ADJ;DAT(PL;DEF)	պարկեշտներին
+պարկեշտ	ADJ;DAT(PL;PSS(2,SG))	պարկեշտներիդ
+պարկեշտ	ADJ;DAT(SG;DEF)	պարկեշտին
+պարկեշտ	ADJ;DAT(SG;PSS(1,SG))	պարկեշտիս
+պարկեշտ	ADJ;DAT(SG;PSS(2,SG))	պարկեշտիդ
+պարկեշտ	ADJ;INS(PL;PSS(2,SG))	պարկեշտներովդ
+պարկեշտ	ADJ;INS(SG;PSS(1,SG))	պարկեշտովս
+պարկեշտ	ADJ;INS(SG;PSS(2,SG))	պարկեշտովդ
+պարկեշտ	ADJ;LOC(PL)	պարկեշտներում
+պարկեշտ	ADJ;LOC(SG;PSS(2,SG))	պարկեշտումդ
+պարկեշտ	ADJ;NOM(PL)	պարկեշտներ
+պարկեշտ	ADJ;NOM(PL;DEF)	պարկեշտները
+պարկեշտ	ADJ;NOM(PL;PSS(2,SG))	պարկեշտներդ
+պարկեշտ	ADJ;NOM(SG)	պարկեշտ
+պարկեշտ	ADJ;NOM(SG;DEF)	պարկեշտը
+պարկեշտ	ADJ;NOM(SG;PSS(2,SG))	պարկեշտդ
+սլավոնական	ADJ;ABL(SG)	սլավոնականից
+սլավոնական	ADJ;ABL(SG;PSS(1,SG))	սլավոնականիցս
+սլավոնական	ADJ;ABL(SG;PSS(2,SG))	սլավոնականիցդ
+սլավոնական	ADJ;DAT(PL)	սլավոնականների
+սլավոնական	ADJ;DAT(PL;PSS(1,SG))	սլավոնականներիս
+սլավոնական	ADJ;DAT(SG)	սլավոնականի
+սլավոնական	ADJ;DAT(SG;DEF)	սլավոնականին
+սլավոնական	ADJ;DAT(SG;PSS(2,SG))	սլավոնականիդ
+սլավոնական	ADJ;INS(PL)	սլավոնականներով
+սլավոնական	ADJ;INS(PL;PSS(2,SG))	սլավոնականներովդ
+սլավոնական	ADJ;INS(SG;PSS(1,SG))	սլավոնականովս
+սլավոնական	ADJ;INS(SG;PSS(2,SG))	սլավոնականովդ
+սլավոնական	ADJ;LOC(PL)	սլավոնականներում
+սլավոնական	ADJ;LOC(PL;PSS(1,SG))	սլավոնականներումս
+սլավոնական	ADJ;LOC(PL;PSS(2,SG))	սլավոնականներումդ
+սլավոնական	ADJ;LOC(SG;PSS(2,SG))	սլավոնականումդ
+սլավոնական	ADJ;NOM(PL;DEF)	սլավոնականները
+սլավոնական	ADJ;NOM(PL;PSS(2,SG))	սլավոնականներդ
+սլավոնական	ADJ;NOM(SG;DEF)	սլավոնականը
+սլավոնական	ADJ;NOM(SG;PSS(1,SG))	սլավոնականս
+սորել	V;FUT;IND;NEG;NOM(1,SG)	չեմ սորելու
+սորել	V;FUT;IND;NEG;NOM(3,PL)	չեն սորելու
+սորել	V;FUT;IND;NOM(3,PL)	սորելու են
+սորել	V;FUT;PRF;COND;NEG;NOM(2,PL)	չէիք սորի
+սորել	V;FUT;PRF;COND;NEG;NOM(3,PL)	չէին սորի
+սորել	V;FUT;PRF;COND;NEG;NOM(3,SG)	չէր սորի
+սորել	V;FUT;PRF;IND;NOM(3,SG)	սորելու էր
+սորել	V;FUT;PRF;SBJV;NEG;NOM(1,PL)	չսորեինք
+սորել	V;FUT;PRF;SBJV;NEG;NOM(3,SG)	չսորեր
+սորել	V;FUT;PRF;SBJV;NOM(2,PL)	սորեիք
+սորել	V;FUT;SBJV;NEG;NOM(2,PL)	չսորեք
+սորել	V;FUT;SBJV;NOM(2,PL)	սորեք
+սորել	V;FUT;SBJV;NOM(3,SG)	սորի
+սորել	V;IPFV;IND;NEG;NOM(1,SG)	չէի սորում
+սորել	V;IPFV;IND;NOM(1,SG)	սորում էի
+սորել	V;PRS;PRF;IND;NEG;NOM(1,PL)	չենք սորել
+սորել	V;PST;IND;NEG;NOM(1,SG)	չսորեցի
+սորել	V;PST;PRF;IND;NEG;NOM(1,PL)	չէինք սորել
+սորել	V;PST;PRF;IND;NEG;NOM(1,SG)	չէի սորել
+սորել	V;V.CONV;PFV	սորել
+ստել	V;FUT;COND;NEG;NOM(2,PL)	չեք ստի
+ստել	V;FUT;PRF;COND;NEG;NOM(1,SG)	չէի ստի
+ստել	V;FUT;PRF;COND;NEG;NOM(3,PL)	չէին ստի
+ստել	V;FUT;PRF;COND;NOM(3,SG)	կստեր
+ստել	V;FUT;PRF;IND;NEG;NOM(2,PL)	չէիք ստելու
+ստել	V;FUT;PRF;SBJV;NEG;NOM(1,SG)	չստեի
+ստել	V;FUT;PRF;SBJV;NOM(1,PL)	ստեինք
+ստել	V;FUT;PRF;SBJV;NOM(3,SG)	ստեր
+ստել	V;FUT;SBJV;NOM(3,SG)	ստի
+ստել	V;IMP;NEG;NOM(2,PL)	մի՛ ստեք
+ստել	V;IMP;NOM(2,PL)	ստե՛ք
+ստել	V;IPFV;IND;NEG;NOM(1,SG)	չէի ստում
+ստել	V;IPFV;IND;NOM(1,PL)	ստում էինք
+ստել	V;NFIN;NEG	չստել
+ստել	V;PRS;IND;NEG;NOM(3,SG)	չի ստում
+ստել	V;PRS;IND;NOM(1,SG)	ստում եմ
+ստել	V;PRS;PRF;IND;NOM(1,PL)	ստել ենք
+ստել	V;PRS;PRF;IND;NOM(3,PL)	ստել են
+ստել	V;PST;IND;NEG;NOM(2,PL)	չստեցիք
+ստել	V;V.CONV;FUT2	ստելիք
+ստորերկրյա	ADJ;ABL(PL;PSS(1,SG))	ստորերկրյաներիցս
+ստորերկրյա	ADJ;ABL(SG)	ստորերկրյայից
+ստորերկրյա	ADJ;ABL(SG;PSS(1,SG))	ստորերկրյայիցս
+ստորերկրյա	ADJ;ABL(SG;PSS(2,SG))	ստորերկրյայիցդ
+ստորերկրյա	ADJ;DAT(PL;DEF)	ստորերկրյաներին
+ստորերկրյա	ADJ;DAT(PL;PSS(1,SG))	ստորերկրյաներիս
+ստորերկրյա	ADJ;DAT(SG)	ստորերկրյայի
+ստորերկրյա	ADJ;DAT(SG;DEF)	ստորերկրյային
+ստորերկրյա	ADJ;DAT(SG;PSS(2,SG))	ստորերկրյայիդ
+ստորերկրյա	ADJ;INS(PL;PSS(1,SG))	ստորերկրյաներովս
+ստորերկրյա	ADJ;INS(PL;PSS(2,SG))	ստորերկրյաներովդ
+ստորերկրյա	ADJ;INS(SG;PSS(2,SG))	ստորերկրյայովդ
+ստորերկրյա	ADJ;LOC(PL)	ստորերկրյաներում
+ստորերկրյա	ADJ;LOC(SG)	ստորերկրյայում
+ստորերկրյա	ADJ;NOM(PL)	ստորերկրյաներ
+ստորերկրյա	ADJ;NOM(PL;DEF)	ստորերկրյաները
+ստորերկրյա	ADJ;NOM(PL;PSS(1,SG))	ստորերկրյաներս
+ստորերկրյա	ADJ;NOM(PL;PSS(2,SG))	ստորերկրյաներդ
+ստորերկրյա	ADJ;NOM(SG)	ստորերկրյա
+ստորերկրյա	ADJ;NOM(SG;DEF)	ստորերկրյան
+ստորերկրյա	ADJ;NOM(SG;PSS(2,SG))	ստորերկրյադ
+վերելակ	N;ABL(PL;PSS(2,SG))	վերելակներիցդ
+վերելակ	N;ABL(SG;PSS(1,SG))	վերելակիցս
+վերելակ	N;DAT(PL)	վերելակների
+վերելակ	N;DAT(PL;PSS(2,SG))	վերելակներիդ
+վերելակ	N;DAT(SG)	վերելակի
+վերելակ	N;DAT(SG;PSS(1,SG))	վերելակիս
+վերելակ	N;INS(PL)	վերելակներով
+վերելակ	N;INS(PL;PSS(1,SG))	վերելակներովս
+վերելակ	N;INS(SG)	վերելակով
+վերելակ	N;INS(SG;PSS(1,SG))	վերելակովս
+վերելակ	N;INS(SG;PSS(2,SG))	վերելակովդ
+վերելակ	N;LOC(PL)	վերելակներում
+վերելակ	N;LOC(PL;PSS(1,SG))	վերելակներումս
+վերելակ	N;LOC(PL;PSS(2,SG))	վերելակներումդ
+վերելակ	N;LOC(SG;PSS(2,SG))	վերելակումդ
+վերելակ	N;NOM(PL;PSS(1,SG))	վերելակներս
+վերելակ	N;NOM(PL;PSS(2,SG))	վերելակներդ
+վերելակ	N;NOM(SG;DEF)	վերելակը
+վերելակ	N;NOM(SG;PSS(1,SG))	վերելակս
+վերելակ	N;NOM(SG;PSS(2,SG))	վերելակդ
+փարվել	V;FUT;COND;NOM(2,SG)	կփարվես
+փարվել	V;FUT;COND;NOM(3,PL)	կփարվեն
+փարվել	V;FUT;PRF;COND;NEG;NOM(3,PL)	չէին փարվի
+փարվել	V;FUT;PRF;COND;NOM(3,SG)	կփարվեր
+փարվել	V;FUT;PRF;IND;NEG;NOM(1,PL)	չէինք փարվելու
+փարվել	V;FUT;PRF;SBJV;NEG;NOM(1,SG)	չփարվեի
+փարվել	V;FUT;PRF;SBJV;NOM(1,SG)	փարվեի
+փարվել	V;FUT;PRF;SBJV;NOM(3,PL)	փարվեին
+փարվել	V;FUT;SBJV;NOM(2,SG)	փարվես
+փարվել	V;FUT;SBJV;NOM(3,PL)	փարվեն
+փարվել	V;IPFV;IND;NOM(2,SG)	փարվում էիր
+փարվել	V;IPFV;IND;NOM(3,PL)	փարվում էին
+փարվել	V;PRS;PRF;IND;NEG;NOM(2,PL)	չեք փարվել
+փարվել	V;PST	փարվ
+փարվել	V;PST;IND;NEG;NOM(2,PL)	չփարվեցիք
+փարվել	V;PST;IND;NOM(1,PL)	փարվեցինք
+փարվել	V;PST;IND;NOM(1,SG)	փարվեցի
+փարվել	V;PST;PRF;IND;NEG;NOM(1,SG)	չէի փարվել
+փարվել	V;V.CONV;CONN;NEG	չփարվի
+փարվել	V;V.CONV;FUT1	փարվելու
+փութալ	V;FUT;COND;NEG;NOM(1,PL)	չենք փութա
+փութալ	V;FUT;COND;NOM(2,PL)	կփութաք
+փութալ	V;FUT;COND;NOM(3,PL)	կփութան
+փութալ	V;FUT;COND;NOM(3,SG)	կփութա
+փութալ	V;FUT;IND;NOM(2,SG)	փութալու ես
+փութալ	V;FUT;PRF;COND;NOM(3,PL)	կփութային
+փութալ	V;FUT;PRF;IND;NEG;NOM(1,SG)	չէի փութալու
+փութալ	V;FUT;PRF;SBJV;NOM(1,SG)	փութայի
+փութալ	V;FUT;PRF;SBJV;NOM(3,PL)	փութային
+փութալ	V;FUT;PRF;SBJV;NOM(3,SG)	փութար
+փութալ	V;FUT;SBJV;NOM(1,PL)	փութանք
+փութալ	V;PRS;IND;NEG;NOM(3,PL)	չեն փութում
+փութալ	V;PRS;IND;NOM(2,SG)	փութում ես
+փութալ	V;PRS;IND;NOM(3,PL)	փութում են
+փութալ	V;PRS;IND;NOM(3,SG)	փութում է
+փութալ	V;PRS;PRF;IND;NEG;NOM(2,SG)	չես փութացել
+փութալ	V;PRS;PRF;IND;NOM(3,PL)	փութացել են
+փութալ	V;PST;IND;NEG;NOM(3,PL)	չփութացին
+փութալ	V;PST;PRF;IND;NOM(2,PL)	փութացել էիք
+փութալ	V;V.CONV;FUT2	փութալիք
+փութալ	V;V.CONV;IPFV	փութում
+քոչել	V;FUT;COND;NOM(2,SG)	կքոչես
+քոչել	V;FUT;IND;NOM(2,PL)	քոչելու եք
+քոչել	V;FUT;IND;NOM(2,SG)	քոչելու ես
+քոչել	V;FUT;PRF;COND;NOM(1,PL)	կքոչեինք
+քոչել	V;FUT;PRF;IND;NEG;NOM(3,SG)	չէր քոչելու
+քոչել	V;FUT;PRF;SBJV;NEG;NOM(1,PL)	չքոչեինք
+քոչել	V;FUT;PRF;SBJV;NEG;NOM(1,SG)	չքոչեի
+քոչել	V;FUT;PRF;SBJV;NEG;NOM(3,SG)	չքոչեր
+քոչել	V;FUT;PRF;SBJV;NOM(3,SG)	քոչեր
+քոչել	V;FUT;SBJV;NOM(1,PL)	քոչենք
+քոչել	V;IPFV;IND;NEG;NOM(1,PL)	չէինք քոչում
+քոչել	V;IPFV;IND;NEG;NOM(3,PL)	չէին քոչում
+քոչել	V;IPFV;IND;NOM(1,SG)	քոչում էի
+քոչել	V;PRS;PRF;IND;NEG;NOM(1,PL)	չենք քոչել
+քոչել	V;PST;PRF;IND;NEG;NOM(1,PL)	չէինք քոչել
+քոչել	V;PST;PRF;IND;NEG;NOM(1,SG)	չէի քոչել
+քոչել	V;PST;PRF;IND;NEG;NOM(2,PL)	չէիք քոչել
+քոչել	V;V.CONV;CONN;NEG	չքոչի
+քոչել	V;V.PTCP;RES	քոչած
+ֆեոդալիզմ	N;ABL(SG)	ֆեոդալիզմից
+ֆեոդալիզմ	N;ABL(SG;PSS(2,SG))	ֆեոդալիզմիցդ
+ֆեոդալիզմ	N;DAT(SG;DEF)	ֆեոդալիզմին
+ֆեոդալիզմ	N;DAT(SG;PSS(1,SG))	ֆեոդալիզմիս
+ֆեոդալիզմ	N;DAT(SG;PSS(2,SG))	ֆեոդալիզմիդ
+ֆեոդալիզմ	N;INS(SG)	ֆեոդալիզմով
+ֆեոդալիզմ	N;INS(SG;PSS(1,SG))	ֆեոդալիզմովս
+ֆեոդալիզմ	N;INS(SG;PSS(2,SG))	ֆեոդալիզմովդ
+ֆեոդալիզմ	N;LOC(SG)	ֆեոդալիզմում
+ֆեոդալիզմ	N;LOC(SG;PSS(1,SG))	ֆեոդալիզմումս
+ֆեոդալիզմ	N;LOC(SG;PSS(2,SG))	ֆեոդալիզմումդ
+ֆեոդալիզմ	N;NOM(SG)	ֆեոդալիզմ
+ֆեոդալիզմ	N;NOM(SG;DEF)	ֆեոդալիզմը
+ֆեոդալիզմ	N;NOM(SG;PSS(1,SG))	ֆեոդալիզմս
+ֆեոդալիզմ	N;NOM(SG;PSS(2,SG))	ֆեոդալիզմդ

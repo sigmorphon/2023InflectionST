@@ -1,0 +1,1000 @@
+ahidi	V;COND;PRS;NOM(3,SG,BANTU1);PRIM(2,PL);POS	angewaahidi
+ahidi	V;COND;PRS;PRF;NOM(3,PL,BANTU10);PRIM(3,SG,BANTU3);NEG	zisingekuwa zimeuahidi
+ahidi	V;COND;PST;NOM(3,PL,BANTU4);PRIM(3,PL,BANTU6);POS	ingaliyaahidi
+ahidi	V;COND;PST;NOM(3,SG,BANTU7);PRIM(3,SG,BANTU11);POS	kingaliuahidi
+ahidi	V;IND;FUT;NEG;NOM(2,SG);PRIM(3,PL,BANTU6)	hutayaahidi
+ahidi	V;IND;FUT;NEG;NOM(3,SG,BANTU11);PRIM(3,PL,BANTU8)	hautaviahidi
+ahidi	V;IND;FUT;PRF;NOM(3,SG,BANTU1);PRIM(3,SG,BANTU9);NEG	hatakuwa ameiahidi
+ahidi	V;IND;FUT;PRF;NOM(3,SG,BANTU11);PRIM(3,PL,BANTU4);POS	utakuwa umeiahidi
+ahidi	V;IND;PST;NEG;NOM(3,SG,BANTU3);PRIM(BANTU18)	haukumuahidi
+ahidi	V;IND;PST;NOM(BANTU16);PRIM(3,PL,BANTU8);POS	paliviahidi
+ahidi	V;IND;PST;PRF;NOM(3,SG,BANTU9);PRIM(3,SG,BANTU3);NEG	haikuwa imeuahidi
+ahidi	V;PROG;NOM(1,SG);PRIM(3,SG,BANTU3);IND;PST;POS	nilikuwa nikiuahidi
+ahidi	V;PROG;NOM(3,PL,BANTU2);PRIM(3,PL,BANTU10);IND;PST;NEG	hawakuwa wakiziahidi
+ahidi	V;PROG;NOM(3,PL,BANTU4);PRIM(3,SG,BANTU3);IND;PRS;PRF;POS	imekuwa ikiuahidi
+ahidi	V;PROG;NOM(3,PL,BANTU4);PRIM(BANTU16);COND;PRS;POS	ingekuwa ikipaahidi
+ahidi	V;PROG;NOM(3,SG,BANTU11);PRIM(3,SG,KU);COND;PST;NEG	usingalikuwa ukikuahidi
+ahidi	V;PROG;NOM(3,SG,BANTU3);PRIM(3,PL,BANTU10);IND;PST;POS	ulikuwa ukiziahidi
+ahidi	V;PROG;NOM(3,SG,BANTU3);PRIM(3,PL,BANTU6);IND;FUT;NEG	hautakuwa ukiyaahidi
+ahidi	V;PROG;NOM(3,SG,BANTU3);PRIM(3,SG,BANTU11);COND;PST;POS	ungalikuwa ukiuahidi
+ahidi	V;PROG;NOM(3,SG,BANTU5);PRIM(3,PL,BANTU6);IND;PST;NEG	halikuwa likiyaahidi
+ahidi	V;PROG;NOM(BANTU15);PRIM(3,SG,KU);COND;PST;NEG	kusingalikuwa kukikuahidi
+ahidi	V;PROG;NOM(BANTU18);PRIM(3,SG,BANTU7);IND;PRS;PRF;POS	mumekuwa mukikiahidi
+ahidi	V;PROG;NOM(BANTU18);PRIM(3,SG,BANTU9);COND;PST;NEG	musingalikuwa mukiiahidi
+ambiwa	V;COND;PRS;NOM(3,SG,KU);POS	kungeambiwa
+ambiwa	V;COND;PRS;PRF;NOM(3,SG,BANTU7);NEG	kisingekuwa kimeambiwa
+ambiwa	V;COND;PRS;PRF;NOM(3,SG,BANTU7);POS	kingekuwa kimeambiwa
+ambiwa	V;COND;PRS;PRF;NOM(3,SG,BANTU9);POS	ingekuwa imeambiwa
+ambiwa	V;COND;PST;NEG;NOM(3,PL,BANTU4)	isingaliambiwa
+ambiwa	V;COND;PST;NOM(2,SG);POS	ungaliambiwa
+ambiwa	V;COND;PST;NOM(3,SG,KU);POS	kungaliambiwa
+ambiwa	V;IND;FUT;NOM(1,SG);POS	nitaambiwa
+ambiwa	V;IND;FUT;NOM(3,PL,BANTU4);POS	itaambiwa
+ambiwa	V;IND;FUT;NOM(3,PL,BANTU6);POS	yataambiwa
+ambiwa	V;IND;FUT;PRF;NOM(2,SG);POS	utakuwa umeambiwa
+ambiwa	V;IND;PRS;NOM(2,SG);POS	unaambiwa
+ambiwa	V;IND;PRS;NOM(3,PL,BANTU4);POS	inaambiwa
+ambiwa	V;IND;PRS;NOM(3,PL,BANTU8);POS	vinaambiwa
+ambiwa	V;IND;PRS;PRF;NEG;NOM(3,PL,BANTU4)	hijaambiwa
+ambiwa	V;IND;PST;NEG;NOM(3,PL,BANTU10)	hazikuambiwa
+ambiwa	V;IND;PST;PRF;NOM(3,PL,BANTU8);NEG	havikuwa vimeambiwa
+ambiwa	V;PROG;NOM(2,PL);COND;PRS;NEG;LGSPEC1	hamngekuwa mkiambiwa
+ambiwa	V;PROG;NOM(3,PL,BANTU10);COND;PRS;POS	zingekuwa zikiambiwa
+ambiwa	V;PROG;NOM(3,PL,BANTU10);IND;PRS;PRF;POS	zimekuwa zikiambiwa
+ambiwa	V;PROG;NOM(3,PL,BANTU4);IND;FUT;NEG	hitakuwa ikiambiwa
+ambiwa	V;PROG;NOM(3,SG,BANTU7);IND;PRS;PRF;NEG	hakijakuwa kikiambiwa
+ambiwa	V;PROG;NOM(3,SG,KU);COND;PRS;POS	kungekuwa kukiambiwa
+dhuru	V;COND;PRS;NEG;NOM(3,PL,BANTU6);PRIM(3,SG,BANTU1)	yasingemdhuru
+dhuru	V;COND;PRS;NOM(3,SG,BANTU5);PRIM(3,PL,BANTU2);POS	lingewadhuru
+dhuru	V;COND;PRS;NOM(BANTU18);PRIM(3,SG,BANTU1);POS	mungemdhuru
+dhuru	V;COND;PRS;PRF;NOM(1,PL);PRIM(3,PL,BANTU8);NEG	tusingekuwa tumevidhuru
+dhuru	V;COND;PRS;PRF;NOM(3,PL,BANTU2);PRIM(RFLX);NEG	wasingekuwa wamejidhuru
+dhuru	V;COND;PRS;PRF;NOM(3,SG,BANTU3);PRIM(3,PL,BANTU6);NEG;LGSPEC1	haungekuwa umeyadhuru
+dhuru	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,BANTU10);PRIM(3,PL,BANTU4)	hazingaliidhuru
+dhuru	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,BANTU8);PRIM(BANTU15)	havingalikudhuru
+dhuru	V;COND;PST;NOM(3,PL,BANTU2);PRIM(3,SG,KU);POS	wangalikudhuru
+dhuru	V;COND;PST;NOM(3,PL,BANTU4);PRIM(BANTU15);POS	ingalikudhuru
+dhuru	V;IND;FUT;NOM(2,SG);PRIM(3,PL,BANTU4);POS	utaidhuru
+dhuru	V;IND;FUT;PRF;NOM(3,PL,BANTU8);PRIM(3,SG,KU);NEG	havitakuwa vimekudhuru
+dhuru	V;IND;FUT;PRF;NOM(BANTU16);PRIM(BANTU15);POS	patakuwa pamekudhuru
+dhuru	V;IND;PRS;HAB;NOM(3,PL,BANTU2);PRIM(3,PL,BANTU2);POS	huwadhuru
+dhuru	V;IND;PRS;HAB;NOM(3,SG,BANTU1);PRIM(2,SG);POS	hukudhuru
+dhuru	V;IND;PRS;NOM(3,SG,BANTU11);PRIM(3,PL,BANTU2);POS	unawadhuru
+dhuru	V;IND;PRS;NOM(3,SG,BANTU9);PRIM(BANTU15);POS	inakudhuru
+dhuru	V;IND;PST;PRF;NOM(3,PL,BANTU8);PRIM(3,PL,BANTU6);NEG	havikuwa vimeyadhuru
+dhuru	V;PROG;NOM(3,PL,BANTU2);PRIM(3,SG,BANTU1);IND;PRS;PRF;POS	wamekuwa wakimdhuru
+dhuru	V;PROG;NOM(3,SG,BANTU1);PRIM(3,PL,BANTU10);COND;PRS;POS	angekuwa akizidhuru
+dhuru	V;PROG;NOM(3,SG,BANTU1);PRIM(BANTU18);COND;PRS;NEG;LGSPEC1	hangekuwa akimudhuru
+dhuru	V;PROG;NOM(3,SG,BANTU3);PRIM(3,SG,BANTU1);IND;FUT;NEG	hautakuwa ukimdhuru
+dhuru	V;PROG;NOM(3,SG,BANTU5);PRIM(BANTU16);IND;FUT;POS	litakuwa likipadhuru
+funga	V;COND;PRS;NEG;LGSPEC1;NOM(BANTU16)	hapangefunga
+funga	V;COND;PRS;NEG;NOM(BANTU15)	kusingefunga
+funga	V;COND;PRS;NOM(2,PL);POS	mngefunga
+funga	V;COND;PST;NEG;LGSPEC1;NOM(2,PL)	hamngalifunga
+funga	V;COND;PST;NOM(2,SG);POS	ungalifunga
+funga	V;COND;PST;PRF;NOM(3,PL,BANTU6);POS	yangalikuwa yamefunga
+funga	V;COND;PST;PRF;NOM(BANTU16);POS	pangalikuwa pamefunga
+funga	V;IND;FUT;NEG;NOM(3,PL,BANTU6)	hayatafunga
+funga	V;IND;FUT;NEG;NOM(3,SG,BANTU9)	haitafunga
+funga	V;IND;FUT;PRF;NOM(3,SG,BANTU3);NEG	hautakuwa umefunga
+funga	V;IND;FUT;PRF;NOM(3,SG,BANTU9);NEG	haitakuwa imefunga
+funga	V;IND;PRS;NEG;NOM(1,PL);HAB	huwa hatufungi
+funga	V;IND;PST;NEG;NOM(3,PL,BANTU4)	hikufunga
+funga	V;IND;PST;NEG;NOM(3,SG,BANTU11)	haukufunga
+funga	V;IND;PST;PRF;NOM(3,PL,BANTU8);POS	vilikuwa vimefunga
+funga	V;PROG;NOM(1,PL);COND;PST;POS	tungalikuwa tukifunga
+funga	V;PROG;NOM(1,PL);IND;FUT;NEG	hatutakuwa tukifunga
+funga	V;PROG;NOM(3,SG,BANTU7);COND;PRS;NEG;LGSPEC1	hakingekuwa kikifunga
+funga	V;PROG;NOM(3,SG,BANTU9);IND;PRS;PRF;POS	imekuwa ikifunga
+funga	V;PROG;NOM(3,SG,KU);COND;PRS;NEG;LGSPEC1	hakungekuwa kukifunga
+funga	V;PROG;NOM(3,SG,KU);COND;PST;POS	kungalikuwa kukifunga
+funga	V;SUBJ;PRS;NEG;NOM(2,PL)	msifunge
+ganda	V;COND;PRS;NEG;NOM(1,PL)	tusingeganda
+ganda	V;COND;PRS;NEG;NOM(3,SG,KU)	kusingeganda
+ganda	V;COND;PRS;PRF;NOM(3,SG,BANTU3);NEG	usingekuwa umeganda
+ganda	V;COND;PST;NEG;LGSPEC1;NOM(1,SG)	singaliganda
+ganda	V;COND;PST;NEG;NOM(2,PL)	msingaliganda
+ganda	V;COND;PST;NEG;NOM(3,SG,BANTU3)	usingaliganda
+ganda	V;COND;PST;PRF;NOM(3,SG,BANTU5);POS	lingalikuwa limeganda
+ganda	V;COND;PST;PRF;NOM(3,SG,KU);POS	kungalikuwa kumeganda
+ganda	V;IND;FUT;NOM(3,SG,BANTU5);POS	litaganda
+ganda	V;IND;FUT;PRF;NOM(1,SG);POS	nitakuwa nimeganda
+ganda	V;IND;PRS;NEG;NOM(BANTU15)	hakugandi
+ganda	V;IND;PRS;NOM(3,SG,KU);POS	kunaganda
+ganda	V;IND;PST;NEG;NOM(1,SG)	sikuganda
+ganda	V;IND;PST;NEG;NOM(3,SG,BANTU5)	halikuganda
+ganda	V;IND;PST;PRF;NOM(BANTU18);NEG	hamukuwa mumeganda
+ganda	V;PROG;NOM(3,PL,BANTU10);COND;PRS;POS	zingekuwa zikiganda
+ganda	V;PROG;NOM(3,PL,BANTU10);IND;PRS;PRF;NEG	hazijakuwa zikiganda
+ganda	V;PROG;NOM(3,PL,BANTU4);COND;PST;NEG;LGSPEC1	hingalikuwa ikiganda
+ganda	V;PROG;NOM(3,SG,BANTU3);COND;PRS;NEG;LGSPEC1	haungekuwa ukiganda
+ganda	V;PROG;NOM(3,SG,BANTU7);IND;FUT;POS	kitakuwa kikiganda
+ganda	V;PROG;NOM(BANTU15);COND;PRS;NEG	kusingekuwa kukiganda
+ganda	V;PROG;NOM(BANTU16);COND;PST;NEG;LGSPEC1	hapangalikuwa pakiganda
+ganda	V;SUBJ;PRS;NEG;NOM(BANTU15)	kusigande
+jadili	V;COND;PRS;NOM(2,SG);PRIM(BANTU16);POS	ungepajadili
+jadili	V;COND;PRS;PRF;NOM(BANTU16);PRIM(BANTU18);NEG	pasingekuwa pamemujadili
+jadili	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,BANTU10);PRIM(1,PL)	hazingalitujadili
+jadili	V;COND;PST;NEG;NOM(3,SG,BANTU9);PRIM(BANTU15)	isingalikujadili
+jadili	V;COND;PST;NEG;NOM(BANTU18);PRIM(3,PL,BANTU4)	musingaliijadili
+jadili	V;COND;PST;NOM(3,PL,BANTU8);PRIM(3,PL,BANTU8);POS	vingalivijadili
+jadili	V;COND;PST;PRF;NOM(3,PL,BANTU4);PRIM(3,SG,BANTU5);POS	ingalikuwa imelijadili
+jadili	V;COND;PST;PRF;NOM(3,PL,BANTU8);PRIM(3,PL,BANTU2);NEG;LGSPEC1	havingalikuwa vimewajadili
+jadili	V;COND;PST;PRF;NOM(BANTU16);PRIM(3,SG,BANTU3);NEG;LGSPEC1	hapangalikuwa pameujadili
+jadili	V;IND;FUT;NEG;NOM(3,SG,BANTU7);PRIM(3,SG,BANTU7)	hakitakijadili
+jadili	V;IND;FUT;PRF;NOM(BANTU18);PRIM(3,PL,BANTU10);NEG	hamutakuwa mumezijadili
+jadili	V;IND;PRS;NOM(BANTU15);PRIM(1,PL);POS	kunatujadili
+jadili	V;IND;PRS;PRF;NOM(1,SG);PRIM(1,PL);POS	nimetujadili
+jadili	V;IND;PST;PRF;NOM(3,PL,BANTU6);PRIM(BANTU18);POS	yalikuwa yamemujadili
+jadili	V;PROG;NOM(1,PL);PRIM(3,PL,BANTU2);COND;PRS;POS	tungekuwa tukiwajadili
+jadili	V;PROG;NOM(1,SG);PRIM(BANTU18);COND;PST;NEG	nisingalikuwa nikimujadili
+jadili	V;PROG;NOM(2,SG);PRIM(3,SG,KU);COND;PRS;NEG;LGSPEC1	hungekuwa ukikujadili
+jadili	V;PROG;NOM(3,SG,BANTU1);PRIM(3,SG,BANTU9);IND;PRS;PRF;POS	amekuwa akiijadili
+jadili	V;PROG;NOM(3,SG,BANTU1);PRIM(BANTU18);COND;PST;NEG;LGSPEC1	hangalikuwa akimujadili
+jadili	V;PROG;NOM(BANTU15);PRIM(3,PL,BANTU2);COND;PRS;NEG;LGSPEC1	hakungekuwa kukiwajadili
+jadili	V;PROG;NOM(BANTU18);PRIM(3,PL,BANTU4);COND;PST;POS	mungalikuwa mukiijadili
+jadili	V;SUBJ;PRS;NOM(2,PL);PRIM(3,PL,BANTU8);POS	mvijadili
+jaliwa	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,BANTU11)	haungejaliwa
+jaliwa	V;COND;PST;NEG;LGSPEC1;NOM(2,PL)	hamngalijaliwa
+jaliwa	V;COND;PST;PRF;NOM(3,SG,BANTU5);NEG;LGSPEC1	halingalikuwa limejaliwa
+jaliwa	V;IMP;NEG;NOM(2,SG)	usijaliwe
+jaliwa	V;IND;FUT;NEG;NOM(3,PL,BANTU6)	hayatajaliwa
+jaliwa	V;IND;FUT;NEG;NOM(BANTU15)	hakutajaliwa
+jaliwa	V;IND;PRS;NOM(3,SG,BANTU11);POS	unajaliwa
+jaliwa	V;IND;PRS;NOM(3,SG,BANTU5);POS	linajaliwa
+jaliwa	V;IND;PRS;PRF;NEG;NOM(2,PL)	hamjajaliwa
+jaliwa	V;IND;PRS;PRF;NEG;NOM(3,SG,BANTU1)	hajajaliwa
+jaliwa	V;IND;PRS;PRF;NEG;NOM(BANTU18)	hamujajaliwa
+jaliwa	V;IND;PST;NEG;NOM(3,SG,BANTU11)	haukujaliwa
+jaliwa	V;PROG;NOM(1,PL);IND;PST;POS	tulikuwa tukijaliwa
+jaliwa	V;PROG;NOM(1,SG);IND;PRS;PRF;NEG	sijakuwa nikijaliwa
+jaliwa	V;PROG;NOM(3,PL,BANTU10);COND;PST;NEG;LGSPEC1	hazingalikuwa zikijaliwa
+jaliwa	V;PROG;NOM(3,PL,BANTU6);COND;PST;NEG;LGSPEC1	hayangalikuwa yakijaliwa
+jaliwa	V;PROG;NOM(3,SG,BANTU3);COND;PRS;POS	ungekuwa ukijaliwa
+jaliwa	V;PROG;NOM(3,SG,BANTU5);COND;PRS;NEG	lisingekuwa likijaliwa
+jaliwa	V;PROG;NOM(3,SG,BANTU7);COND;PST;NEG;LGSPEC1	hakingalikuwa kikijaliwa
+jaliwa	V;PROG;NOM(3,SG,BANTU7);IND;PST;NEG	hakikuwa kikijaliwa
+jaliwa	V;PROG;NOM(BANTU15);COND;PST;NEG;LGSPEC1	hakungalikuwa kukijaliwa
+jaliwa	V;PROG;NOM(BANTU18);IND;FUT;NEG	hamutakuwa mukijaliwa
+jaliwa	V;SUBJ;PRS;NEG;NOM(3,PL,BANTU2)	wasijaliwe
+jeruhi	V;COND;PRS;NOM(1,SG);PRIM(BANTU18);POS	ningemujeruhi
+jeruhi	V;COND;PRS;PRF;NOM(3,SG,BANTU1);PRIM(RFLX);NEG	asingekuwa amejijeruhi
+jeruhi	V;COND;PST;NOM(1,SG);PRIM(BANTU16);POS	ningalipajeruhi
+jeruhi	V;COND;PST;NOM(3,SG,BANTU3);PRIM(RFLX);POS	ungalijijeruhi
+jeruhi	V;COND;PST;PRF;NOM(3,PL,BANTU10);PRIM(3,SG,BANTU3);NEG;LGSPEC1	hazingalikuwa zimeujeruhi
+jeruhi	V;COND;PST;PRF;NOM(3,PL,BANTU2);PRIM(3,SG,KU);NEG	wasingalikuwa wamekujeruhi
+jeruhi	V;COND;PST;PRF;NOM(3,PL,BANTU4);PRIM(3,SG,BANTU3);NEG	isingalikuwa imeujeruhi
+jeruhi	V;COND;PST;PRF;NOM(3,SG,BANTU3);PRIM(3,PL,BANTU6);NEG;LGSPEC1	haungalikuwa umeyajeruhi
+jeruhi	V;IND;FUT;NEG;NOM(BANTU18);PRIM(BANTU16)	hamutapajeruhi
+jeruhi	V;IND;FUT;PRF;NOM(2,PL);PRIM(3,SG,BANTU1);POS	mtakuwa mmemjeruhi
+jeruhi	V;IND;PST;PRF;NOM(3,PL,BANTU8);PRIM(3,SG,BANTU7);NEG	havikuwa vimekijeruhi
+jeruhi	V;PROG;NOM(2,PL);PRIM(3,SG,BANTU3);IND;FUT;NEG	hamtakuwa mkiujeruhi
+jeruhi	V;PROG;NOM(2,PL);PRIM(BANTU16);IND;PST;NEG	hamkuwa mkipajeruhi
+jeruhi	V;PROG;NOM(3,PL,BANTU10);PRIM(3,SG,BANTU3);IND;PRS;PRF;POS	zimekuwa zikiujeruhi
+jeruhi	V;PROG;NOM(3,PL,BANTU2);PRIM(3,SG,BANTU9);COND;PRS;NEG	wasingekuwa wakiijeruhi
+jeruhi	V;PROG;NOM(3,PL,BANTU2);PRIM(3,SG,KU);COND;PRS;POS	wangekuwa wakikujeruhi
+jeruhi	V;PROG;NOM(3,PL,BANTU2);PRIM(BANTU18);IND;PST;POS	walikuwa wakimujeruhi
+jeruhi	V;PROG;NOM(3,SG,BANTU1);PRIM(3,SG,BANTU1);COND;PST;NEG;LGSPEC1	hangalikuwa akimjeruhi
+jeruhi	V;PROG;NOM(3,SG,BANTU3);PRIM(2,SG);COND;PST;POS	ungalikuwa ukikujeruhi
+jeruhi	V;PROG;NOM(BANTU18);PRIM(3,SG,BANTU11);IND;PRS;PRF;NEG	hamujakuwa mukiujeruhi
+jeruhi	V;SUBJ;PRS;NEG;NOM(3,SG,BANTU5);PRIM(2,SG)	lisikujeruhi
+jeruhi	V;SUBJ;PRS;NEG;NOM(3,SG,BANTU7);PRIM(2,PL)	kisiwajeruhi
+jeruhi	V;SUBJ;PRS;NOM(3,PL,BANTU6);PRIM(3,PL,BANTU10);POS	yazijeruhi
+kalia	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,BANTU3);PRIM(BANTU16)	haungepakalia
+kalia	V;COND;PRS;NEG;NOM(1,SG);PRIM(3,SG,BANTU3)	nisingeukalia
+kalia	V;COND;PRS;NOM(2,SG);PRIM(1,PL);POS	ungetukalia
+kalia	V;COND;PRS;NOM(3,SG,BANTU7);PRIM(3,PL,BANTU6);POS	kingeyakalia
+kalia	V;COND;PRS;PRF;NOM(BANTU18);PRIM(3,SG,BANTU3);POS	mungekuwa mumeukalia
+kalia	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,BANTU10);PRIM(3,SG,KU)	hazingalikukalia
+kalia	V;COND;PST;NEG;NOM(3,SG,BANTU7);PRIM(RFLX)	kisingalijikalia
+kalia	V;COND;PST;NOM(3,SG,BANTU5);PRIM(RFLX);POS	lingalijikalia
+kalia	V;IND;FUT;NEG;NOM(3,PL,BANTU8);PRIM(BANTU15)	havitakukalia
+kalia	V;IND;FUT;NOM(3,PL,BANTU8);PRIM(3,SG,BANTU11);POS	vitaukalia
+kalia	V;IND;FUT;PRF;NOM(3,SG,BANTU11);PRIM(3,SG,KU);NEG	hautakuwa umekukalia
+kalia	V;IND;PRS;NEG;NOM(3,PL,BANTU6);PRIM(3,PL,BANTU2)	hayawakalii
+kalia	V;IND;PRS;NOM(3,PL,BANTU8);PRIM(3,SG,BANTU1);POS	vinamkalia
+kalia	V;IND;PRS;PRF;NEG;NOM(3,SG,KU);PRIM(1,SG)	hakujanikalia
+kalia	V;IND;PRS;PRF;NOM(3,PL,BANTU4);PRIM(3,PL,BANTU8);POS	imevikalia
+kalia	V;IND;PRS;PRF;NOM(3,SG,BANTU7);PRIM(3,SG,KU);POS	kimekukalia
+kalia	V;IND;PST;PRF;NOM(3,SG,BANTU5);PRIM(3,PL,BANTU2);POS	lilikuwa limewakalia
+kalia	V;IND;PST;PRF;NOM(BANTU15);PRIM(BANTU16);POS	kulikuwa kumepakalia
+kalia	V;PROG;NOM(2,SG);PRIM(3,SG,BANTU1);COND;PRS;NEG;LGSPEC1	hungekuwa ukimkalia
+kalia	V;PROG;NOM(3,PL,BANTU8);PRIM(BANTU16);IND;PST;NEG	havikuwa vikipakalia
+kalia	V;PROG;NOM(3,PL,BANTU8);PRIM(BANTU18);IND;PST;NEG	havikuwa vikimukalia
+kalia	V;PROG;NOM(3,SG,BANTU9);PRIM(2,PL);COND;PST;POS	ingalikuwa ikiwakalia
+kalia	V;PROG;NOM(BANTU18);PRIM(3,PL,BANTU6);COND;PST;NEG;LGSPEC1	hamungalikuwa mukiyakalia
+kaliwa	V;COND;PRS;NOM(3,PL,BANTU6);POS	yangekaliwa
+kaliwa	V;COND;PRS;PRF;NOM(3,SG,BANTU7);NEG	kisingekuwa kimekaliwa
+kaliwa	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,BANTU7)	hakingalikaliwa
+kaliwa	V;COND;PST;NEG;NOM(BANTU16)	pasingalikaliwa
+kaliwa	V;COND;PST;PRF;NOM(3,SG,KU);POS	kungalikuwa kumekaliwa
+kaliwa	V;IND;FUT;NEG;NOM(3,PL,BANTU2)	hawatakaliwa
+kaliwa	V;IND;FUT;NEG;NOM(BANTU18)	hamutakaliwa
+kaliwa	V;IND;PRS;HAB;NOM(1,SG);POS	hukaliwa
+kaliwa	V;IND;PRS;NOM(3,PL,BANTU4);POS	inakaliwa
+kaliwa	V;IND;PRS;PRF;NEG;NOM(3,SG,BANTU11)	haujakaliwa
+kaliwa	V;PROG;NOM(2,SG);IND;PRS;PRF;NEG	hujakuwa ukikaliwa
+kaliwa	V;PROG;NOM(3,PL,BANTU10);IND;FUT;NEG	hazitakuwa zikikaliwa
+kaliwa	V;PROG;NOM(3,PL,BANTU10);IND;PST;NEG	hazikuwa zikikaliwa
+kaliwa	V;PROG;NOM(3,PL,BANTU6);IND;PRS;PRF;POS	yamekuwa yakikaliwa
+kaliwa	V;PROG;NOM(3,PL,BANTU8);IND;PRS;PRF;NEG	havijakuwa vikikaliwa
+kaliwa	V;PROG;NOM(3,PL,BANTU8);IND;PRS;PRF;POS	vimekuwa vikikaliwa
+kaliwa	V;PROG;NOM(3,SG,BANTU3);COND;PST;NEG;LGSPEC1	haungalikuwa ukikaliwa
+kaliwa	V;PROG;NOM(3,SG,BANTU5);COND;PST;POS	lingalikuwa likikaliwa
+kaliwa	V;PROG;NOM(3,SG,KU);COND;PST;NEG;LGSPEC1	hakungalikuwa kukikaliwa
+kaliwa	V;PROG;NOM(3,SG,KU);IND;PRS;PRF;POS	kumekuwa kukikaliwa
+kaliwa	V;PROG;NOM(BANTU16);COND;PST;NEG;LGSPEC1	hapangalikuwa pakikaliwa
+kaliwa	V;SUBJ;PRS;NEG;NOM(3,SG,BANTU1)	asikaliwe
+kaliwa	V;SUBJ;PRS;NEG;NOM(3,SG,BANTU11)	usikaliwe
+kana	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,BANTU7);PRIM(RFLX)	hakingejikana
+kana	V;COND;PRS;NEG;NOM(BANTU18);PRIM(3,SG,KU)	musingekukana
+kana	V;COND;PRS;PRF;NOM(2,PL);PRIM(3,SG,BANTU9);POS	mngekuwa mmeikana
+kana	V;COND;PST;NEG;NOM(3,SG,BANTU5);PRIM(BANTU18)	lisingalimukana
+kana	V;COND;PST;NOM(3,SG,BANTU3);PRIM(3,SG,BANTU1);POS	ungalimkana
+kana	V;COND;PST;NOM(BANTU18);PRIM(3,PL,BANTU10);POS	mungalizikana
+kana	V;IND;FUT;NEG;NOM(3,SG,KU);PRIM(RFLX)	hakutajikana
+kana	V;IND;FUT;NOM(3,PL,BANTU6);PRIM(3,PL,BANTU6);POS	yatayakana
+kana	V;IND;PRS;NOM(2,SG);PRIM(1,SG);POS	unanikana
+kana	V;IND;PRS;PRF;NEG;NOM(3,PL,BANTU4);PRIM(3,PL,BANTU4)	hijaikana
+kana	V;IND;PRS;PRF;NOM(3,SG,BANTU11);PRIM(3,SG,BANTU7);POS	umekikana
+kana	V;IND;PST;PRF;NOM(3,SG,BANTU7);PRIM(1,SG);NEG	hakikuwa kimenikana
+kana	V;PROG;NOM(1,SG);PRIM(3,SG,KU);IND;PRS;PRF;NEG	sijakuwa nikikukana
+kana	V;PROG;NOM(3,PL,BANTU4);PRIM(3,SG,BANTU9);IND;PRS;PRF;NEG	hijakuwa ikiikana
+kana	V;PROG;NOM(3,PL,BANTU6);PRIM(3,SG,BANTU11);COND;PRS;NEG;LGSPEC1	hayangekuwa yakiukana
+kana	V;PROG;NOM(3,PL,BANTU6);PRIM(3,SG,BANTU5);IND;PRS;PRF;POS	yamekuwa yakilikana
+kana	V;PROG;NOM(3,PL,BANTU8);PRIM(3,SG,BANTU9);COND;PST;NEG	visingalikuwa vikiikana
+kana	V;PROG;NOM(3,SG,BANTU1);PRIM(3,PL,BANTU2);COND;PRS;NEG	asingekuwa akiwakana
+kana	V;PROG;NOM(3,SG,BANTU3);PRIM(2,SG);COND;PRS;NEG;LGSPEC1	haungekuwa ukikukana
+kana	V;PROG;NOM(3,SG,BANTU3);PRIM(3,SG,BANTU11);COND;PST;POS	ungalikuwa ukiukana
+kana	V;PROG;NOM(3,SG,KU);PRIM(BANTU16);COND;PRS;POS	kungekuwa kukipakana
+kana	V;PROG;NOM(BANTU16);PRIM(2,PL);COND;PRS;POS	pangekuwa pakiwakana
+kana	V;PROG;NOM(BANTU18);PRIM(3,PL,BANTU8);IND;FUT;POS	mutakuwa mukivikana
+kausha	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,BANTU3);PRIM(BANTU18)	haungemukausha
+kausha	V;COND;PRS;NEG;LGSPEC1;NOM(BANTU18);PRIM(BANTU18)	hamungemukausha
+kausha	V;COND;PRS;NEG;NOM(BANTU18);PRIM(2,SG)	musingekukausha
+kausha	V;COND;PRS;PRF;NOM(3,PL,BANTU4);PRIM(3,SG,BANTU7);NEG;LGSPEC1	hingekuwa imekikausha
+kausha	V;COND;PRS;PRF;NOM(3,SG,BANTU11);PRIM(1,SG);NEG;LGSPEC1	haungekuwa umenikausha
+kausha	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,KU);PRIM(3,PL,BANTU6)	hakungaliyakausha
+kausha	V;COND;PST;NEG;NOM(3,PL,BANTU4);PRIM(3,SG,BANTU11)	isingaliukausha
+kausha	V;COND;PST;PRF;NOM(1,PL);PRIM(3,SG,BANTU7);NEG	tusingalikuwa tumekikausha
+kausha	V;IND;FUT;NEG;NOM(3,PL,BANTU10);PRIM(3,SG,BANTU7)	hazitakikausha
+kausha	V;IND;FUT;NOM(2,PL);PRIM(3,SG,BANTU1);POS	mtamkausha
+kausha	V;IND;FUT;PRF;NOM(3,SG,BANTU7);PRIM(1,SG);NEG	hakitakuwa kimenikausha
+kausha	V;IND;PRS;NOM(3,PL,BANTU4);PRIM(3,SG,KU);POS	inakukausha
+kausha	V;IND;PRS;PRF;NEG;NOM(3,PL,BANTU4);PRIM(3,SG,BANTU9)	hijaikausha
+kausha	V;IND;PRS;PRF;NOM(2,PL);PRIM(3,SG,BANTU1);POS	mmemkausha
+kausha	V;PROG;NOM(3,PL,BANTU10);PRIM(3,SG,BANTU1);IND;PST;NEG	hazikuwa zikimkausha
+kausha	V;PROG;NOM(3,PL,BANTU2);PRIM(3,SG,BANTU3);COND;PST;NEG;LGSPEC1	hawangalikuwa wakiukausha
+kausha	V;PROG;NOM(3,PL,BANTU4);PRIM(3,PL,BANTU8);COND;PRS;NEG;LGSPEC1	hingekuwa ikivikausha
+kausha	V;PROG;NOM(3,PL,BANTU4);PRIM(BANTU15);COND;PST;NEG	isingalikuwa ikikukausha
+kausha	V;PROG;NOM(3,SG,BANTU3);PRIM(3,SG,BANTU9);IND;PST;POS	ulikuwa ukiikausha
+kausha	V;PROG;NOM(BANTU15);PRIM(RFLX);IND;FUT;NEG	hakutakuwa kukijikausha
+kausha	V;PROG;NOM(BANTU16);PRIM(3,PL,BANTU4);IND;PRS;PRF;POS	pamekuwa pakiikausha
+kausha	V;PROG;NOM(BANTU16);PRIM(BANTU16);COND;PRS;POS	pangekuwa pakipakausha
+kubaliwa	V;COND;PRS;NEG;NOM(3,SG,BANTU7)	kisingekubaliwa
+kubaliwa	V;COND;PRS;NOM(3,PL,BANTU2);POS	wangekubaliwa
+kubaliwa	V;COND;PRS;NOM(BANTU15);POS	kungekubaliwa
+kubaliwa	V;COND;PRS;PRF;NOM(1,SG);NEG	nisingekuwa nimekubaliwa
+kubaliwa	V;COND;PRS;PRF;NOM(3,PL,BANTU10);NEG	zisingekuwa zimekubaliwa
+kubaliwa	V;COND;PRS;PRF;NOM(3,PL,BANTU4);POS	ingekuwa imekubaliwa
+kubaliwa	V;COND;PST;NOM(1,SG);POS	ningalikubaliwa
+kubaliwa	V;COND;PST;PRF;NOM(3,SG,BANTU3);NEG	usingalikuwa umekubaliwa
+kubaliwa	V;IND;FUT;NOM(3,SG,BANTU11);POS	utakubaliwa
+kubaliwa	V;IND;FUT;PRF;NOM(3,PL,BANTU6);POS	yatakuwa yamekubaliwa
+kubaliwa	V;IND;PRS;NOM(2,PL);POS	mnakubaliwa
+kubaliwa	V;IND;PRS;PRF;NOM(3,SG,BANTU3);POS	umekubaliwa
+kubaliwa	V;IND;PST;NEG;NOM(3,SG,BANTU9)	haikukubaliwa
+kubaliwa	V;PROG;NOM(1,PL);IND;PRS;PRF;POS	tumekuwa tukikubaliwa
+kubaliwa	V;PROG;NOM(2,SG);COND;PRS;NEG;LGSPEC1	hungekuwa ukikubaliwa
+kubaliwa	V;PROG;NOM(3,PL,BANTU8);IND;PRS;PRF;NEG	havijakuwa vikikubaliwa
+kubaliwa	V;PROG;NOM(3,SG,KU);IND;FUT;POS	kutakuwa kukikubaliwa
+kubaliwa	V;PROG;NOM(3,SG,KU);IND;PRS;PRF;POS	kumekuwa kukikubaliwa
+kubaliwa	V;PROG;NOM(BANTU15);COND;PRS;NEG;LGSPEC1	hakungekuwa kukikubaliwa
+kubaliwa	V;PROG;NOM(BANTU16);COND;PRS;POS	pangekuwa pakikubaliwa
+kubaliwa	V;PROG;NOM(BANTU18);COND;PRS;POS	mungekuwa mukikubaliwa
+kubaliwa	V;SUBJ;PRS;NOM(3,PL,BANTU2);POS	wakubaliwe
+linda	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,KU);PRIM(3,SG,BANTU1)	hakungemlinda
+linda	V;COND;PRS;NOM(3,PL,BANTU4);PRIM(BANTU18);POS	ingemulinda
+linda	V;COND;PRS;PRF;NOM(3,SG,BANTU1);PRIM(3,SG,BANTU1);NEG	asingekuwa amemlinda
+linda	V;COND;PRS;PRF;NOM(3,SG,BANTU9);PRIM(1,SG);NEG;LGSPEC1	haingekuwa imenilinda
+linda	V;COND;PRS;PRF;NOM(BANTU16);PRIM(BANTU18);POS	pangekuwa pamemulinda
+linda	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,BANTU3);PRIM(BANTU16)	haungalipalinda
+linda	V;COND;PST;NOM(3,SG,BANTU5);PRIM(2,PL);POS	lingaliwalinda
+linda	V;COND;PST;PRF;NOM(1,SG);PRIM(3,SG,KU);NEG	nisingalikuwa nimekulinda
+linda	V;IND;FUT;NOM(3,SG,BANTU7);PRIM(3,SG,BANTU1);POS	kitamlinda
+linda	V;IND;PRS;HAB;PRIM(BANTU15);POS	hukulinda
+linda	V;IND;PRS;NEG;NOM(3,PL,BANTU8);PRIM(3,PL,BANTU2)	haviwalindi
+linda	V;IND;PRS;NOM(BANTU15);PRIM(2,PL);POS	kunawalinda
+linda	V;IND;PRS;NOM(BANTU15);PRIM(3,SG,BANTU1);POS	kunamlinda
+linda	V;IND;PRS;PRF;NOM(2,PL);PRIM(BANTU18);POS	mmemulinda
+linda	V;PROG;NOM(1,PL);PRIM(3,PL,BANTU4);IND;PRS;PRF;POS	tumekuwa tukiilinda
+linda	V;PROG;NOM(3,PL,BANTU6);PRIM(1,SG);IND;PST;NEG	hayakuwa yakinilinda
+linda	V;PROG;NOM(3,SG,BANTU11);PRIM(3,PL,BANTU8);IND;PRS;PRF;POS	umekuwa ukivilinda
+linda	V;PROG;NOM(3,SG,BANTU5);PRIM(3,SG,BANTU9);IND;PST;NEG	halikuwa likiilinda
+linda	V;PROG;NOM(3,SG,BANTU7);PRIM(3,SG,BANTU3);COND;PRS;POS	kingekuwa kikiulinda
+linda	V;PROG;NOM(3,SG,BANTU9);PRIM(RFLX);COND;PST;NEG	isingalikuwa ikijilinda
+linda	V;PROG;NOM(BANTU15);PRIM(3,SG,BANTU7);IND;PST;POS	kulikuwa kukikilinda
+linda	V;SUBJ;PRS;NEG;NOM(3,PL,BANTU6);PRIM(BANTU15)	yasikulinde
+linda	V;SUBJ;PRS;NOM(3,PL,BANTU2);PRIM(BANTU18);POS	wamulinde
+nama	V;COND;PRS;NEG;NOM(1,PL)	tusingenama
+nama	V;IND;FUT;NEG;NOM(3,SG,BANTU9)	haitanama
+nama	V;IND;FUT;PRF;NOM(3,SG,BANTU9);POS	itakuwa imenama
+nama	V;IND;PRS;NEG;NOM(3,SG,BANTU9)	hainami
+nama	V;IND;PRS;PRF;NOM(1,SG);POS	nimenama
+nama	V;IND;PST;NEG;NOM(3,SG,BANTU3)	haukunama
+nama	V;IND;PST;NEG;NOM(3,SG,BANTU5)	halikunama
+nama	V;IND;PST;PRF;NOM(3,PL,BANTU6);POS	yalikuwa yamenama
+nama	V;IND;PST;PRF;NOM(BANTU16);POS	palikuwa pamenama
+nama	V;PROG;NOM(2,PL);COND;PST;POS	mngalikuwa mkinama
+nama	V;PROG;NOM(2,PL);IND;PST;POS	mlikuwa mkinama
+nama	V;PROG;NOM(2,SG);COND;PRS;NEG;LGSPEC1	hungekuwa ukinama
+nama	V;PROG;NOM(3,PL,BANTU2);IND;PRS;PRF;NEG	hawajakuwa wakinama
+nama	V;PROG;NOM(3,PL,BANTU4);COND;PRS;NEG	isingekuwa ikinama
+nama	V;PROG;NOM(3,PL,BANTU4);COND;PRS;POS	ingekuwa ikinama
+nama	V;PROG;NOM(3,PL,BANTU6);IND;PST;POS	yalikuwa yakinama
+nama	V;PROG;NOM(3,SG,BANTU3);IND;PRS;PRF;POS	umekuwa ukinama
+nama	V;PROG;NOM(3,SG,BANTU5);COND;PST;NEG	lisingalikuwa likinama
+nama	V;PROG;NOM(3,SG,BANTU7);COND;PST;NEG;LGSPEC1	hakingalikuwa kikinama
+nama	V;PROG;NOM(3,SG,KU);COND;PRS;POS	kungekuwa kukinama
+nama	V;PROG;NOM(BANTU18);IND;FUT;NEG	hamutakuwa mukinama
+nama	V;SUBJ;PRS;NEG;NOM(3,PL,BANTU8)	visiname
+nama	V;SUBJ;PRS;NEG;NOM(3,SG,BANTU7)	kisiname
+nukia	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,BANTU7)	hakingenukia
+nukia	V;COND;PST;NEG;NOM(3,PL,BANTU6)	yasingalinukia
+nukia	V;COND;PST;NOM(3,SG,BANTU7);POS	kingalinukia
+nukia	V;COND;PST;PRF;NOM(1,PL);NEG	tusingalikuwa tumenukia
+nukia	V;COND;PST;PRF;NOM(3,SG,BANTU5);POS	lingalikuwa limenukia
+nukia	V;COND;PST;PRF;NOM(BANTU16);POS	pangalikuwa pamenukia
+nukia	V;COND;PST;PRF;NOM(BANTU18);NEG	musingalikuwa mumenukia
+nukia	V;IND;FUT;NEG;NOM(1,SG)	sitanukia
+nukia	V;IND;FUT;NOM(1,PL);POS	tutanukia
+nukia	V;IND;FUT;NOM(3,SG,BANTU7);POS	kitanukia
+nukia	V;IND;FUT;PRF;NOM(BANTU18);POS	mutakuwa mumenukia
+nukia	V;IND;PRS;NOM(3,PL,BANTU10);POS	zinanukia
+nukia	V;IND;PRS;PRF;NEG;NOM(3,SG,BANTU3)	haujanukia
+nukia	V;IND;PRS;PRF;NOM(3,PL,BANTU8);POS	vimenukia
+nukia	V;IND;PST;NEG;NOM(3,PL,BANTU6)	hayakunukia
+nukia	V;IND;PST;NOM(3,SG,KU);POS	kulinukia
+nukia	V;PROG;NOM(1,SG);COND;PRS;NEG	nisingekuwa nikinukia
+nukia	V;PROG;NOM(3,PL,BANTU6);COND;PST;NEG	yasingalikuwa yakinukia
+nukia	V;PROG;NOM(3,PL,BANTU6);IND;PST;NEG	hayakuwa yakinukia
+nukia	V;PROG;NOM(3,SG,BANTU5);COND;PRS;NEG	lisingekuwa likinukia
+nukia	V;PROG;NOM(3,SG,BANTU9);COND;PRS;NEG	isingekuwa ikinukia
+nukia	V;PROG;NOM(3,SG,BANTU9);IND;PST;NEG	haikuwa ikinukia
+nukia	V;SUBJ;PRS;NEG;NOM(BANTU16)	pasinukie
+nyonga	V;COND;PRS;NEG;NOM(3,PL,BANTU2);PRIM(2,PL)	wasingewanyonga
+nyonga	V;COND;PRS;NEG;NOM(3,SG,BANTU11);PRIM(3,SG,BANTU5)	usingelinyonga
+nyonga	V;COND;PRS;NOM(3,PL,BANTU8);PRIM(BANTU16);POS	vingepanyonga
+nyonga	V;COND;PRS;NOM(3,SG,BANTU1);PRIM(3,SG,BANTU9);POS	angeinyonga
+nyonga	V;COND;PRS;PRF;NOM(3,SG,BANTU1);PRIM(3,SG,KU);NEG	asingekuwa amekunyonga
+nyonga	V;COND;PRS;PRF;NOM(3,SG,BANTU9);PRIM(3,SG,BANTU1);NEG;LGSPEC1	haingekuwa imemnyonga
+nyonga	V;COND;PRS;PRF;NOM(3,SG,KU);PRIM(3,SG,KU);NEG;LGSPEC1	hakungekuwa kumekunyonga
+nyonga	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,BANTU6);PRIM(2,SG)	hayangalikunyonga
+nyonga	V;COND;PST;NEG;NOM(1,SG);PRIM(3,SG,BANTU3)	nisingaliunyonga
+nyonga	V;COND;PST;PRF;NOM(3,PL,BANTU6);PRIM(BANTU15);POS	yangalikuwa yamekunyonga
+nyonga	V;IND;FUT;NOM(3,PL,BANTU6);PRIM(RFLX);POS	yatajinyonga
+nyonga	V;IND;PRS;NOM(3,PL,BANTU6);PRIM(3,SG,BANTU1);POS	yanamnyonga
+nyonga	V;IND;PST;NOM(2,SG);PRIM(3,PL,BANTU6);POS	uliyanyonga
+nyonga	V;PROG;NOM(2,SG);PRIM(3,SG,BANTU11);COND;PRS;NEG;LGSPEC1	hungekuwa ukiunyonga
+nyonga	V;PROG;NOM(3,PL,BANTU2);PRIM(3,PL,BANTU8);COND;PRS;NEG;LGSPEC1	hawangekuwa wakivinyonga
+nyonga	V;PROG;NOM(3,PL,BANTU8);PRIM(3,SG,BANTU5);COND;PST;POS	vingalikuwa vikilinyonga
+nyonga	V;PROG;NOM(3,SG,KU);PRIM(1,SG);IND;PRS;PRF;POS	kumekuwa kukininyonga
+nyonga	V;PROG;NOM(3,SG,KU);PRIM(3,PL,BANTU8);COND;PRS;NEG;LGSPEC1	hakungekuwa kukivinyonga
+nyonga	V;PROG;NOM(BANTU15);PRIM(1,PL);COND;PST;NEG	kusingalikuwa kukitunyonga
+nyonga	V;PROG;NOM(BANTU15);PRIM(2,PL);COND;PST;NEG	kusingalikuwa kukiwanyonga
+nyonga	V;SUBJ;PRS;NEG;NOM(3,PL,BANTU4);PRIM(3,SG,BANTU5)	isilinyonge
+nyonga	V;SUBJ;PRS;NEG;NOM(3,PL,BANTU6);PRIM(3,PL,BANTU2)	yasiwanyonge
+nyonga	V;SUBJ;PRS;NEG;NOM(3,PL,BANTU8);PRIM(3,PL,BANTU10)	visizinyonge
+pokea	V;COND;PRS;PRF;NOM(1,SG);PRIM(3,SG,BANTU5);NEG;LGSPEC1	singekuwa nimelipokea
+pokea	V;COND;PRS;PRF;NOM(2,PL);PRIM(3,SG,KU);NEG;LGSPEC1	hamngekuwa mmekupokea
+pokea	V;COND;PRS;PRF;NOM(3,PL,BANTU8);PRIM(RFLX);NEG;LGSPEC1	havingekuwa vimejipokea
+pokea	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,BANTU4);PRIM(1,SG)	hingalinipokea
+pokea	V;COND;PST;NOM(3,PL,BANTU6);PRIM(1,SG);POS	yangalinipokea
+pokea	V;COND;PST;NOM(3,SG,KU);PRIM(3,SG,BANTU5);POS	kungalilipokea
+pokea	V;COND;PST;NOM(BANTU18);PRIM(3,SG,BANTU3);POS	mungaliupokea
+pokea	V;IND;FUT;NEG;NOM(BANTU16);PRIM(2,PL)	hapatawapokea
+pokea	V;IND;FUT;NOM(3,PL,BANTU10);PRIM(3,SG,BANTU3);POS	zitaupokea
+pokea	V;IND;PRS;HAB;NOM(2,PL);PRIM(3,PL,BANTU2);POS	huwapokea
+pokea	V;IND;PRS;NOM(3,SG,BANTU5);PRIM(3,SG,BANTU11);POS	linaupokea
+pokea	V;IND;PRS;PRF;NOM(3,SG,BANTU7);PRIM(3,PL,BANTU10);POS	kimezipokea
+pokea	V;IND;PST;NEG;NOM(3,SG,BANTU3);PRIM(3,PL,BANTU6)	haukuyapokea
+pokea	V;IND;PST;PRF;NOM(BANTU15);PRIM(RFLX);POS	kulikuwa kumejipokea
+pokea	V;PROG;NOM(1,PL);PRIM(3,PL,BANTU2);IND;PRS;PRF;NEG	hatujakuwa tukiwapokea
+pokea	V;PROG;NOM(2,SG);PRIM(3,SG,KU);IND;FUT;POS	utakuwa ukikupokea
+pokea	V;PROG;NOM(3,PL,BANTU2);PRIM(1,SG);IND;FUT;POS	watakuwa wakinipokea
+pokea	V;PROG;NOM(3,SG,BANTU3);PRIM(3,SG,BANTU3);COND;PST;NEG	usingalikuwa ukiupokea
+pokea	V;PROG;NOM(3,SG,BANTU3);PRIM(3,SG,BANTU5);COND;PST;NEG;LGSPEC1	haungalikuwa ukilipokea
+pokea	V;PROG;NOM(3,SG,BANTU7);PRIM(3,SG,BANTU7);COND;PRS;POS	kingekuwa kikikipokea
+pokea	V;PROG;NOM(3,SG,KU);PRIM(3,SG,KU);COND;PST;NEG	kusingalikuwa kukikupokea
+pokea	V;PROG;NOM(BANTU15);PRIM(2,SG);COND;PST;NEG	kusingalikuwa kukikupokea
+rekodi	V;COND;PRS;NEG;NOM(2,SG);PRIM(3,PL,BANTU2)	usingewarekoda
+rekodi	V;COND;PRS;NOM(BANTU18);PRIM(3,PL,BANTU4);POS	mungeirekoda
+rekodi	V;COND;PRS;PRF;NOM(3,SG,BANTU5);PRIM(3,SG,BANTU7);NEG	lisingekuwa limekirekoda
+rekodi	V;COND;PRS;PRF;NOM(3,SG,BANTU7);PRIM(3,SG,KU);POS	kingekuwa kimekurekoda
+rekodi	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,BANTU10);PRIM(3,SG,BANTU11)	hazingaliurekoda
+rekodi	V;COND;PST;PRF;NOM(BANTU18);PRIM(3,SG,BANTU1);POS	mungalikuwa mumemrekoda
+rekodi	V;IND;FUT;NEG;NOM(3,PL,BANTU10);PRIM(BANTU15)	hazitakurekoda
+rekodi	V;IND;FUT;PRF;NOM(3,SG,BANTU1);PRIM(2,PL);POS	atakuwa amewarekoda
+rekodi	V;IND;FUT;PRF;NOM(3,SG,BANTU1);PRIM(3,SG,KU);POS	atakuwa amekurekoda
+rekodi	V;IND;PRS;NOM(3,SG,BANTU3);PRIM(3,PL,BANTU4);POS	unairekoda
+rekodi	V;IND;PRS;PRF;NOM(3,PL,BANTU8);PRIM(1,SG);POS	vimenirekoda
+rekodi	V;IND;PRS;PRF;NOM(BANTU16);PRIM(3,PL,BANTU4);POS	pameirekoda
+rekodi	V;IND;PST;NEG;NOM(3,SG,BANTU11);PRIM(1,PL)	haukuturekoda
+rekodi	V;IND;PST;PRF;NOM(3,PL,BANTU6);PRIM(3,SG,BANTU9);NEG	hayakuwa yameirekoda
+rekodi	V;PROG;NOM(1,PL);PRIM(3,SG,BANTU7);COND;PST;NEG;LGSPEC1	hatungalikuwa tukikirekoda
+rekodi	V;PROG;NOM(1,PL);PRIM(3,SG,KU);IND;FUT;NEG	hatutakuwa tukikurekoda
+rekodi	V;PROG;NOM(2,PL);PRIM(3,PL,BANTU4);COND;PST;NEG;LGSPEC1	hamngalikuwa mkiirekoda
+rekodi	V;PROG;NOM(2,PL);PRIM(RFLX);COND;PST;NEG;LGSPEC1	hamngalikuwa mkijirekoda
+rekodi	V;PROG;NOM(2,SG);PRIM(3,PL,BANTU6);COND;PST;NEG;LGSPEC1	hungalikuwa ukiyarekoda
+rekodi	V;PROG;NOM(3,PL,BANTU6);PRIM(3,PL,BANTU2);IND;FUT;NEG	hayatakuwa yakiwarekoda
+rekodi	V;PROG;NOM(3,SG,BANTU3);PRIM(BANTU15);IND;PST;NEG	haukuwa ukikurekoda
+rekodi	V;PROG;NOM(3,SG,KU);PRIM(BANTU15);IND;PST;NEG	hakukuwa kukikurekoda
+rekodi	V;PROG;NOM(BANTU16);PRIM(2,SG);IND;PRS;PRF;NEG	hapajakuwa pakikurekoda
+rudia	V;COND;PRS;NEG;LGSPEC1;NOM(1,SG);PRIM(3,SG,BANTU3)	singeurudia
+rudia	V;COND;PRS;NEG;LGSPEC1;NOM(BANTU16);PRIM(3,PL,BANTU8)	hapangevirudia
+rudia	V;COND;PRS;NEG;NOM(1,SG);PRIM(2,PL)	nisingewarudia
+rudia	V;COND;PRS;PRF;NOM(3,PL,BANTU2);PRIM(BANTU15);NEG	wasingekuwa wamekurudia
+rudia	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,BANTU9);PRIM(BANTU18)	haingalimurudia
+rudia	V;COND;PST;NOM(1,SG);PRIM(3,PL,BANTU10);POS	ningalizirudia
+rudia	V;COND;PST;PRF;NOM(1,PL);PRIM(2,PL);NEG;LGSPEC1	hatungalikuwa tumewarudia
+rudia	V;COND;PST;PRF;NOM(2,SG);PRIM(3,SG,BANTU1);POS	ungalikuwa umemrudia
+rudia	V;COND;PST;PRF;NOM(3,SG,KU);PRIM(3,PL,BANTU10);NEG	kusingalikuwa kumezirudia
+rudia	V;IND;FUT;NEG;NOM(3,PL,BANTU4);PRIM(3,PL,BANTU4)	hitairudia
+rudia	V;IND;FUT;NOM(BANTU18);PRIM(3,PL,BANTU8);POS	mutavirudia
+rudia	V;IND;PRS;PRF;NEG;NOM(3,SG,BANTU7);PRIM(3,PL,BANTU6)	hakijayarudia
+rudia	V;IND;PST;NEG;NOM(3,PL,BANTU10);PRIM(3,SG,BANTU9)	hazikuirudia
+rudia	V;IND;PST;NOM(BANTU15);PRIM(3,PL,BANTU10);POS	kulizirudia
+rudia	V;IND;PST;PRF;NOM(BANTU18);PRIM(3,SG,BANTU11);POS	mulikuwa mumeurudia
+rudia	V;PROG;NOM(1,SG);PRIM(3,SG,KU);COND;PST;NEG	nisingalikuwa nikikurudia
+rudia	V;PROG;NOM(3,PL,BANTU2);PRIM(BANTU18);IND;PRS;PRF;POS	wamekuwa wakimurudia
+rudia	V;PROG;NOM(3,PL,BANTU4);PRIM(3,SG,BANTU11);IND;PST;POS	ilikuwa ikiurudia
+rudia	V;PROG;NOM(3,SG,BANTU5);PRIM(3,PL,BANTU4);COND;PRS;NEG	lisingekuwa likiirudia
+rudia	V;PROG;NOM(BANTU18);PRIM(2,SG);IND;PRS;PRF;NEG	hamujakuwa mukikurudia
+rudia	V;PROG;NOM(BANTU18);PRIM(BANTU16);COND;PST;NEG	musingalikuwa mukiparudia
+rudia	V;SUBJ;PRS;NEG;NOM(3,PL,BANTU8);PRIM(3,SG,BANTU1)	visimrudie
+sababisha	V;COND;PRS;NEG;LGSPEC1;NOM(3,PL,BANTU10);PRIM(3,SG,BANTU7)	hazingekisababisha
+sababisha	V;COND;PRS;NEG;NOM(BANTU16);PRIM(1,SG)	pasingenisababisha
+sababisha	V;COND;PRS;NOM(3,SG,BANTU5);PRIM(3,SG,BANTU11);POS	lingeusababisha
+sababisha	V;COND;PRS;PRF;NOM(2,PL);PRIM(3,PL,BANTU2);NEG	msingekuwa mmewasababisha
+sababisha	V;COND;PRS;PRF;NOM(3,PL,BANTU4);PRIM(BANTU16);POS	ingekuwa imepasababisha
+sababisha	V;COND;PRS;PRF;NOM(3,PL,BANTU6);PRIM(3,SG,BANTU3);NEG;LGSPEC1	hayangekuwa yameusababisha
+sababisha	V;COND;PRS;PRF;NOM(3,PL,BANTU8);PRIM(3,SG,BANTU11);NEG;LGSPEC1	havingekuwa vimeusababisha
+sababisha	V;COND;PRS;PRF;NOM(BANTU15);PRIM(3,SG,BANTU7);NEG	kusingekuwa kumekisababisha
+sababisha	V;COND;PRS;PRF;NOM(BANTU16);PRIM(3,SG,BANTU3);POS	pangekuwa pameusababisha
+sababisha	V;COND;PST;NEG;LGSPEC1;NOM(2,PL);PRIM(3,SG,BANTU5)	hamngalilisababisha
+sababisha	V;COND;PST;PRF;NOM(1,PL);PRIM(3,SG,BANTU7);NEG	tusingalikuwa tumekisababisha
+sababisha	V;IND;FUT;NEG;NOM(3,SG,BANTU3);PRIM(BANTU18)	hautamusababisha
+sababisha	V;IND;FUT;PRF;NOM(1,SG);PRIM(2,SG);POS	nitakuwa nimekusababisha
+sababisha	V;IND;PRS;NEG;NOM(3,SG,BANTU1);PRIM(2,PL)	hawasababishi
+sababisha	V;IND;PRS;NEG;NOM(3,SG,BANTU7);PRIM(BANTU16)	hakipasababishi
+sababisha	V;IND;PRS;PRF;NOM(BANTU16);PRIM(2,PL);POS	pamewasababisha
+sababisha	V;IND;PST;NOM(1,PL);PRIM(3,SG,BANTU1);POS	tulimsababisha
+sababisha	V;IND;PST;PRF;NOM(3,PL,BANTU2);PRIM(1,SG);POS	walikuwa wamenisababisha
+sababisha	V;IND;PST;PRF;NOM(3,SG,BANTU1);PRIM(RFLX);POS	alikuwa amejisababisha
+sababisha	V;PROG;NOM(1,SG);PRIM(3,SG,BANTU3);IND;PRS;PRF;NEG	sijakuwa nikiusababisha
+sababisha	V;PROG;NOM(3,PL,BANTU2);PRIM(3,SG,BANTU11);COND;PST;NEG;LGSPEC1	hawangalikuwa wakiusababisha
+sababisha	V;PROG;NOM(3,SG,BANTU7);PRIM(2,SG);COND;PST;POS	kingalikuwa kikikusababisha
+sababisha	V;PROG;NOM(BANTU18);PRIM(BANTU18);IND;FUT;POS	mutakuwa mukimusababisha
+sahaulika	V;COND;PRS;NEG;NOM(1,PL)	tusingesahaulika
+sahaulika	V;COND;PRS;PRF;NOM(3,PL,BANTU2);NEG;LGSPEC1	hawangekuwa wamesahaulika
+sahaulika	V;COND;PRS;PRF;NOM(3,SG,BANTU11);NEG	usingekuwa umesahaulika
+sahaulika	V;COND;PRS;PRF;NOM(3,SG,BANTU3);NEG;LGSPEC1	haungekuwa umesahaulika
+sahaulika	V;COND;PRS;PRF;NOM(BANTU18);NEG;LGSPEC1	hamungekuwa mumesahaulika
+sahaulika	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,BANTU1)	hangalisahaulika
+sahaulika	V;COND;PST;NEG;NOM(3,PL,BANTU10)	zisingalisahaulika
+sahaulika	V;COND;PST;NOM(3,PL,BANTU8);POS	vingalisahaulika
+sahaulika	V;COND;PST;PRF;NOM(2,PL);NEG	msingalikuwa mmesahaulika
+sahaulika	V;IND;FUT;NOM(3,SG,BANTU7);POS	kitasahaulika
+sahaulika	V;IND;FUT;PRF;NOM(1,SG);NEG	sitakuwa nimesahaulika
+sahaulika	V;IND;FUT;PRF;NOM(2,SG);NEG	hutakuwa umesahaulika
+sahaulika	V;IND;PRS;NEG;NOM(3,SG,BANTU1)	hasahauliki
+sahaulika	V;IND;PRS;NOM(3,PL,BANTU10);POS	zinasahaulika
+sahaulika	V;IND;PRS;NOM(3,PL,BANTU8);POS	vinasahaulika
+sahaulika	V;IND;PRS;PRF;NEG;NOM(3,SG,BANTU7)	hakijasahaulika
+sahaulika	V;IND;PST;PRF;NOM(3,SG,BANTU1);POS	alikuwa amesahaulika
+sahaulika	V;IND;PST;PRF;NOM(BANTU18);POS	mulikuwa mumesahaulika
+sahaulika	V;PROG;NOM(2,SG);IND;PRS;PRF;NEG	hujakuwa ukisahaulika
+sahaulika	V;PROG;NOM(3,SG,BANTU1);COND;PRS;NEG;LGSPEC1	hangekuwa akisahaulika
+sahaulika	V;PROG;NOM(3,SG,BANTU11);COND;PRS;NEG	usingekuwa ukisahaulika
+sahaulika	V;PROG;NOM(BANTU15);COND;PST;NEG	kusingalikuwa kukisahaulika
+sahaulika	V;SUBJ;PRS;NEG;NOM(3,SG,BANTU7)	kisisahaulike
+saidiwa	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,BANTU1)	hangesaidiwa
+saidiwa	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,BANTU7)	hakingesaidiwa
+saidiwa	V;COND;PST;PRF;NOM(3,PL,BANTU2);NEG	wasingalikuwa wamesaidiwa
+saidiwa	V;COND;PST;PRF;NOM(3,PL,BANTU4);POS	ingalikuwa imesaidiwa
+saidiwa	V;COND;PST;PRF;NOM(3,SG,BANTU1);NEG;LGSPEC1	hangalikuwa amesaidiwa
+saidiwa	V;COND;PST;PRF;NOM(3,SG,KU);POS	kungalikuwa kumesaidiwa
+saidiwa	V;IND;FUT;NOM(2,PL);POS	mtasaidiwa
+saidiwa	V;IND;FUT;NOM(2,SG);POS	utasaidiwa
+saidiwa	V;IND;FUT;NOM(3,PL,BANTU4);POS	itasaidiwa
+saidiwa	V;IND;FUT;NOM(3,PL,BANTU8);POS	vitasaidiwa
+saidiwa	V;IND;FUT;PRF;NOM(3,SG,BANTU1);NEG	hatakuwa amesaidiwa
+saidiwa	V;IND;PRS;HAB;POS	husaidiwa
+saidiwa	V;IND;PRS;NOM(1,SG);POS	ninasaidiwa
+saidiwa	V;IND;PRS;PRF;NEG;NOM(3,SG,BANTU9)	haijasaidiwa
+saidiwa	V;IND;PST;NEG;NOM(BANTU18)	hamukusaidiwa
+saidiwa	V;IND;PST;NOM(1,SG);POS	nilisaidiwa
+saidiwa	V;IND;PST;PRF;NOM(1,SG);POS	nilikuwa nimesaidiwa
+saidiwa	V;PROG;NOM(3,PL,BANTU4);COND;PST;NEG;LGSPEC1	hingalikuwa ikisaidiwa
+saidiwa	V;PROG;NOM(3,PL,BANTU6);IND;FUT;NEG	hayatakuwa yakisaidiwa
+saidiwa	V;PROG;NOM(3,SG,BANTU11);COND;PST;POS	ungalikuwa ukisaidiwa
+saidiwa	V;PROG;NOM(3,SG,BANTU9);COND;PRS;POS	ingekuwa ikisaidiwa
+saidiwa	V;PROG;NOM(BANTU18);IND;FUT;NEG	hamutakuwa mukisaidiwa
+shirikiana	V;COND;PRS;NEG;NOM(3,PL,BANTU10)	zisingeshirikiana
+shirikiana	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,BANTU4)	hingalishirikiana
+shirikiana	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,KU)	hakungalishirikiana
+shirikiana	V;COND;PST;NEG;LGSPEC1;NOM(BANTU18)	hamungalishirikiana
+shirikiana	V;COND;PST;NOM(3,PL,BANTU2);POS	wangalishirikiana
+shirikiana	V;IND;FUT;NEG;NOM(3,SG,BANTU1)	hatashirikiana
+shirikiana	V;IND;FUT;NOM(1,PL);POS	tutashirikiana
+shirikiana	V;IND;FUT;NOM(3,SG,BANTU1);POS	atashirikiana
+shirikiana	V;IND;FUT;NOM(3,SG,BANTU9);POS	itashirikiana
+shirikiana	V;IND;FUT;PRF;NOM(3,PL,BANTU8);POS	vitakuwa vimeshirikiana
+shirikiana	V;IND;PRS;HAB;NOM(1,PL);POS	hushirikiana
+shirikiana	V;IND;PRS;NEG;NOM(1,SG);HAB	huwa sishirikiani
+shirikiana	V;IND;PRS;PRF;NEG;NOM(3,PL,BANTU4)	hijashirikiana
+shirikiana	V;IND;PRS;PRF;NOM(1,SG);POS	nimeshirikiana
+shirikiana	V;IND;PST;NEG;NOM(3,SG,KU)	hakukushirikiana
+shirikiana	V;IND;PST;NOM(3,PL,BANTU2);POS	walishirikiana
+shirikiana	V;PROG;NOM(1,PL);IND;FUT;POS	tutakuwa tukishirikiana
+shirikiana	V;PROG;NOM(2,PL);IND;PRS;PRF;POS	mmekuwa mkishirikiana
+shirikiana	V;PROG;NOM(2,SG);COND;PST;POS	ungalikuwa ukishirikiana
+shirikiana	V;PROG;NOM(3,PL,BANTU8);COND;PST;NEG;LGSPEC1	havingalikuwa vikishirikiana
+shirikiana	V;PROG;NOM(3,SG,BANTU5);IND;FUT;POS	litakuwa likishirikiana
+shirikiana	V;PROG;NOM(3,SG,BANTU9);COND;PRS;NEG;LGSPEC1	haingekuwa ikishirikiana
+shirikiana	V;PROG;NOM(BANTU16);IND;PRS;PRF;POS	pamekuwa pakishirikiana
+shtaki	V;COND;PRS;PRF;NOM(3,SG,BANTU1);PRIM(3,SG,BANTU11);POS	angekuwa ameushtaki
+shtaki	V;COND;PRS;PRF;NOM(3,SG,BANTU5);PRIM(3,SG,BANTU5);NEG;LGSPEC1	halingekuwa limelishtaki
+shtaki	V;COND;PRS;PRF;NOM(BANTU18);PRIM(3,SG,BANTU5);NEG	musingekuwa mumelishtaki
+shtaki	V;COND;PST;NOM(3,PL,BANTU6);PRIM(2,PL);POS	yangaliwashtaki
+shtaki	V;COND;PST;PRF;NOM(2,PL);PRIM(1,PL);POS	mngalikuwa mmetushtaki
+shtaki	V;COND;PST;PRF;NOM(3,SG,BANTU3);PRIM(3,SG,BANTU7);POS	ungalikuwa umekishtaki
+shtaki	V;IND;FUT;NEG;NOM(3,SG,BANTU11);PRIM(3,SG,BANTU11)	hautaushtaki
+shtaki	V;IND;FUT;PRF;NOM(2,SG);PRIM(3,PL,BANTU10);POS	utakuwa umezishtaki
+shtaki	V;IND;FUT;PRF;NOM(3,PL,BANTU6);PRIM(BANTU18);POS	yatakuwa yamemushtaki
+shtaki	V;IND;PRS;NEG;NOM(2,SG);PRIM(3,SG,BANTU11);HAB	huwa huushtaki
+shtaki	V;IND;PRS;NEG;NOM(3,PL,BANTU6);PRIM(RFLX)	hayajishtaki
+shtaki	V;IND;PRS;NEG;NOM(BANTU15);PRIM(1,SG)	hakunishtaki
+shtaki	V;IND;PRS;PRF;NEG;NOM(3,PL,BANTU4);PRIM(3,SG,KU)	hijakushtaki
+shtaki	V;IND;PST;NOM(3,PL,BANTU2);PRIM(3,PL,BANTU6);POS	waliyashtaki
+shtaki	V;IND;PST;NOM(3,PL,BANTU4);PRIM(BANTU18);POS	ilimushtaki
+shtaki	V;IND;PST;PRF;NOM(3,SG,BANTU7);PRIM(3,SG,BANTU5);POS	kilikuwa kimelishtaki
+shtaki	V;PROG;NOM(1,PL);PRIM(BANTU16);IND;PST;NEG	hatukuwa tukipashtaki
+shtaki	V;PROG;NOM(3,PL,BANTU2);PRIM(3,SG,BANTU3);IND;PRS;PRF;POS	wamekuwa wakiushtaki
+shtaki	V;PROG;NOM(3,PL,BANTU6);PRIM(BANTU15);IND;PRS;PRF;POS	yamekuwa yakikushtaki
+shtaki	V;PROG;NOM(3,PL,BANTU8);PRIM(3,PL,BANTU10);COND;PRS;POS	vingekuwa vikizishtaki
+shtaki	V;PROG;NOM(3,PL,BANTU8);PRIM(3,SG,BANTU9);COND;PRS;NEG	visingekuwa vikiishtaki
+shtaki	V;PROG;NOM(3,SG,BANTU9);PRIM(BANTU16);COND;PST;NEG;LGSPEC1	haingalikuwa ikipashtaki
+shtaki	V;SUBJ;PRS;NOM(BANTU16);PRIM(3,PL,BANTU8);POS	pavishtaki
+shughulika	V;COND;PRS;NOM(3,PL,BANTU4);POS	ingeshughulika
+shughulika	V;COND;PRS;NOM(BANTU16);POS	pangeshughulika
+shughulika	V;COND;PRS;PRF;NOM(3,SG,BANTU5);NEG;LGSPEC1	halingekuwa limeshughulika
+shughulika	V;COND;PRS;PRF;NOM(BANTU16);NEG	pasingekuwa pameshughulika
+shughulika	V;COND;PST;NOM(3,PL,BANTU4);POS	ingalishughulika
+shughulika	V;IMP;NEG;NOM(2,SG)	usishughulike
+shughulika	V;IND;FUT;NEG;NOM(3,PL,BANTU2)	hawatashughulika
+shughulika	V;IND;FUT;NOM(3,SG,KU);POS	kutashughulika
+shughulika	V;IND;FUT;PRF;NOM(3,PL,BANTU6);POS	yatakuwa yameshughulika
+shughulika	V;IND;PRS;NEG;NOM(1,SG);HAB	huwa sishughuliki
+shughulika	V;IND;PRS;NEG;NOM(2,PL);HAB	huwa hamshughuliki
+shughulika	V;IND;PRS;NEG;NOM(BANTU16)	hapashughuliki
+shughulika	V;IND;PRS;NOM(BANTU18);POS	munashughulika
+shughulika	V;IND;PST;NEG;NOM(3,SG,KU)	hakukushughulika
+shughulika	V;PROG;NOM(1,PL);COND;PRS;POS	tungekuwa tukishughulika
+shughulika	V;PROG;NOM(2,SG);IND;PST;POS	ulikuwa ukishughulika
+shughulika	V;PROG;NOM(3,PL,BANTU6);COND;PST;NEG	yasingalikuwa yakishughulika
+shughulika	V;PROG;NOM(3,PL,BANTU6);COND;PST;NEG;LGSPEC1	hayangalikuwa yakishughulika
+shughulika	V;PROG;NOM(3,PL,BANTU8);COND;PST;POS	vingalikuwa vikishughulika
+shughulika	V;PROG;NOM(BANTU16);IND;FUT;POS	patakuwa pakishughulika
+shughulika	V;SUBJ;PRS;NEG;NOM(3,PL,BANTU2)	wasishughulike
+shughulika	V;SUBJ;PRS;NOM(1,PL);POS	tushughulike
+shushwa	V;COND;PRS;NOM(BANTU18);POS	mungeshushwa
+shushwa	V;COND;PRS;PRF;NOM(3,PL,BANTU10);POS	zingekuwa zimeshushwa
+shushwa	V;COND;PRS;PRF;NOM(3,SG,BANTU1);POS	angekuwa ameshushwa
+shushwa	V;COND;PRS;PRF;NOM(3,SG,BANTU5);NEG;LGSPEC1	halingekuwa limeshushwa
+shushwa	V;COND;PST;NOM(3,PL,BANTU6);POS	yangalishushwa
+shushwa	V;COND;PST;PRF;NOM(2,SG);POS	ungalikuwa umeshushwa
+shushwa	V;IND;FUT;NEG;NOM(2,SG)	hutashushwa
+shushwa	V;IND;FUT;NOM(2,PL);POS	mtashushwa
+shushwa	V;IND;FUT;NOM(3,SG,BANTU5);POS	litashushwa
+shushwa	V;IND;FUT;PRF;NOM(3,PL,BANTU10);NEG	hazitakuwa zimeshushwa
+shushwa	V;IND;PRS;NEG;NOM(2,SG)	hushushwi
+shushwa	V;IND;PRS;NOM(1,SG);POS	ninashushwa
+shushwa	V;IND;PRS;NOM(3,SG,BANTU3);POS	unashushwa
+shushwa	V;IND;PRS;NOM(3,SG,BANTU5);POS	linashushwa
+shushwa	V;IND;PRS;PRF;NOM(2,PL);POS	mmeshushwa
+shushwa	V;IND;PRS;PRF;NOM(BANTU16);POS	pameshushwa
+shushwa	V;IND;PST;PRF;NOM(1,SG);POS	nilikuwa nimeshushwa
+shushwa	V;IND;PST;PRF;NOM(3,PL,BANTU8);NEG	havikuwa vimeshushwa
+shushwa	V;IND;PST;PRF;NOM(3,SG,BANTU7);POS	kilikuwa kimeshushwa
+shushwa	V;PROG;NOM(1,PL);COND;PRS;NEG	tusingekuwa tukishushwa
+shushwa	V;PROG;NOM(1,SG);COND;PST;POS	ningalikuwa nikishushwa
+shushwa	V;PROG;NOM(3,SG,BANTU7);IND;PST;NEG	hakikuwa kikishushwa
+shushwa	V;SUBJ;PRS;NEG;NOM(1,SG)	nisishushwe
+simama	V;COND;PRS;NEG;LGSPEC1;NOM(2,PL)	hamngesimama
+simama	V;COND;PRS;PRF;NOM(BANTU16);NEG	pasingekuwa pamesimama
+simama	V;COND;PRS;PRF;NOM(BANTU18);POS	mungekuwa mumesimama
+simama	V;COND;PST;NEG;LGSPEC1;NOM(1,SG)	singalisimama
+simama	V;COND;PST;NEG;NOM(3,PL,BANTU8)	visingalisimama
+simama	V;COND;PST;PRF;NOM(1,SG);NEG;LGSPEC1	singalikuwa nimesimama
+simama	V;COND;PST;PRF;NOM(3,SG,BANTU7);NEG;LGSPEC1	hakingalikuwa kimesimama
+simama	V;IND;FUT;PRF;NOM(BANTU15);NEG	hakutakuwa kumesimama
+simama	V;IND;PRS;NEG;NOM(3,SG,BANTU1);HAB	huwa hasimami
+simama	V;IND;PRS;NEG;NOM(3,SG,KU)	hakusimami
+simama	V;IND;PRS;NOM(3,SG,BANTU3);POS	unasimama
+simama	V;IND;PRS;PRF;NEG;NOM(3,PL,BANTU10)	hazijasimama
+simama	V;IND;PRS;PRF;NEG;NOM(3,SG,BANTU7)	hakijasimama
+simama	V;IND;PRS;PRF;NOM(1,SG);POS	nimesimama
+simama	V;IND;PRS;PRF;NOM(3,SG,BANTU3);POS	umesimama
+simama	V;PROG;NOM(1,SG);IND;FUT;NEG	sitakuwa nikisimama
+simama	V;PROG;NOM(3,PL,BANTU10);IND;FUT;POS	zitakuwa zikisimama
+simama	V;PROG;NOM(3,PL,BANTU8);COND;PRS;NEG;LGSPEC1	havingekuwa vikisimama
+simama	V;PROG;NOM(3,SG,BANTU1);COND;PRS;NEG	asingekuwa akisimama
+simama	V;PROG;NOM(3,SG,BANTU11);COND;PRS;POS	ungekuwa ukisimama
+simama	V;PROG;NOM(3,SG,BANTU7);COND;PST;NEG;LGSPEC1	hakingalikuwa kikisimama
+simama	V;PROG;NOM(3,SG,BANTU7);IND;PST;NEG	hakikuwa kikisimama
+simama	V;PROG;NOM(3,SG,BANTU9);COND;PST;NEG;LGSPEC1	haingalikuwa ikisimama
+taga	V;COND;PRS;NOM(3,SG,BANTU9);PRIM(3,SG,BANTU3);POS	ingeutaga
+taga	V;COND;PRS;NOM(BANTU16);PRIM(RFLX);POS	pangejitaga
+taga	V;COND;PRS;PRF;NOM(3,SG,BANTU5);PRIM(3,SG,BANTU7);POS	lingekuwa limekitaga
+taga	V;COND;PST;PRF;NOM(3,SG,BANTU11);PRIM(1,PL);POS	ungalikuwa umetutaga
+taga	V;COND;PST;PRF;NOM(3,SG,BANTU5);PRIM(3,SG,BANTU11);POS	lingalikuwa limeutaga
+taga	V;COND;PST;PRF;NOM(3,SG,BANTU9);PRIM(3,SG,BANTU1);NEG	isingalikuwa imemtaga
+taga	V;IMP;NOM(2,PL);PRIM(3,PL,BANTU10);POS	zitageni
+taga	V;IND;FUT;NOM(3,SG,BANTU11);PRIM(BANTU15);POS	utakutaga
+taga	V;IND;PRS;NOM(3,SG,BANTU11);PRIM(3,SG,BANTU5);POS	unalitaga
+taga	V;IND;PST;NEG;NOM(3,PL,BANTU6);PRIM(3,SG,BANTU1)	hayakumtaga
+taga	V;IND;PST;NEG;NOM(3,SG,BANTU11);PRIM(RFLX)	haukujitaga
+taga	V;IND;PST;PRF;NOM(3,PL,BANTU2);PRIM(3,SG,BANTU7);POS	walikuwa wamekitaga
+taga	V;IND;PST;PRF;NOM(3,PL,BANTU6);PRIM(3,PL,BANTU6);POS	yalikuwa yameyataga
+taga	V;PROG;NOM(2,SG);PRIM(BANTU15);COND;PRS;NEG	usingekuwa ukikutaga
+taga	V;PROG;NOM(3,PL,BANTU2);PRIM(3,SG,BANTU5);COND;PST;NEG;LGSPEC1	hawangalikuwa wakilitaga
+taga	V;PROG;NOM(3,PL,BANTU8);PRIM(3,SG,KU);COND;PRS;NEG	visingekuwa vikikutaga
+taga	V;PROG;NOM(3,SG,BANTU1);PRIM(2,SG);IND;PST;NEG	hakuwa akikutaga
+taga	V;PROG;NOM(3,SG,BANTU1);PRIM(BANTU16);IND;PST;POS	alikuwa akipataga
+taga	V;PROG;NOM(3,SG,BANTU3);PRIM(BANTU18);COND;PST;NEG	usingalikuwa ukimutaga
+taga	V;PROG;NOM(3,SG,BANTU9);PRIM(BANTU16);IND;FUT;NEG	haitakuwa ikipataga
+taga	V;PROG;NOM(3,SG,KU);PRIM(3,SG,BANTU3);COND;PST;POS	kungalikuwa kukiutaga
+taga	V;PROG;NOM(BANTU16);PRIM(3,SG,BANTU7);COND;PST;POS	pangalikuwa pakikitaga
+taga	V;SUBJ;PRS;NEG;NOM(2,SG);PRIM(1,SG)	usinitage
+tangazwa	V;COND;PRS;NOM(2,SG);POS	ungetangazwa
+tangazwa	V;COND;PRS;PRF;NOM(3,PL,BANTU4);POS	ingekuwa imetangazwa
+tangazwa	V;COND;PRS;PRF;NOM(3,PL,BANTU6);NEG;LGSPEC1	hayangekuwa yametangazwa
+tangazwa	V;COND;PRS;PRF;NOM(3,PL,BANTU8);NEG;LGSPEC1	havingekuwa vimetangazwa
+tangazwa	V;COND;PRS;PRF;NOM(3,SG,BANTU1);POS	angekuwa ametangazwa
+tangazwa	V;COND;PRS;PRF;NOM(BANTU16);NEG	pasingekuwa pametangazwa
+tangazwa	V;COND;PST;NEG;LGSPEC1;NOM(1,PL)	hatungalitangazwa
+tangazwa	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,BANTU6)	hayangalitangazwa
+tangazwa	V;COND;PST;PRF;NOM(3,SG,BANTU5);POS	lingalikuwa limetangazwa
+tangazwa	V;COND;PST;PRF;NOM(BANTU15);POS	kungalikuwa kumetangazwa
+tangazwa	V;IND;FUT;NEG;NOM(3,PL,BANTU2)	hawatatangazwa
+tangazwa	V;IND;FUT;NOM(3,PL,BANTU4);POS	itatangazwa
+tangazwa	V;IND;PRS;NEG;NOM(3,SG,BANTU3)	hautangazwi
+tangazwa	V;IND;PST;NEG;NOM(3,PL,BANTU4)	hikutangazwa
+tangazwa	V;PROG;NOM(1,PL);IND;FUT;POS	tutakuwa tukitangazwa
+tangazwa	V;PROG;NOM(2,PL);COND;PST;NEG;LGSPEC1	hamngalikuwa mkitangazwa
+tangazwa	V;PROG;NOM(2,SG);IND;PRS;PRF;NEG	hujakuwa ukitangazwa
+tangazwa	V;PROG;NOM(3,PL,BANTU6);COND;PRS;NEG;LGSPEC1	hayangekuwa yakitangazwa
+tangazwa	V;PROG;NOM(3,SG,BANTU1);IND;PRS;PRF;NEG	hajakuwa akitangazwa
+tangazwa	V;PROG;NOM(3,SG,BANTU3);IND;FUT;POS	utakuwa ukitangazwa
+tangazwa	V;PROG;NOM(3,SG,BANTU9);IND;FUT;NEG	haitakuwa ikitangazwa
+tangazwa	V;PROG;NOM(3,SG,KU);IND;FUT;POS	kutakuwa kukitangazwa
+tangazwa	V;SUBJ;PRS;NOM(3,SG,BANTU1);POS	atangazwe
+tasa	V;COND;PRS;NEG;LGSPEC1;NOM(BANTU16);PRIM(3,SG,BANTU9)	hapangeitasa
+tasa	V;COND;PRS;NOM(2,SG);PRIM(1,PL);POS	ungetutasa
+tasa	V;COND;PRS;NOM(3,SG,BANTU9);PRIM(2,PL);POS	ingewatasa
+tasa	V;COND;PRS;PRF;NOM(2,PL);PRIM(3,SG,KU);NEG	msingekuwa mmekutasa
+tasa	V;COND;PRS;PRF;NOM(3,SG,BANTU5);PRIM(2,SG);NEG;LGSPEC1	halingekuwa limekutasa
+tasa	V;COND;PRS;PRF;NOM(3,SG,BANTU5);PRIM(3,SG,BANTU1);NEG;LGSPEC1	halingekuwa limemtasa
+tasa	V;COND;PST;NEG;LGSPEC1;NOM(BANTU16);PRIM(BANTU16)	hapangalipatasa
+tasa	V;COND;PST;NOM(1,PL);PRIM(3,SG,BANTU5);POS	tungalilitasa
+tasa	V;COND;PST;PRF;NOM(2,SG);PRIM(BANTU16);POS	ungalikuwa umepatasa
+tasa	V;COND;PST;PRF;NOM(3,SG,BANTU11);PRIM(BANTU15);NEG;LGSPEC1	haungalikuwa umekutasa
+tasa	V;IND;FUT;NEG;NOM(3,SG,BANTU9);PRIM(3,SG,BANTU1)	haitamtasa
+tasa	V;IND;FUT;NOM(3,SG,BANTU7);PRIM(3,SG,BANTU5);POS	kitalitasa
+tasa	V;IND;FUT;PRF;NOM(2,SG);PRIM(BANTU16);NEG	hutakuwa umepatasa
+tasa	V;IND;FUT;PRF;NOM(BANTU18);PRIM(BANTU15);POS	mutakuwa mumekutasa
+tasa	V;IND;PST;NEG;NOM(3,SG,BANTU9);PRIM(3,PL,BANTU8)	haikuvitasa
+tasa	V;IND;PST;NOM(3,SG,KU);PRIM(RFLX);POS	kulijitasa
+tasa	V;IND;PST;PRF;NOM(1,SG);PRIM(3,PL,BANTU10);NEG	sikuwa nimezitasa
+tasa	V;PROG;NOM(3,PL,BANTU4);PRIM(3,SG,BANTU1);IND;FUT;NEG	hitakuwa ikimtasa
+tasa	V;PROG;NOM(3,PL,BANTU4);PRIM(BANTU16);COND;PST;POS	ingalikuwa ikipatasa
+tasa	V;PROG;NOM(3,SG,BANTU9);PRIM(3,SG,BANTU11);IND;PRS;PRF;POS	imekuwa ikiutasa
+tasa	V;PROG;NOM(3,SG,KU);PRIM(3,SG,KU);COND;PST;NEG;LGSPEC1	hakungalikuwa kukikutasa
+tasa	V;PROG;NOM(BANTU18);PRIM(1,SG);COND;PST;NEG;LGSPEC1	hamungalikuwa mukinitasa
+tasa	V;SUBJ;PRS;NEG;NOM(3,SG,BANTU9);PRIM(3,SG,BANTU1)	isimtase
+tekeleza	V;COND;PRS;NEG;LGSPEC1;NOM(1,PL);PRIM(BANTU18)	hatungemutekeleza
+tekeleza	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,BANTU5);PRIM(3,PL,BANTU10)	halingezitekeleza
+tekeleza	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,BANTU9);PRIM(3,PL,BANTU6)	haingeyatekeleza
+tekeleza	V;COND;PRS;NEG;NOM(3,SG,BANTU1);PRIM(1,SG)	asingenitekeleza
+tekeleza	V;COND;PRS;NEG;NOM(3,SG,BANTU9);PRIM(3,SG,BANTU9)	isingeitekeleza
+tekeleza	V;COND;PRS;NOM(BANTU15);PRIM(3,PL,BANTU10);POS	kungezitekeleza
+tekeleza	V;COND;PRS;PRF;NOM(1,SG);PRIM(1,PL);NEG	nisingekuwa nimetutekeleza
+tekeleza	V;COND;PRS;PRF;NOM(3,PL,BANTU8);PRIM(3,PL,BANTU2);POS	vingekuwa vimewatekeleza
+tekeleza	V;COND;PRS;PRF;NOM(3,SG,BANTU7);PRIM(3,PL,BANTU10);NEG	kisingekuwa kimezitekeleza
+tekeleza	V;COND;PST;NEG;NOM(3,SG,KU);PRIM(3,PL,BANTU4)	kusingaliitekeleza
+tekeleza	V;COND;PST;NOM(BANTU15);PRIM(3,PL,BANTU2);POS	kungaliwatekeleza
+tekeleza	V;IND;FUT;NOM(2,SG);PRIM(3,SG,BANTU7);POS	utakitekeleza
+tekeleza	V;IND;FUT;PRF;NOM(1,PL);PRIM(3,PL,BANTU2);POS	tutakuwa tumewatekeleza
+tekeleza	V;IND;FUT;PRF;NOM(BANTU15);PRIM(1,PL);POS	kutakuwa kumetutekeleza
+tekeleza	V;IND;PRS;NOM(3,PL,BANTU2);PRIM(2,SG);POS	wanakutekeleza
+tekeleza	V;IND;PRS;PRF;NEG;NOM(3,PL,BANTU10);PRIM(3,SG,BANTU9)	hazijaitekeleza
+tekeleza	V;PROG;NOM(3,PL,BANTU8);PRIM(BANTU18);COND;PST;POS	vingalikuwa vikimutekeleza
+tekeleza	V;PROG;NOM(3,SG,BANTU1);PRIM(1,SG);COND;PST;POS	angalikuwa akinitekeleza
+tekeleza	V;PROG;NOM(3,SG,BANTU11);PRIM(1,SG);COND;PRS;NEG;LGSPEC1	haungekuwa ukinitekeleza
+tekeleza	V;PROG;NOM(3,SG,BANTU9);PRIM(3,SG,BANTU7);COND;PRS;POS	ingekuwa ikikitekeleza
+tekeleza	V;PROG;NOM(BANTU18);PRIM(BANTU18);COND;PST;NEG	musingalikuwa mukimutekeleza
+tekeleza	V;SUBJ;PRS;NEG;NOM(3,SG,BANTU9);PRIM(RFLX)	isijitekeleze
+tekeleza	V;SUBJ;PRS;NOM(3,SG,KU);PRIM(3,PL,BANTU10);POS	kuzitekeleze
+tema	V;COND;PRS;NOM(3,PL,BANTU8);PRIM(BANTU16);POS	vingepatema
+tema	V;COND;PRS;PRF;NOM(3,PL,BANTU2);PRIM(BANTU18);NEG;LGSPEC1	hawangekuwa wamemutema
+tema	V;COND;PRS;PRF;NOM(3,SG,BANTU1);PRIM(3,SG,BANTU1);NEG	asingekuwa amemtema
+tema	V;COND;PRS;PRF;NOM(BANTU18);PRIM(3,SG,BANTU3);NEG;LGSPEC1	hamungekuwa mumeutema
+tema	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,BANTU5);PRIM(3,SG,BANTU5)	halingalilitema
+tema	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,BANTU7);PRIM(3,SG,BANTU7)	hakingalikitema
+tema	V;COND;PST;NEG;NOM(3,PL,BANTU6);PRIM(3,SG,BANTU7)	yasingalikitema
+tema	V;COND;PST;NEG;NOM(BANTU18);PRIM(2,SG)	musingalikutema
+tema	V;COND;PST;NOM(3,SG,BANTU1);PRIM(3,SG,BANTU7);POS	angalikitema
+tema	V;COND;PST;PRF;NOM(2,SG);PRIM(3,PL,BANTU8);POS	ungalikuwa umevitema
+tema	V;COND;PST;PRF;NOM(BANTU15);PRIM(3,SG,BANTU3);NEG	kusingalikuwa kumeutema
+tema	V;IND;FUT;NEG;NOM(3,PL,BANTU8);PRIM(3,SG,BANTU5)	havitalitema
+tema	V;IND;PRS;HAB;NOM(3,PL,BANTU2);PRIM(3,SG,KU);POS	hukutema
+tema	V;IND;PRS;NEG;NOM(3,PL,BANTU2);PRIM(3,SG,BANTU9)	hawaitemi
+tema	V;IND;PRS;NEG;NOM(3,SG,KU);PRIM(3,SG,BANTU11)	hakuutemi
+tema	V;IND;PRS;NOM(3,PL,BANTU10);PRIM(BANTU18);POS	zinamutema
+tema	V;IND;PRS;NOM(3,SG,BANTU11);PRIM(3,SG,BANTU5);POS	unalitema
+tema	V;IND;PRS;PRF;NEG;NOM(BANTU16);PRIM(BANTU15)	hapajakutema
+tema	V;PROG;NOM(3,SG,BANTU11);PRIM(1,PL);COND;PRS;NEG;LGSPEC1	haungekuwa ukitutema
+tema	V;PROG;NOM(3,SG,BANTU5);PRIM(BANTU16);IND;PRS;PRF;POS	limekuwa likipatema
+tema	V;PROG;NOM(BANTU18);PRIM(3,SG,BANTU11);IND;PST;NEG	hamukuwa mukiutema
+tema	V;SUBJ;PRS;NEG;NOM(1,SG);PRIM(BANTU16)	nisipateme
+tema	V;SUBJ;PRS;NOM(3,SG,BANTU5);PRIM(3,SG,BANTU7);POS	likiteme
+tendeka	V;COND;PRS;NEG;NOM(1,PL)	tusingetendeka
+tendeka	V;COND;PRS;NOM(3,SG,KU);POS	kungetendeka
+tendeka	V;COND;PST;NOM(BANTU18);POS	mungalitendeka
+tendeka	V;COND;PST;PRF;NOM(BANTU15);POS	kungalikuwa kumetendeka
+tendeka	V;IND;FUT;NOM(3,SG,KU);POS	kutatendeka
+tendeka	V;IND;FUT;PRF;NOM(3,PL,BANTU6);NEG	hayatakuwa yametendeka
+tendeka	V;IND;FUT;PRF;NOM(3,SG,KU);POS	kutakuwa kumetendeka
+tendeka	V;IND;PRS;PRF;NEG;NOM(3,PL,BANTU2)	hawajatendeka
+tendeka	V;IND;PRS;PRF;NOM(1,PL);POS	tumetendeka
+tendeka	V;IND;PRS;PRF;NOM(3,SG,BANTU5);POS	limetendeka
+tendeka	V;IND;PRS;PRF;NOM(BANTU15);POS	kumetendeka
+tendeka	V;IND;PST;NEG;NOM(3,PL,BANTU2)	hawakutendeka
+tendeka	V;IND;PST;NOM(3,SG,BANTU7);POS	kilitendeka
+tendeka	V;IND;PST;PRF;NOM(3,PL,BANTU6);NEG	hayakuwa yametendeka
+tendeka	V;PROG;NOM(2,SG);IND;PRS;PRF;NEG	hujakuwa ukitendeka
+tendeka	V;PROG;NOM(2,SG);IND;PRS;PRF;POS	umekuwa ukitendeka
+tendeka	V;PROG;NOM(2,SG);IND;PST;NEG	hukuwa ukitendeka
+tendeka	V;PROG;NOM(3,PL,BANTU10);IND;PRS;PRF;NEG	hazijakuwa zikitendeka
+tendeka	V;PROG;NOM(3,PL,BANTU2);COND;PRS;NEG	wasingekuwa wakitendeka
+tendeka	V;PROG;NOM(3,PL,BANTU4);IND;FUT;POS	itakuwa ikitendeka
+tendeka	V;PROG;NOM(3,SG,KU);COND;PRS;NEG;LGSPEC1	hakungekuwa kukitendeka
+tendeka	V;PROG;NOM(BANTU16);IND;PST;NEG	hapakuwa pakitendeka
+tendeka	V;SUBJ;PRS;NOM(2,PL);POS	mtendeke
+thubutu	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,BANTU3)	haungethubutu
+thubutu	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,KU)	hakungethubutu
+thubutu	V;COND;PRS;NEG;LGSPEC1;NOM(BANTU16)	hapangethubutu
+thubutu	V;COND;PRS;NOM(1,PL);POS	tungethubutu
+thubutu	V;COND;PRS;PRF;NOM(1,PL);NEG	tusingekuwa tumethubutu
+thubutu	V;COND;PST;NEG;NOM(1,PL)	tusingalithubutu
+thubutu	V;COND;PST;NEG;NOM(BANTU16)	pasingalithubutu
+thubutu	V;COND;PST;NOM(3,SG,BANTU5);POS	lingalithubutu
+thubutu	V;COND;PST;PRF;NOM(3,PL,BANTU4);POS	ingalikuwa imethubutu
+thubutu	V;IND;FUT;PRF;NOM(3,SG,BANTU7);NEG	hakitakuwa kimethubutu
+thubutu	V;IND;PST;NOM(3,SG,BANTU3);POS	ulithubutu
+thubutu	V;IND;PST;PRF;NOM(3,SG,BANTU3);POS	ulikuwa umethubutu
+thubutu	V;PROG;NOM(2,SG);COND;PRS;POS	ungekuwa ukithubutu
+thubutu	V;PROG;NOM(3,SG,BANTU11);COND;PRS;NEG;LGSPEC1	haungekuwa ukithubutu
+thubutu	V;PROG;NOM(3,SG,BANTU11);IND;PRS;PRF;NEG	haujakuwa ukithubutu
+thubutu	V;PROG;NOM(3,SG,BANTU3);COND;PST;NEG;LGSPEC1	haungalikuwa ukithubutu
+thubutu	V;PROG;NOM(3,SG,BANTU5);IND;PST;POS	lilikuwa likithubutu
+thubutu	V;PROG;NOM(BANTU16);COND;PST;NEG	pasingalikuwa pakithubutu
+thubutu	V;PROG;NOM(BANTU16);IND;PST;POS	palikuwa pakithubutu
+thubutu	V;PROG;NOM(BANTU18);COND;PRS;NEG;LGSPEC1	hamungekuwa mukithubutu
+thubutu	V;SUBJ;PRS;NOM(3,SG,BANTU1);POS	athubutu
+tisha	V;COND;PRS;NEG;LGSPEC1;NOM(2,SG);PRIM(2,PL)	hungewatisha
+tisha	V;COND;PRS;NOM(3,PL,BANTU10);PRIM(3,PL,BANTU2);POS	zingewatisha
+tisha	V;COND;PRS;PRF;NOM(3,PL,BANTU6);PRIM(BANTU15);POS	yangekuwa yamekutisha
+tisha	V;COND;PST;PRF;NOM(3,SG,KU);PRIM(3,PL,BANTU10);NEG	kusingalikuwa kumezitisha
+tisha	V;COND;PST;PRF;NOM(3,SG,KU);PRIM(3,PL,BANTU6);POS	kungalikuwa kumeyatisha
+tisha	V;IND;FUT;NOM(3,SG,BANTU5);PRIM(3,PL,BANTU6);POS	litayatisha
+tisha	V;IND;FUT;PRF;NOM(1,PL);PRIM(BANTU18);POS	tutakuwa tumemutisha
+tisha	V;IND;FUT;PRF;NOM(BANTU18);PRIM(3,SG,BANTU9);NEG	hamutakuwa mumeitisha
+tisha	V;IND;PRS;NOM(3,PL,BANTU4);PRIM(3,SG,BANTU9);POS	inaitisha
+tisha	V;IND;PRS;PRF;NOM(3,PL,BANTU8);PRIM(3,PL,BANTU2);POS	vimewatisha
+tisha	V;IND;PST;NEG;NOM(3,SG,BANTU9);PRIM(3,SG,BANTU11)	haikuutisha
+tisha	V;IND;PST;PRF;NOM(1,PL);PRIM(2,PL);NEG	hatukuwa tumewatisha
+tisha	V;IND;PST;PRF;NOM(3,PL,BANTU6);PRIM(3,SG,KU);NEG	hayakuwa yamekutisha
+tisha	V;IND;PST;PRF;NOM(BANTU16);PRIM(BANTU18);NEG	hapakuwa pamemutisha
+tisha	V;PROG;NOM(1,SG);PRIM(3,SG,BANTU7);COND;PST;NEG;LGSPEC1	singalikuwa nikikitisha
+tisha	V;PROG;NOM(2,PL);PRIM(BANTU18);IND;PST;POS	mlikuwa mkimutisha
+tisha	V;PROG;NOM(2,SG);PRIM(3,SG,BANTU9);IND;PRS;PRF;POS	umekuwa ukiitisha
+tisha	V;PROG;NOM(3,PL,BANTU2);PRIM(3,PL,BANTU8);COND;PRS;POS	wangekuwa wakivitisha
+tisha	V;PROG;NOM(3,PL,BANTU6);PRIM(BANTU15);IND;FUT;NEG	hayatakuwa yakikutisha
+tisha	V;PROG;NOM(3,SG,BANTU5);PRIM(BANTU16);COND;PRS;POS	lingekuwa likipatisha
+tisha	V;SUBJ;PRS;NEG;NOM(3,PL,BANTU10);PRIM(3,SG,BANTU9)	zisiitishe
+tisha	V;SUBJ;PRS;NOM(3,PL,BANTU8);PRIM(3,SG,BANTU1);POS	vimtishe
+tisha	V;SUBJ;PRS;NOM(BANTU18);PRIM(3,PL,BANTU10);POS	muzitishe
+tumiwa	V;COND;PRS;NEG;NOM(3,PL,BANTU10)	zisingetumiwa
+tumiwa	V;COND;PRS;NOM(3,SG,BANTU1);POS	angetumiwa
+tumiwa	V;COND;PRS;NOM(3,SG,BANTU3);POS	ungetumiwa
+tumiwa	V;COND;PRS;PRF;NOM(2,SG);NEG;LGSPEC1	hungekuwa umetumiwa
+tumiwa	V;COND;PRS;PRF;NOM(BANTU15);NEG;LGSPEC1	hakungekuwa kumetumiwa
+tumiwa	V;COND;PRS;PRF;NOM(BANTU16);NEG	pasingekuwa pametumiwa
+tumiwa	V;COND;PST;PRF;NOM(3,SG,BANTU5);NEG;LGSPEC1	halingalikuwa limetumiwa
+tumiwa	V;IND;FUT;NEG;NOM(3,PL,BANTU8)	havitatumiwa
+tumiwa	V;IND;PRS;NEG;NOM(1,SG);HAB	huwa situmiwi
+tumiwa	V;IND;PRS;NEG;NOM(3,SG,KU)	hakutumiwi
+tumiwa	V;IND;PST;NOM(3,SG,BANTU5);POS	lilitumiwa
+tumiwa	V;IND;PST;PRF;NOM(3,SG,BANTU7);NEG	hakikuwa kimetumiwa
+tumiwa	V;PROG;NOM(3,PL,BANTU10);COND;PST;POS	zingalikuwa zikitumiwa
+tumiwa	V;PROG;NOM(3,PL,BANTU2);COND;PST;NEG;LGSPEC1	hawangalikuwa wakitumiwa
+tumiwa	V;PROG;NOM(3,PL,BANTU4);IND;FUT;POS	itakuwa ikitumiwa
+tumiwa	V;PROG;NOM(3,SG,BANTU1);IND;FUT;POS	atakuwa akitumiwa
+tumiwa	V;PROG;NOM(3,SG,BANTU1);IND;PST;NEG	hakuwa akitumiwa
+tumiwa	V;PROG;NOM(3,SG,BANTU3);COND;PRS;NEG;LGSPEC1	haungekuwa ukitumiwa
+tumiwa	V;PROG;NOM(3,SG,BANTU7);COND;PRS;NEG	kisingekuwa kikitumiwa
+tumiwa	V;PROG;NOM(3,SG,BANTU7);IND;PRS;PRF;POS	kimekuwa kikitumiwa
+tumiwa	V;PROG;NOM(BANTU16);IND;FUT;NEG	hapatakuwa pakitumiwa
+tumiwa	V;PROG;NOM(BANTU18);IND;PRS;PRF;NEG	hamujakuwa mukitumiwa
+tumiwa	V;SUBJ;PRS;NEG;NOM(3,PL,BANTU8)	visitumiwe
+tunza	V;COND;PRS;NEG;NOM(3,PL,BANTU8);PRIM(3,SG,BANTU9)	visingeitunza
+tunza	V;COND;PRS;PRF;NOM(3,SG,KU);PRIM(3,SG,BANTU11);NEG;LGSPEC1	hakungekuwa kumeutunza
+tunza	V;COND;PST;NEG;LGSPEC1;NOM(1,PL);PRIM(BANTU15)	hatungalikutunza
+tunza	V;COND;PST;NOM(1,SG);PRIM(3,SG,KU);POS	ningalikutunza
+tunza	V;COND;PST;NOM(3,PL,BANTU6);PRIM(1,SG);POS	yangalinitunza
+tunza	V;COND;PST;NOM(3,SG,BANTU3);PRIM(3,SG,BANTU3);POS	ungaliutunza
+tunza	V;IND;FUT;NEG;NOM(3,SG,BANTU11);PRIM(3,SG,BANTU5)	hautalitunza
+tunza	V;IND;FUT;NEG;NOM(BANTU18);PRIM(1,SG)	hamutanitunza
+tunza	V;IND;FUT;NOM(3,PL,BANTU6);PRIM(2,SG);POS	yatakutunza
+tunza	V;IND;FUT;PRF;NOM(3,SG,BANTU11);PRIM(3,PL,BANTU2);POS	utakuwa umewatunza
+tunza	V;IND;PRS;NEG;NOM(3,PL,BANTU2);PRIM(3,SG,BANTU3);HAB	huwa hawautunzi
+tunza	V;IND;PRS;NOM(3,SG,BANTU5);PRIM(3,SG,BANTU1);POS	linamtunza
+tunza	V;IND;PRS;PRF;NEG;NOM(3,PL,BANTU10);PRIM(1,SG)	hazijanitunza
+tunza	V;IND;PST;PRF;NOM(3,SG,BANTU7);PRIM(3,SG,BANTU3);NEG	hakikuwa kimeutunza
+tunza	V;IND;PST;PRF;NOM(BANTU16);PRIM(2,SG);POS	palikuwa pamekutunza
+tunza	V;IND;PST;PRF;NOM(BANTU18);PRIM(3,PL,BANTU2);POS	mulikuwa mumewatunza
+tunza	V;PROG;NOM(3,PL,BANTU2);PRIM(BANTU18);COND;PRS;POS	wangekuwa wakimutunza
+tunza	V;PROG;NOM(3,PL,BANTU8);PRIM(3,SG,BANTU9);COND;PST;NEG	visingalikuwa vikiitunza
+tunza	V;PROG;NOM(3,SG,BANTU3);PRIM(BANTU18);IND;PRS;PRF;POS	umekuwa ukimutunza
+tunza	V;PROG;NOM(BANTU15);PRIM(3,PL,BANTU4);COND;PST;POS	kungalikuwa kukiitunza
+tunza	V;PROG;NOM(BANTU18);PRIM(RFLX);COND;PST;POS	mungalikuwa mukijitunza
+tunza	V;SUBJ;PRS;NOM(3,PL,BANTU8);PRIM(3,PL,BANTU8);POS	vivitunze
+ua	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,BANTU5);PRIM(BANTU18)	halingemuua
+ua	V;COND;PRS;NEG;NOM(3,SG,BANTU5);PRIM(3,SG,KU)	lisingekuua
+ua	V;COND;PRS;PRF;NOM(2,PL);PRIM(BANTU15);NEG	msingekuwa mmekuua
+ua	V;COND;PRS;PRF;NOM(3,SG,BANTU1);PRIM(2,SG);NEG;LGSPEC1	hangekuwa amekuua
+ua	V;COND;PRS;PRF;NOM(3,SG,BANTU3);PRIM(2,PL);NEG	usingekuwa umewaua
+ua	V;COND;PRS;PRF;NOM(3,SG,BANTU5);PRIM(2,PL);POS	lingekuwa limewaua
+ua	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,BANTU11);PRIM(3,SG,BANTU11)	haungaliuua
+ua	V;IND;FUT;PRF;NOM(1,PL);PRIM(1,SG);POS	tutakuwa tumeniua
+ua	V;IND;PRS;NEG;NOM(3,PL,BANTU10);PRIM(1,SG)	haziniui
+ua	V;IND;PRS;NEG;NOM(3,PL,BANTU2);PRIM(3,PL,BANTU10)	hawaziui
+ua	V;IND;PRS;NEG;NOM(3,SG,BANTU9);PRIM(1,PL)	haituui
+ua	V;IND;PRS;NOM(3,SG,KU);PRIM(3,PL,BANTU10);POS	kunaziua
+ua	V;IND;PRS;PRF;NOM(3,SG,KU);PRIM(BANTU16);POS	kumepaua
+ua	V;IND;PST;NOM(BANTU18);PRIM(3,SG,BANTU9);POS	muliiua
+ua	V;IND;PST;PRF;NOM(2,SG);PRIM(BANTU18);NEG	hukuwa umemuua
+ua	V;IND;PST;PRF;NOM(3,PL,BANTU8);PRIM(3,PL,BANTU2);NEG	havikuwa vimewaua
+ua	V;IND;PST;PRF;NOM(3,SG,BANTU5);PRIM(3,SG,BANTU3);NEG	halikuwa limeuua
+ua	V;PROG;NOM(1,SG);PRIM(3,PL,BANTU2);COND;PST;NEG;LGSPEC1	singalikuwa nikiwaua
+ua	V;PROG;NOM(2,SG);PRIM(3,SG,KU);COND;PRS;NEG	usingekuwa ukikuua
+ua	V;PROG;NOM(BANTU16);PRIM(3,PL,BANTU8);IND;FUT;POS	patakuwa pakiviua
+ua	V;SUBJ;PRS;NEG;NOM(3,PL,BANTU4);PRIM(3,PL,BANTU4)	isiiue
+ua	V;SUBJ;PRS;NEG;NOM(3,PL,BANTU4);PRIM(3,PL,BANTU8)	isiviue
+ua	V;SUBJ;PRS;NEG;NOM(3,SG,BANTU9);PRIM(3,SG,BANTU5)	isiliue
+uliwa	V;COND;PRS;NEG;NOM(3,SG,BANTU11)	usingeuliwa
+uliwa	V;COND;PRS;NEG;NOM(3,SG,BANTU7)	kisingeuliwa
+uliwa	V;COND;PRS;NOM(3,SG,BANTU11);POS	ungeuliwa
+uliwa	V;COND;PRS;PRF;NOM(3,SG,BANTU7);NEG;LGSPEC1	hakingekuwa kimeuliwa
+uliwa	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,KU)	hakungaliuliwa
+uliwa	V;COND;PST;NOM(3,PL,BANTU4);POS	ingaliuliwa
+uliwa	V;IND;FUT;NOM(3,PL,BANTU6);POS	yatauliwa
+uliwa	V;IND;FUT;NOM(3,PL,BANTU8);POS	vitauliwa
+uliwa	V;IND;FUT;PRF;NOM(3,PL,BANTU6);POS	yatakuwa yameuliwa
+uliwa	V;IND;FUT;PRF;NOM(BANTU15);POS	kutakuwa kumeuliwa
+uliwa	V;IND;PRS;NOM(2,PL);POS	mnauliwa
+uliwa	V;IND;PRS;PRF;NEG;NOM(1,SG)	sijauliwa
+uliwa	V;IND;PRS;PRF;NOM(BANTU15);POS	kumeuliwa
+uliwa	V;IND;PST;PRF;NOM(3,SG,BANTU5);POS	lilikuwa limeuliwa
+uliwa	V;IND;PST;PRF;NOM(3,SG,BANTU7);NEG	hakikuwa kimeuliwa
+uliwa	V;PROG;NOM(3,SG,BANTU11);IND;PRS;PRF;POS	umekuwa ukiuliwa
+uliwa	V;PROG;NOM(3,SG,KU);IND;PST;NEG	hakukuwa kukiuliwa
+uliwa	V;PROG;NOM(BANTU16);COND;PRS;NEG;LGSPEC1	hapangekuwa pakiuliwa
+uliwa	V;PROG;NOM(BANTU18);COND;PRS;NEG;LGSPEC1	hamungekuwa mukiuliwa
+uliwa	V;PROG;NOM(BANTU18);IND;FUT;POS	mutakuwa mukiuliwa
+uliwa	V;SUBJ;PRS;NEG;NOM(1,PL)	tusiuliwe
+uliwa	V;SUBJ;PRS;NEG;NOM(3,SG,BANTU1)	asiuliwe
+uliwa	V;SUBJ;PRS;NEG;NOM(3,SG,KU)	kusiuliwe
+umwa	V;COND;PRS;NEG;LGSPEC1;NOM(1,PL)	hatungeumwa
+umwa	V;COND;PRS;NEG;NOM(3,SG,BANTU3)	usingeumwa
+umwa	V;COND;PRS;NOM(3,SG,BANTU3);POS	ungeumwa
+umwa	V;COND;PRS;PRF;NOM(3,PL,BANTU6);NEG;LGSPEC1	hayangekuwa yameumwa
+umwa	V;COND;PRS;PRF;NOM(3,SG,BANTU7);NEG	kisingekuwa kimeumwa
+umwa	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,BANTU4)	hingaliumwa
+umwa	V;COND;PST;NOM(BANTU16);POS	pangaliumwa
+umwa	V;COND;PST;PRF;NOM(3,SG,BANTU1);NEG	asingalikuwa ameumwa
+umwa	V;COND;PST;PRF;NOM(3,SG,BANTU1);NEG;LGSPEC1	hangalikuwa ameumwa
+umwa	V;IND;FUT;NEG;NOM(3,PL,BANTU4)	hitaumwa
+umwa	V;IND;FUT;NOM(3,SG,BANTU7);POS	kitaumwa
+umwa	V;IND;FUT;NOM(BANTU15);POS	kutaumwa
+umwa	V;IND;PRS;NEG;NOM(1,PL)	hatuumwi
+umwa	V;IND;PRS;NOM(BANTU18);POS	munaumwa
+umwa	V;IND;PRS;PRF;NEG;NOM(2,SG)	hujaumwa
+umwa	V;PROG;NOM(1,PL);COND;PRS;NEG	tusingekuwa tukiumwa
+umwa	V;PROG;NOM(3,SG,BANTU3);IND;PST;NEG	haukuwa ukiumwa
+umwa	V;PROG;NOM(3,SG,BANTU7);IND;PRS;PRF;POS	kimekuwa kikiumwa
+umwa	V;PROG;NOM(3,SG,BANTU9);COND;PST;POS	ingalikuwa ikiumwa
+umwa	V;PROG;NOM(3,SG,KU);COND;PRS;NEG	kusingekuwa kukiumwa
+umwa	V;PROG;NOM(BANTU15);COND;PST;POS	kungalikuwa kukiumwa
+umwa	V;SUBJ;PRS;NOM(BANTU16);POS	paumwe
+weka	V;COND;PRS;NOM(3,PL,BANTU4);PRIM(BANTU16);POS	ingepaweka
+weka	V;COND;PRS;PRF;NOM(BANTU18);PRIM(3,SG,BANTU11);NEG	musingekuwa mumeuweka
+weka	V;COND;PST;PRF;NOM(1,SG);PRIM(3,SG,BANTU11);POS	ningalikuwa nimeuweka
+weka	V;COND;PST;PRF;NOM(3,PL,BANTU6);PRIM(3,SG,BANTU5);POS	yangalikuwa yameliweka
+weka	V;COND;PST;PRF;NOM(3,SG,BANTU3);PRIM(3,SG,BANTU9);NEG	usingalikuwa umeiweka
+weka	V;COND;PST;PRF;NOM(BANTU16);PRIM(3,PL,BANTU4);NEG	pasingalikuwa pameiweka
+weka	V;IND;FUT;PRF;NOM(3,PL,BANTU8);PRIM(RFLX);NEG	havitakuwa vimejiweka
+weka	V;IND;PRS;NEG;NOM(2,PL);PRIM(3,SG,BANTU9)	hamuiweki
+weka	V;IND;PRS;NEG;NOM(3,PL,BANTU4);PRIM(3,PL,BANTU2)	hiwaweki
+weka	V;IND;PRS;NOM(1,SG);PRIM(RFLX);POS	ninajiweka
+weka	V;IND;PRS;NOM(3,PL,BANTU10);PRIM(3,PL,BANTU6);POS	zinayaweka
+weka	V;IND;PRS;NOM(3,SG,BANTU9);PRIM(3,PL,BANTU10);POS	inaziweka
+weka	V;IND;PRS;PRF;NEG;NOM(2,PL);PRIM(BANTU16)	hamjapaweka
+weka	V;IND;PRS;PRF;NEG;NOM(3,PL,BANTU10);PRIM(BANTU18)	hazijamuweka
+weka	V;IND;PST;NOM(BANTU16);PRIM(3,SG,BANTU5);POS	paliliweka
+weka	V;PROG;NOM(3,PL,BANTU2);PRIM(3,SG,BANTU11);COND;PST;POS	wangalikuwa wakiuweka
+weka	V;PROG;NOM(3,PL,BANTU8);PRIM(3,SG,KU);COND;PRS;NEG	visingekuwa vikikuweka
+weka	V;PROG;NOM(3,SG,BANTU1);PRIM(3,SG,BANTU1);IND;FUT;NEG	hatakuwa akimweka
+weka	V;PROG;NOM(3,SG,KU);PRIM(2,PL);COND;PRS;NEG;LGSPEC1	hakungekuwa kukiwaweka
+weka	V;PROG;NOM(3,SG,KU);PRIM(3,SG,BANTU3);IND;PST;NEG	hakukuwa kukiuweka
+weka	V;PROG;NOM(BANTU15);PRIM(1,PL);IND;PRS;PRF;NEG	hakujakuwa kukituweka
+weka	V;PROG;NOM(BANTU16);PRIM(BANTU16);COND;PRS;NEG	pasingekuwa pakipaweka
+weka	V;SUBJ;PRS;NEG;NOM(3,SG,BANTU3);PRIM(RFLX)	usijiweke
+zeeka	V;COND;PRS;NEG;LGSPEC1;NOM(1,PL)	hatungezeeka
+zeeka	V;COND;PRS;NEG;NOM(1,SG)	nisingezeeka
+zeeka	V;COND;PST;NEG;LGSPEC1;NOM(2,SG)	hungalizeeka
+zeeka	V;COND;PST;NEG;NOM(3,SG,BANTU7)	kisingalizeeka
+zeeka	V;COND;PST;NOM(1,PL);POS	tungalizeeka
+zeeka	V;IND;FUT;NEG;NOM(BANTU16)	hapatazeeka
+zeeka	V;IND;FUT;PRF;NOM(3,PL,BANTU6);POS	yatakuwa yamezeeka
+zeeka	V;IND;FUT;PRF;NOM(3,SG,BANTU3);NEG	hautakuwa umezeeka
+zeeka	V;IND;FUT;PRF;NOM(BANTU15);NEG	hakutakuwa kumezeeka
+zeeka	V;IND;PRS;NEG;NOM(3,SG,BANTU11)	hauzeeki
+zeeka	V;IND;PRS;NEG;NOM(3,SG,BANTU3)	hauzeeki
+zeeka	V;IND;PRS;NOM(BANTU16);POS	panazeeka
+zeeka	V;IND;PRS;PRF;NOM(3,SG,BANTU5);POS	limezeeka
+zeeka	V;IND;PST;PRF;NOM(2,PL);NEG	hamkuwa mmezeeka
+zeeka	V;PROG;NOM(1,PL);IND;PST;NEG	hatukuwa tukizeeka
+zeeka	V;PROG;NOM(2,PL);COND;PST;NEG;LGSPEC1	hamngalikuwa mkizeeka
+zeeka	V;PROG;NOM(2,PL);IND;PRS;PRF;POS	mmekuwa mkizeeka
+zeeka	V;PROG;NOM(3,PL,BANTU4);COND;PRS;POS	ingekuwa ikizeeka
+zeeka	V;PROG;NOM(3,SG,BANTU11);COND;PRS;NEG	usingekuwa ukizeeka
+zeeka	V;PROG;NOM(3,SG,BANTU11);IND;PRS;PRF;POS	umekuwa ukizeeka
+zeeka	V;PROG;NOM(3,SG,BANTU11);IND;PST;NEG	haukuwa ukizeeka
+zeeka	V;PROG;NOM(3,SG,BANTU5);IND;PRS;PRF;POS	limekuwa likizeeka
+zeeka	V;PROG;NOM(BANTU16);IND;FUT;NEG	hapatakuwa pakizeeka
+zuia	V;COND;PRS;NEG;LGSPEC1;NOM(3,PL,BANTU4);PRIM(2,PL)	hingewazuia
+zuia	V;COND;PRS;NOM(3,SG,BANTU9);PRIM(3,PL,BANTU4);POS	ingeizuia
+zuia	V;COND;PRS;PRF;NOM(3,PL,BANTU8);PRIM(BANTU16);NEG;LGSPEC1	havingekuwa vimepazuia
+zuia	V;COND;PRS;PRF;NOM(3,SG,BANTU3);PRIM(3,SG,BANTU9);NEG;LGSPEC1	haungekuwa umeizuia
+zuia	V;COND;PST;NOM(BANTU18);PRIM(3,PL,BANTU10);POS	mungalizizuia
+zuia	V;COND;PST;PRF;NOM(3,PL,BANTU4);PRIM(3,PL,BANTU6);NEG	isingalikuwa imeyazuia
+zuia	V;IND;FUT;NOM(2,PL);PRIM(3,SG,KU);POS	mtakuzuia
+zuia	V;IND;FUT;NOM(BANTU16);PRIM(3,PL,BANTU6);POS	patayazuia
+zuia	V;IND;PRS;NEG;NOM(3,PL,BANTU8);PRIM(3,SG,BANTU11)	haviuzuii
+zuia	V;IND;PST;NEG;NOM(3,PL,BANTU8);PRIM(3,PL,BANTU2)	havikuwazuia
+zuia	V;IND;PST;NOM(3,SG,BANTU9);PRIM(3,SG,BANTU1);POS	ilimzuia
+zuia	V;IND;PST;NOM(BANTU18);PRIM(3,SG,KU);POS	mulikuzuia
+zuia	V;IND;PST;PRF;NOM(3,SG,BANTU5);PRIM(3,PL,BANTU10);NEG	halikuwa limezizuia
+zuia	V;PROG;NOM(3,PL,BANTU4);PRIM(2,PL);IND;PRS;PRF;POS	imekuwa ikiwazuia
+zuia	V;PROG;NOM(3,PL,BANTU4);PRIM(3,PL,BANTU4);IND;PST;POS	ilikuwa ikiizuia
+zuia	V;PROG;NOM(3,SG,BANTU1);PRIM(3,PL,BANTU2);COND;PST;NEG	asingalikuwa akiwazuia
+zuia	V;PROG;NOM(3,SG,BANTU11);PRIM(RFLX);IND;PRS;PRF;POS	umekuwa ukijizuia
+zuia	V;PROG;NOM(3,SG,BANTU7);PRIM(3,PL,BANTU6);IND;PST;POS	kilikuwa kikiyazuia
+zuia	V;PROG;NOM(3,SG,BANTU9);PRIM(BANTU18);IND;PRS;PRF;POS	imekuwa ikimuzuia
+zuia	V;PROG;NOM(BANTU16);PRIM(BANTU18);IND;FUT;POS	patakuwa pakimuzuia
+zuia	V;PROG;NOM(BANTU18);PRIM(3,PL,BANTU4);IND;PST;POS	mulikuwa mukiizuia
+zuia	V;PROG;NOM(BANTU18);PRIM(3,SG,BANTU3);IND;PST;POS	mulikuwa mukiuzuia
+zuia	V;SUBJ;PRS;NOM(3,SG,BANTU1);PRIM(3,SG,BANTU11);POS	auzuie

@@ -1,0 +1,1000 @@
+ajankäyttö	N;ACC(PL)	ajankäytöt
+ajankäyttö	N;ACC(SG)	ajankäyttö
+ajankäyttö	N;AT+ABL(PL)	ajankäytöiltä
+ajankäyttö	N;AT+ALL(SG)	ajankäytölle
+ajankäyttö	N;AT+ESS(SG)	ajankäytöllä
+ajankäyttö	N;COM(PL)	ajankäyttöineen
+ajankäyttö	N;FRML(PL)	ajankäyttöinä
+ajankäyttö	N;GEN(PL)	ajankäyttöjen
+ajankäyttö	N;GEN(SG)	ajankäytön
+ajankäyttö	N;IN+ABL(PL)	ajankäytöistä
+ajankäyttö	N;IN+ABL(SG)	ajankäytöstä
+ajankäyttö	N;IN+ALL(PL)	ajankäyttöihin
+ajankäyttö	N;IN+ESS(PL)	ajankäytöissä
+ajankäyttö	N;IN+ESS(SG)	ajankäytössä
+ajankäyttö	N;INS(PL)	ajankäytöin
+ajankäyttö	N;NOM(SG)	ajankäyttö
+ajankäyttö	N;PRIV(SG)	ajankäytöttä
+ajankäyttö	N;PRT(PL)	ajankäyttöjä
+ajankäyttö	N;PRT(SG)	ajankäyttöä
+ajankäyttö	N;PSS(2,SG)	ajankäyttösi
+ajankäyttö	N;TRANS(PL)	ajankäytöiksi
+arvonlisäverollinen	ADJ;ACC(PL)	arvonlisäverolliset
+arvonlisäverollinen	ADJ;AT+ABL(PL)	arvonlisäverollisilta
+arvonlisäverollinen	ADJ;AT+ABL(SG)	arvonlisäverolliselta
+arvonlisäverollinen	ADJ;AT+ALL(PL)	arvonlisäverollisille
+arvonlisäverollinen	ADJ;AT+ALL(SG)	arvonlisäverolliselle
+arvonlisäverollinen	ADJ;AT+ESS(PL)	arvonlisäverollisilla
+arvonlisäverollinen	ADJ;AT+ESS(SG)	arvonlisäverollisella
+arvonlisäverollinen	ADJ;COM(PL)	arvonlisäverollisine
+arvonlisäverollinen	ADJ;FRML(SG)	arvonlisäverollisena
+arvonlisäverollinen	ADJ;IN+ALL(PL)	arvonlisäverollisiin
+arvonlisäverollinen	ADJ;IN+ALL(SG)	arvonlisäverolliseen
+arvonlisäverollinen	ADJ;INS(PL)	arvonlisäverollisin
+arvonlisäverollinen	ADJ;NOM(SG)	arvonlisäverollinen
+arvonlisäverollinen	ADJ;PRIV(SG)	arvonlisäverollisetta
+arvonlisäverollinen	ADJ;PRT(PL)	arvonlisäverollisia
+arvonlisäverollinen	ADJ;PRT(SG)	arvonlisäverollista
+arvonlisäverollinen	ADJ;PSS(1,PL)	arvonlisäverollisemme
+arvonlisäverollinen	ADJ;PSS(2,PL)	arvonlisäverollisenne
+arvonlisäverollinen	ADJ;PSS(2,SG)	arvonlisäverollisesi
+arvonlisäverollinen	ADJ;PSS(3)	arvonlisäverollisensa
+arvonlisäverollinen	ADJ;TRANS(SG)	arvonlisäverolliseksi
+astrologinen	ADJ;ACC(PL)	astrologiset
+astrologinen	ADJ;ACC(SG)	astrologinen
+astrologinen	ADJ;AT+ABL(PL)	astrologisilta
+astrologinen	ADJ;AT+ABL(SG)	astrologiselta
+astrologinen	ADJ;AT+ESS(PL)	astrologisilla
+astrologinen	ADJ;AT+ESS(SG)	astrologisella
+astrologinen	ADJ;FRML(PL)	astrologisina
+astrologinen	ADJ;GEN(PL)	astrologisten
+astrologinen	ADJ;IN+ALL(SG)	astrologiseen
+astrologinen	ADJ;IN+ESS(PL)	astrologisissa
+astrologinen	ADJ;INS(PL)	astrologisin
+astrologinen	ADJ;NOM(PL)	astrologiset
+astrologinen	ADJ;NOM(SG)	astrologinen
+astrologinen	ADJ;PRIV(PL)	astrologisitta
+astrologinen	ADJ;PRIV(SG)	astrologisetta
+astrologinen	ADJ;PRT(PL)	astrologisia
+astrologinen	ADJ;PRT(SG)	astrologista
+astrologinen	ADJ;PSS(1,PL)	astrologisemme
+astrologinen	ADJ;PSS(3)	astrologisensa
+astrologinen	ADJ;TRANS(PL)	astrologisiksi
+aviosiippa	N;ACC(SG)	aviosiippa
+aviosiippa	N;AT+ABL(PL)	aviosiipoilta
+aviosiippa	N;AT+ALL(PL)	aviosiipoille
+aviosiippa	N;AT+ESS(PL)	aviosiipoilla
+aviosiippa	N;AT+ESS(SG)	aviosiipalla
+aviosiippa	N;FRML(SG)	aviosiippana
+aviosiippa	N;GEN(PL)	aviosiippojen
+aviosiippa	N;IN+ABL(PL)	aviosiipoista
+aviosiippa	N;IN+ABL(SG)	aviosiipasta
+aviosiippa	N;IN+ALL(PL)	aviosiippoihin
+aviosiippa	N;IN+ESS(PL)	aviosiipoissa
+aviosiippa	N;NOM(PL)	aviosiipat
+aviosiippa	N;NOM(SG)	aviosiippa
+aviosiippa	N;PRIV(PL)	aviosiipoitta
+aviosiippa	N;PRT(PL)	aviosiippoja
+aviosiippa	N;PRT(SG)	aviosiippaa
+aviosiippa	N;PSS(1,PL)	aviosiippamme
+aviosiippa	N;PSS(1,SG)	aviosiippani
+aviosiippa	N;PSS(2,PL)	aviosiippanne
+aviosiippa	N;PSS(2,SG)	aviosiippasi
+aviosiippa	N;TRANS(SG)	aviosiipaksi
+balinkielinen	ADJ;ACC(SG)	balinkielinen
+balinkielinen	ADJ;AT+ABL(SG)	balinkieliseltä
+balinkielinen	ADJ;AT+ALL(PL)	balinkielisille
+balinkielinen	ADJ;AT+ALL(SG)	balinkieliselle
+balinkielinen	ADJ;AT+ESS(SG)	balinkielisellä
+balinkielinen	ADJ;COM(PL)	balinkielisine
+balinkielinen	ADJ;FRML(PL)	balinkielisinä
+balinkielinen	ADJ;GEN(SG)	balinkielisen
+balinkielinen	ADJ;IN+ABL(SG)	balinkielisestä
+balinkielinen	ADJ;IN+ALL(PL)	balinkielisiin
+balinkielinen	ADJ;IN+ESS(PL)	balinkielisissä
+balinkielinen	ADJ;INS(PL)	balinkielisin
+balinkielinen	ADJ;NOM(PL)	balinkieliset
+balinkielinen	ADJ;NOM(SG)	balinkielinen
+balinkielinen	ADJ;PRIV(PL)	balinkielisittä
+balinkielinen	ADJ;PRIV(SG)	balinkielisettä
+balinkielinen	ADJ;PRT(SG)	balinkielistä
+balinkielinen	ADJ;PSS(1,SG)	balinkieliseni
+balinkielinen	ADJ;PSS(2,SG)	balinkielisesi
+balinkielinen	ADJ;PSS(3)	balinkielisensä
+balinkielinen	ADJ;TRANS(SG)	balinkieliseksi
+desalinoida	V.PTCP;AG	desalinoima
+desalinoida	V;ACT;PRS;NEG;COND;NOM(3,PL)	eivät desalinoisi
+desalinoida	V;ACT;PRS;NEG;IND;NOM(1,PL)	emme desalinoi
+desalinoida	V;ACT;PRS;NEG;IND;NOM(2,PL)	ette desalinoi
+desalinoida	V;ACT;PRS;NEG;IND;NOM(3,SG)	ei desalinoi
+desalinoida	V;ACT;PRS;NEG;POT;NOM(3,SG)	ei desalinoine
+desalinoida	V;ACT;PRS;POS;IMP;NOM(2,PL)	desalinoikaa
+desalinoida	V;ACT;PRS;POS;POT;NOM(1,PL)	desalinoinemme
+desalinoida	V;ACT;PRS;PRF;NEG;COND;NOM(1,PL)	emme olisi desalinoineet
+desalinoida	V;ACT;PRS;PRF;NEG;IND;NOM(3,PL)	eivät ole desalinoineet
+desalinoida	V;ACT;PRS;PRF;NEG;POT;NOM(1,PL)	emme liene desalinoineet
+desalinoida	V;ACT;PRS;PRF;POS;COND;NOM(1,PL)	olisimme desalinoineet
+desalinoida	V;ACT;PRS;PRF;POS;IMP;NOM(3,SG)	olkoon desalinoinut
+desalinoida	V;ACT;PRS;PRF;POS;IND;NOM(3,PL)	ovat desalinoineet
+desalinoida	V;ACT;PST;NEG;IND;NOM(3,PL)	eivät desalinoineet
+desalinoida	V;ACT;PST;PRF;POS;IND;NOM(1,PL)	olimme desalinoineet
+desalinoida	V;NFIN;4;PASS;PRT	desalinoimista
+desalinoida	V;NFIN;ACT;IN+ESS;NOM(3)	desalinoimassa
+desalinoida	V;NFIN;PASS;NOM(1)	desalinoidakseen
+desalinoida	V;PASS;PRS;PRF;POS;COND	olisi desalinoitu
+elokuvallinen	ADJ;AT+ALL(PL)	elokuvallisille
+elokuvallinen	ADJ;AT+ALL(SG)	elokuvalliselle
+elokuvallinen	ADJ;AT+ESS(SG)	elokuvallisella
+elokuvallinen	ADJ;COM(PL)	elokuvallisine
+elokuvallinen	ADJ;GEN(SG)	elokuvallisen
+elokuvallinen	ADJ;IN+ABL(PL)	elokuvallisista
+elokuvallinen	ADJ;IN+ALL(SG)	elokuvalliseen
+elokuvallinen	ADJ;IN+ESS(PL)	elokuvallisissa
+elokuvallinen	ADJ;IN+ESS(SG)	elokuvallisessa
+elokuvallinen	ADJ;INS(PL)	elokuvallisin
+elokuvallinen	ADJ;NOM(PL)	elokuvalliset
+elokuvallinen	ADJ;NOM(SG)	elokuvallinen
+elokuvallinen	ADJ;PRIV(SG)	elokuvallisetta
+elokuvallinen	ADJ;PRT(SG)	elokuvallista
+elokuvallinen	ADJ;PSS(1,PL)	elokuvallisemme
+elokuvallinen	ADJ;PSS(1,SG)	elokuvalliseni
+elokuvallinen	ADJ;PSS(2,PL)	elokuvallisenne
+elokuvallinen	ADJ;PSS(2,SG)	elokuvallisesi
+elokuvallinen	ADJ;PSS(3)	elokuvallisensa
+elokuvallinen	ADJ;TRANS(PL)	elokuvallisiksi
+eriyttävä	ADJ;ACC(PL)	eriyttävät
+eriyttävä	ADJ;ACC(SG)	eriyttävä
+eriyttävä	ADJ;AT+ALL(PL)	eriyttäville
+eriyttävä	ADJ;AT+ESS(SG)	eriyttävällä
+eriyttävä	ADJ;COM(PL)	eriyttävine
+eriyttävä	ADJ;FRML(PL)	eriyttävinä
+eriyttävä	ADJ;FRML(SG)	eriyttävänä
+eriyttävä	ADJ;GEN(SG)	eriyttävän
+eriyttävä	ADJ;IN+ABL(PL)	eriyttävistä
+eriyttävä	ADJ;IN+ALL(PL)	eriyttäviin
+eriyttävä	ADJ;INS(PL)	eriyttävin
+eriyttävä	ADJ;NOM(PL)	eriyttävät
+eriyttävä	ADJ;PRIV(PL)	eriyttävittä
+eriyttävä	ADJ;PRIV(SG)	eriyttävättä
+eriyttävä	ADJ;PRT(PL)	eriyttäviä
+eriyttävä	ADJ;PSS(1,PL)	eriyttävämme
+eriyttävä	ADJ;PSS(2,PL)	eriyttävänne
+eriyttävä	ADJ;PSS(2,SG)	eriyttäväsi
+eriyttävä	ADJ;TRANS(PL)	eriyttäviksi
+eriyttävä	ADJ;TRANS(SG)	eriyttäväksi
+fonologi	N;ACC(PL)	fonologit
+fonologi	N;AT+ALL(PL)	fonologeille
+fonologi	N;AT+ALL(SG)	fonologille
+fonologi	N;AT+ESS(PL)	fonologeilla
+fonologi	N;AT+ESS(SG)	fonologilla
+fonologi	N;COM(PL)	fonologeineen
+fonologi	N;FRML(SG)	fonologina
+fonologi	N;GEN(PL)	fonologien
+fonologi	N;GEN(SG)	fonologin
+fonologi	N;IN+ABL(PL)	fonologeista
+fonologi	N;IN+ABL(SG)	fonologista
+fonologi	N;IN+ESS(PL)	fonologeissa
+fonologi	N;IN+ESS(SG)	fonologissa
+fonologi	N;INS(PL)	fonologein
+fonologi	N;NOM(PL)	fonologit
+fonologi	N;NOM(SG)	fonologi
+fonologi	N;PRIV(PL)	fonologeitta
+fonologi	N;PRIV(SG)	fonologitta
+fonologi	N;PSS(1,SG)	fonologini
+fonologi	N;PSS(2,PL)	fonologinne
+fonologi	N;TRANS(PL)	fonologeiksi
+katalaani	N;ACC(SG)	katalaani
+katalaani	N;AT+ABL(SG)	katalaanilta
+katalaani	N;AT+ALL(SG)	katalaanille
+katalaani	N;AT+ESS(PL)	katalaaneilla
+katalaani	N;FRML(PL)	katalaaneina
+katalaani	N;FRML(SG)	katalaanina
+katalaani	N;GEN(PL)	katalaanien
+katalaani	N;GEN(SG)	katalaanin
+katalaani	N;IN+ABL(PL)	katalaaneista
+katalaani	N;IN+ALL(PL)	katalaaneihin
+katalaani	N;INS(PL)	katalaanein
+katalaani	N;NOM(PL)	katalaanit
+katalaani	N;NOM(SG)	katalaani
+katalaani	N;PRIV(PL)	katalaaneitta
+katalaani	N;PRIV(SG)	katalaanitta
+katalaani	N;PSS(1,PL)	katalaanimme
+katalaani	N;PSS(2,PL)	katalaaninne
+katalaani	N;PSS(2,SG)	katalaanisi
+katalaani	N;PSS(3)	katalaaninsa
+katalaani	N;TRANS(PL)	katalaaneiksi
+katalaani	N;TRANS(SG)	katalaaniksi
+kiistää	V.PTCP;PASS;PRS	kiistettävä
+kiistää	V;ACT;PRS;NEG;COND;NOM(2,PL)	ette kiistäisi
+kiistää	V;ACT;PRS;POS;COND;NOM(2,PL)	kiistäisitte
+kiistää	V;ACT;PRS;POS;COND;NOM(2,SG)	kiistäisit
+kiistää	V;ACT;PRS;POS;COND;NOM(3,PL)	kiistäisivät
+kiistää	V;ACT;PRS;POS;IMP;NOM(3,PL)	kiistäkööt
+kiistää	V;ACT;PRS;POS;POT;NOM(1,PL)	kiistänemme
+kiistää	V;ACT;PRS;POS;POT;NOM(2,PL)	kiistänette
+kiistää	V;ACT;PRS;PRF;NEG;COND;NOM(1,PL)	emme olisi kiistäneet
+kiistää	V;ACT;PRS;PRF;NEG;COND;NOM(3,PL)	eivät olisi kiistäneet
+kiistää	V;ACT;PRS;PRF;NEG;IND;NOM(3,PL)	eivät ole kiistäneet
+kiistää	V;ACT;PRS;PRF;POS;IMP;NOM(3,PL)	olkoot kiistäneet
+kiistää	V;ACT;PRS;PRF;POS;POT;NOM(2,SG)	lienet kiistänyt
+kiistää	V;ACT;PRS;PRF;POS;POT;NOM(3,PL)	lienevät kiistäneet
+kiistää	V;ACT;PST;POS;IND;NOM(3,PL)	kiistivät
+kiistää	V;ACT;PST;PRF;POS;IND;NOM(2,SG)	olit kiistänyt
+kiistää	V;NFIN;ACT;IN+ESS;NOM(2)	kiistäessä
+kiistää	V;NFIN;ACT;NOM(1)	kiistääkseen
+kiistää	V;PASS;PRS;POS;COND	kiistettäisiin
+kiistää	V;PASS;PST;NEG;IND	ei kiistetty
+kiistää	V;PASS;PST;PRF;POS;IND	oli kiistetty
+koristaa	V;ACT;PRS;NEG;COND;NOM(1,SG)	en koristaisi
+koristaa	V;ACT;PRS;NEG;COND;NOM(3,PL)	eivät koristaisi
+koristaa	V;ACT;PRS;NEG;IMP;NOM(2,SG)	älä korista
+koristaa	V;ACT;PRS;NEG;IND;NOM(1,SG)	en korista
+koristaa	V;ACT;PRS;NEG;POT;NOM(3,SG)	ei koristane
+koristaa	V;ACT;PRS;POS;COND;NOM(3,SG)	koristaisi
+koristaa	V;ACT;PRS;POS;IND;NOM(1,PL)	koristamme
+koristaa	V;ACT;PRS;POS;IND;NOM(1,SG)	koristan
+koristaa	V;ACT;PRS;POS;IND;NOM(3,PL)	koristavat
+koristaa	V;ACT;PRS;POS;POT;NOM(1,PL)	koristanemme
+koristaa	V;ACT;PRS;PRF;NEG;IMP;NOM(2,PL)	älkää olko koristaneet
+koristaa	V;ACT;PRS;PRF;NEG;IND;NOM(1,PL)	emme ole koristaneet
+koristaa	V;ACT;PRS;PRF;NEG;IND;NOM(3,SG)	ei ole koristanut
+koristaa	V;ACT;PRS;PRF;POS;COND;NOM(2,PL)	olisitte koristaneet
+koristaa	V;ACT;PRS;PRF;POS;COND;NOM(3,PL)	olisivat koristaneet
+koristaa	V;ACT;PRS;PRF;POS;IMP;NOM(2,PL)	olkaa koristaneet
+koristaa	V;ACT;PRS;PRF;POS;IND;NOM(2,SG)	olet koristanut
+koristaa	V;ACT;PST;PRF;NEG;IND;NOM(3,SG)	ei ollut koristanut
+koristaa	V;NFIN;ACT;PRIV;NOM(3)	koristamatta
+koristaa	V;PASS;PRS;POS;IMP	koristettakoon
+koristaa	V;PASS;PRS;PRF;POS;IMP	olkoon koristettu
+kovapäinen	ADJ;ACC(PL)	kovapäiset
+kovapäinen	ADJ;ACC(SG)	kovapäinen
+kovapäinen	ADJ;AT+ABL(PL)	kovapäisiltä
+kovapäinen	ADJ;AT+ABL(SG)	kovapäiseltä
+kovapäinen	ADJ;AT+ALL(PL)	kovapäisille
+kovapäinen	ADJ;AT+ESS(SG)	kovapäisellä
+kovapäinen	ADJ;COM(PL)	kovapäisine
+kovapäinen	ADJ;GEN(SG)	kovapäisen
+kovapäinen	ADJ;IN+ABL(PL)	kovapäisistä
+kovapäinen	ADJ;IN+ABL(SG)	kovapäisestä
+kovapäinen	ADJ;IN+ALL(PL)	kovapäisiin
+kovapäinen	ADJ;IN+ALL(SG)	kovapäiseen
+kovapäinen	ADJ;IN+ESS(SG)	kovapäisessä
+kovapäinen	ADJ;INS(PL)	kovapäisin
+kovapäinen	ADJ;NOM(PL)	kovapäiset
+kovapäinen	ADJ;PRIV(PL)	kovapäisittä
+kovapäinen	ADJ;PRT(PL)	kovapäisiä
+kovapäinen	ADJ;PRT(SG)	kovapäistä
+kovapäinen	ADJ;PSS(1,SG)	kovapäiseni
+kovapäinen	ADJ;PSS(2,SG)	kovapäisesi
+kovapäinen	ADJ;TRANS(SG)	kovapäiseksi
+kovariantti	ADJ;ACC(PL)	kovariantit
+kovariantti	ADJ;AT+ALL(PL)	kovarianteille
+kovariantti	ADJ;AT+ESS(PL)	kovarianteilla
+kovariantti	ADJ;AT+ESS(SG)	kovariantilla
+kovariantti	ADJ;GEN(SG)	kovariantin
+kovariantti	ADJ;IN+ABL(SG)	kovariantista
+kovariantti	ADJ;IN+ALL(PL)	kovariantteihin
+kovariantti	ADJ;IN+ALL(SG)	kovarianttiin
+kovariantti	ADJ;IN+ESS(PL)	kovarianteissa
+kovariantti	ADJ;INS(PL)	kovariantein
+kovariantti	ADJ;NOM(SG)	kovariantti
+kovariantti	ADJ;PRIV(PL)	kovarianteitta
+kovariantti	ADJ;PRT(PL)	kovariantteja
+kovariantti	ADJ;PRT(SG)	kovarianttia
+kovariantti	ADJ;PSS(1,PL)	kovarianttimme
+kovariantti	ADJ;PSS(1,SG)	kovarianttini
+kovariantti	ADJ;PSS(2,PL)	kovarianttinne
+kovariantti	ADJ;PSS(2,SG)	kovarianttisi
+kovariantti	ADJ;PSS(3)	kovarianttinsa
+kovariantti	ADJ;TRANS(PL)	kovarianteiksi
+kovariantti	ADJ;TRANS(SG)	kovariantiksi
+kuormittua	V.PTCP;AG	kuormittuma
+kuormittua	V;ACT;PRS;NEG;IMP;NOM(2,PL)	älkää kuormittuko
+kuormittua	V;ACT;PRS;NEG;IMP;NOM(2,SG)	älä kuormitu
+kuormittua	V;ACT;PRS;NEG;IMP;NOM(3,PL)	älkööt kuormittuko
+kuormittua	V;ACT;PRS;NEG;POT;NOM(1,SG)	en kuormittune
+kuormittua	V;ACT;PRS;PRF;NEG;IND;NOM(1,PL)	emme ole kuormittuneet
+kuormittua	V;ACT;PRS;PRF;NEG;IND;NOM(3,PL)	eivät ole kuormittuneet
+kuormittua	V;ACT;PRS;PRF;NEG;POT;NOM(1,SG)	en liene kuormittunut
+kuormittua	V;ACT;PRS;PRF;POS;COND;NOM(1,SG)	olisin kuormittunut
+kuormittua	V;ACT;PST;NEG;IND;NOM(1,PL)	emme kuormittuneet
+kuormittua	V;ACT;PST;NEG;IND;NOM(2,PL)	ette kuormittuneet
+kuormittua	V;ACT;PST;PRF;POS;IND;NOM(1,PL)	olimme kuormittuneet
+kuormittua	V;ACT;PST;PRF;POS;IND;NOM(3,PL)	olivat kuormittuneet
+kuormittua	V;NFIN;4;PASS;NOM	kuormittuminen
+kuormittua	V;NFIN;ACT+PASS	kuormittua
+kuormittua	V;NFIN;ACT;NOM(1)	kuormittuakseen
+kuormittua	V;NFIN;PASS;IN+ESS;NOM(2)	kuormituttaessa
+kuormittua	V;NFIN;PASS;NOM(1)	kuormittuakseen
+kuormittua	V;PASS;PRS;POS;COND	kuormituttaisiin
+kuormittua	V;PASS;PRS;POS;IMP	kuormituttakoon
+kuormittua	V;PASS;PRS;PRF;NEG;POT	ei liene kuormituttu
+kurlata	V.PTCP;ACT;PST	kurlannut
+kurlata	V.PTCP;NEG	kurlaamaton
+kurlata	V;ACT;PRS;NEG;COND;NOM(3,SG)	ei kurlaisi
+kurlata	V;ACT;PRS;NEG;IND;NOM(1,SG)	en kurlaa
+kurlata	V;ACT;PRS;NEG;POT;NOM(2,SG)	et kurlanne
+kurlata	V;ACT;PRS;POS;POT;NOM(3,PL)	kurlannevat
+kurlata	V;ACT;PRS;PRF;NEG;COND;NOM(2,PL)	ette olisi kurlanneet
+kurlata	V;ACT;PRS;PRF;NEG;COND;NOM(3,SG)	ei olisi kurlannut
+kurlata	V;ACT;PRS;PRF;NEG;IMP;NOM(2,SG)	älä ole kurlannut
+kurlata	V;ACT;PRS;PRF;NEG;IND;NOM(2,SG)	et ole kurlannut
+kurlata	V;ACT;PRS;PRF;NEG;POT;NOM(1,PL)	emme liene kurlanneet
+kurlata	V;ACT;PRS;PRF;NEG;POT;NOM(3,SG)	ei liene kurlannut
+kurlata	V;ACT;PRS;PRF;POS;POT;NOM(1,SG)	lienen kurlannut
+kurlata	V;ACT;PRS;PRF;POS;POT;NOM(3,PL)	lienevät kurlanneet
+kurlata	V;ACT;PST;POS;IND;NOM(2,PL)	kurlasitte
+kurlata	V;ACT;PST;POS;IND;NOM(3,PL)	kurlasivat
+kurlata	V;NFIN;4;ACT;PRT	kurlaamista
+kurlata	V;NFIN;ACT;AT+ESS;NOM(3)	kurlaamalla
+kurlata	V;NFIN;ACT;NOM(1)	kurlatakseen
+kurlata	V;PASS;PRS;PRF;POS;IMP	olkoon kurlattu
+kurlata	V;PASS;PRS;PRF;POS;IND	on kurlattu
+kärkevä	ADJ;ACC(SG)	kärkevä
+kärkevä	ADJ;AT+ABL(PL)	kärkeviltä
+kärkevä	ADJ;AT+ABL(SG)	kärkevältä
+kärkevä	ADJ;AT+ALL(PL)	kärkeville
+kärkevä	ADJ;AT+ALL(SG)	kärkevälle
+kärkevä	ADJ;AT+ESS(PL)	kärkevillä
+kärkevä	ADJ;COM(PL)	kärkevine
+kärkevä	ADJ;GEN(PL)	kärkevien
+kärkevä	ADJ;IN+ABL(SG)	kärkevästä
+kärkevä	ADJ;IN+ALL(PL)	kärkeviin
+kärkevä	ADJ;IN+ALL(SG)	kärkevään
+kärkevä	ADJ;IN+ESS(PL)	kärkevissä
+kärkevä	ADJ;INS(PL)	kärkevin
+kärkevä	ADJ;NOM(SG)	kärkevä
+kärkevä	ADJ;PRIV(PL)	kärkevittä
+kärkevä	ADJ;PRIV(SG)	kärkevättä
+kärkevä	ADJ;PSS(1,PL)	kärkevämme
+kärkevä	ADJ;PSS(1,SG)	kärkeväni
+kärkevä	ADJ;PSS(3)	kärkevänsä
+kärkevä	ADJ;TRANS(PL)	kärkeviksi
+kärkevä	ADJ;TRANS(SG)	kärkeväksi
+lallatella	V;ACT;PRS;NEG;IMP;NOM(2,PL)	älkää lallatelko
+lallatella	V;ACT;PRS;NEG;IMP;NOM(3,PL)	älkööt lallatelko
+lallatella	V;ACT;PRS;POS;COND;NOM(1,SG)	lallattelisin
+lallatella	V;ACT;PRS;POS;COND;NOM(2,PL)	lallattelisitte
+lallatella	V;ACT;PRS;POS;COND;NOM(3,PL)	lallattelisivat
+lallatella	V;ACT;PRS;POS;IND;NOM(2,PL)	lallattelette
+lallatella	V;ACT;PRS;POS;POT;NOM(3,SG)	lallatellee
+lallatella	V;ACT;PRS;PRF;NEG;COND;NOM(3,PL)	eivät olisi lallatelleet
+lallatella	V;ACT;PRS;PRF;NEG;IMP;NOM(3,SG)	älköön olko lallatellut
+lallatella	V;ACT;PRS;PRF;NEG;IND;NOM(1,PL)	emme ole lallatelleet
+lallatella	V;ACT;PRS;PRF;NEG;IND;NOM(3,SG)	ei ole lallatellut
+lallatella	V;ACT;PRS;PRF;POS;IND;NOM(2,PL)	olette lallatelleet
+lallatella	V;ACT;PRS;PRF;POS;IND;NOM(2,SG)	olet lallatellut
+lallatella	V;ACT;PRS;PRF;POS;POT;NOM(1,PL)	lienemme lallatelleet
+lallatella	V;ACT;PST;NEG;IND;NOM(2,PL)	ette lallatelleet
+lallatella	V;ACT;PST;POS;IND;NOM(3,SG)	lallatteli
+lallatella	V;ACT;PST;PRF;NEG;IND;NOM(2,PL)	ette olleet lallatelleet
+lallatella	V;ACT;PST;PRF;POS;IND;NOM(2,PL)	olitte lallatelleet
+lallatella	V;NFIN;ACT;IN+ALL;NOM(3)	lallattelemaan
+lallatella	V;PASS;PRS;POS;IMP	lallateltakoon
+legitimoida	V.PTCP;ACT;PST	legitimoinut
+legitimoida	V.PTCP;AG	legitimoima
+legitimoida	V;ACT;PRS;NEG;POT;NOM(3,PL)	eivät legitimoine
+legitimoida	V;ACT;PRS;POS;IMP;NOM(1,PL)	legitimoikaamme
+legitimoida	V;ACT;PRS;POS;IND;NOM(2,PL)	legitimoitte
+legitimoida	V;ACT;PRS;POS;IND;NOM(2,SG)	legitimoit
+legitimoida	V;ACT;PRS;POS;POT;NOM(3,SG)	legitimoinee
+legitimoida	V;ACT;PRS;PRF;NEG;COND;NOM(3,PL)	eivät olisi legitimoineet
+legitimoida	V;ACT;PRS;PRF;NEG;IMP;NOM(2,SG)	älä ole legitimoinut
+legitimoida	V;ACT;PRS;PRF;NEG;IMP;NOM(3,PL)	älkööt olko legitimoineet
+legitimoida	V;ACT;PST;POS;IND;NOM(3,SG)	legitimoi
+legitimoida	V;ACT;PST;PRF;POS;IND;NOM(3,PL)	olivat legitimoineet
+legitimoida	V;NFIN;4;ACT;NOM	legitimoiminen
+legitimoida	V;NFIN;ACT;INS;NOM(2)	legitimoiden
+legitimoida	V;PASS;PRS;NEG;IMP	älköön legitimoitako
+legitimoida	V;PASS;PRS;NEG;POT	ei legitimoitane
+legitimoida	V;PASS;PRS;POS;IMP	legitimoitakoon
+legitimoida	V;PASS;PRS;PRF;POS;IMP	olkoon legitimoitu
+legitimoida	V;PASS;PRS;PRF;POS;IND	on legitimoitu
+legitimoida	V;PASS;PST;POS;IND	legitimoitiin
+legitimoida	V;PASS;PST;PRF;POS;IND	oli legitimoitu
+lehmänläjä	N;ACC(SG)	lehmänläjä
+lehmänläjä	N;AT+ABL(SG)	lehmänläjältä
+lehmänläjä	N;AT+ESS(PL)	lehmänläjillä
+lehmänläjä	N;AT+ESS(SG)	lehmänläjällä
+lehmänläjä	N;FRML(PL)	lehmänläjinä
+lehmänläjä	N;FRML(SG)	lehmänläjänä
+lehmänläjä	N;GEN(SG)	lehmänläjän
+lehmänläjä	N;IN+ABL(PL)	lehmänläjistä
+lehmänläjä	N;IN+ABL(SG)	lehmänläjästä
+lehmänläjä	N;IN+ALL(PL)	lehmänläjiin
+lehmänläjä	N;IN+ALL(SG)	lehmänläjään
+lehmänläjä	N;IN+ESS(PL)	lehmänläjissä
+lehmänläjä	N;INS(PL)	lehmänläjin
+lehmänläjä	N;NOM(PL)	lehmänläjät
+lehmänläjä	N;PRIV(SG)	lehmänläjättä
+lehmänläjä	N;PSS(1,PL)	lehmänläjämme
+lehmänläjä	N;PSS(1,SG)	lehmänläjäni
+lehmänläjä	N;PSS(2,PL)	lehmänläjänne
+lehmänläjä	N;PSS(2,SG)	lehmänläjäsi
+lehmänläjä	N;TRANS(PL)	lehmänläjiksi
+lehmänläjä	N;TRANS(SG)	lehmänläjäksi
+lääkitä	V.PTCP;AG	lääkitsemä
+lääkitä	V;ACT;PRS;NEG;COND;NOM(2,PL)	ette lääkitsisi
+lääkitä	V;ACT;PRS;POS;COND;NOM(2,PL)	lääkitsisitte
+lääkitä	V;ACT;PRS;POS;IMP;NOM(2,SG)	lääkitse
+lääkitä	V;ACT;PRS;POS;IMP;NOM(3,PL)	lääkitkööt
+lääkitä	V;ACT;PRS;POS;POT;NOM(1,PL)	lääkinnemme
+lääkitä	V;ACT;PRS;POS;POT;NOM(3,SG)	lääkinnee
+lääkitä	V;ACT;PRS;PRF;NEG;IND;NOM(2,PL)	ette ole lääkinneet
+lääkitä	V;ACT;PRS;PRF;POS;COND;NOM(1,PL)	olisimme lääkinneet
+lääkitä	V;ACT;PRS;PRF;POS;IND;NOM(3,PL)	ovat lääkinneet
+lääkitä	V;ACT;PST;NEG;IND;NOM(3,SG)	ei lääkinnyt
+lääkitä	V;ACT;PST;POS;IND;NOM(3,PL)	lääkitsivät
+lääkitä	V;ACT;PST;POS;IND;NOM(3,SG)	lääkitsi
+lääkitä	V;ACT;PST;PRF;POS;IND;NOM(2,SG)	olit lääkinnyt
+lääkitä	V;NFIN;4;ACT;PRT	lääkitsemistä
+lääkitä	V;NFIN;ACT;AT+ESS;NOM(3)	lääkitsemällä
+lääkitä	V;NFIN;ACT;IN+ABL;NOM(3)	lääkitsemästä
+lääkitä	V;NFIN;ACT;NOM(1)	lääkitäkseen
+lääkitä	V;NFIN;PASS;INS;NOM(3)	lääkittämän
+lääkitä	V;PASS;PRS;POS;IND	lääkitään
+lääkitä	V;PASS;PRS;PRF;NEG;IND	ei ole lääkitty
+masuja	N;PRT(PL;PSS(1,SG))	masujani
+merikelpoinen	ADJ;AT+ESS(PL)	merikelpoisilla
+merikelpoinen	ADJ;COM(PL)	merikelpoisine
+merikelpoinen	ADJ;FRML(PL)	merikelpoisina
+merikelpoinen	ADJ;GEN(PL)	merikelpoisten
+merikelpoinen	ADJ;IN+ABL(PL)	merikelpoisista
+merikelpoinen	ADJ;IN+ABL(SG)	merikelpoisesta
+merikelpoinen	ADJ;IN+ALL(PL)	merikelpoisiin
+merikelpoinen	ADJ;IN+ALL(SG)	merikelpoiseen
+merikelpoinen	ADJ;IN+ESS(PL)	merikelpoisissa
+merikelpoinen	ADJ;IN+ESS(SG)	merikelpoisessa
+merikelpoinen	ADJ;INS(PL)	merikelpoisin
+merikelpoinen	ADJ;NOM(PL)	merikelpoiset
+merikelpoinen	ADJ;PRIV(PL)	merikelpoisitta
+merikelpoinen	ADJ;PRT(SG)	merikelpoista
+merikelpoinen	ADJ;PSS(1,PL)	merikelpoisemme
+merikelpoinen	ADJ;PSS(1,SG)	merikelpoiseni
+merikelpoinen	ADJ;PSS(2,PL)	merikelpoisenne
+merikelpoinen	ADJ;PSS(2,SG)	merikelpoisesi
+merikelpoinen	ADJ;TRANS(PL)	merikelpoisiksi
+merikelpoinen	ADJ;TRANS(SG)	merikelpoiseksi
+mineraalinen	ADJ;ACC(PL)	mineraaliset
+mineraalinen	ADJ;ACC(SG)	mineraalinen
+mineraalinen	ADJ;AT+ABL(PL)	mineraalisilta
+mineraalinen	ADJ;AT+ABL(SG)	mineraaliselta
+mineraalinen	ADJ;AT+ALL(SG)	mineraaliselle
+mineraalinen	ADJ;COM(PL)	mineraalisine
+mineraalinen	ADJ;FRML(SG)	mineraalisena
+mineraalinen	ADJ;GEN(PL)	mineraalisten
+mineraalinen	ADJ;GEN(SG)	mineraalisen
+mineraalinen	ADJ;IN+ABL(PL)	mineraalisista
+mineraalinen	ADJ;IN+ABL(SG)	mineraalisesta
+mineraalinen	ADJ;IN+ESS(PL)	mineraalisissa
+mineraalinen	ADJ;PRIV(PL)	mineraalisitta
+mineraalinen	ADJ;PRIV(SG)	mineraalisetta
+mineraalinen	ADJ;PRT(PL)	mineraalisia
+mineraalinen	ADJ;PRT(SG)	mineraalista
+mineraalinen	ADJ;PSS(1,PL)	mineraalisemme
+mineraalinen	ADJ;PSS(1,SG)	mineraaliseni
+mineraalinen	ADJ;PSS(2,PL)	mineraalisenne
+mineraalinen	ADJ;PSS(2,SG)	mineraalisesi
+mineraalinen	ADJ;TRANS(PL)	mineraalisiksi
+murea	ADJ;ACC(PL)	mureat
+murea	ADJ;AT+ABL(SG)	murealta
+murea	ADJ;AT+ALL(SG)	murealle
+murea	ADJ;AT+ESS(SG)	murealla
+murea	ADJ;FRML(PL)	mureina
+murea	ADJ;FRML(SG)	mureana
+murea	ADJ;GEN(PL)	mureiden
+murea	ADJ;GEN(SG)	murean
+murea	ADJ;IN+ABL(PL)	mureista
+murea	ADJ;IN+ABL(SG)	mureasta
+murea	ADJ;IN+ALL(PL)	mureisiin
+murea	ADJ;IN+ESS(PL)	mureissa
+murea	ADJ;IN+ESS(SG)	mureassa
+murea	ADJ;INS(PL)	murein
+murea	ADJ;NOM(PL)	mureat
+murea	ADJ;PRIV(PL)	mureitta
+murea	ADJ;PRIV(SG)	mureatta
+murea	ADJ;PSS(1,PL)	mureamme
+murea	ADJ;PSS(1,SG)	mureani
+murea	ADJ;PSS(3)	mureansa
+murea	ADJ;TRANS(SG)	mureaksi
+nääntyä	V.PTCP;ACT;PST	nääntynyt
+nääntyä	V;ACT;PRS;NEG;COND;NOM(2,PL)	ette nääntyisi
+nääntyä	V;ACT;PRS;NEG;COND;NOM(3,PL)	eivät nääntyisi
+nääntyä	V;ACT;PRS;POS;COND;NOM(3,PL)	nääntyisivät
+nääntyä	V;ACT;PRS;POS;IND;NOM(2,PL)	näännytte
+nääntyä	V;ACT;PRS;POS;IND;NOM(2,SG)	näännyt
+nääntyä	V;ACT;PRS;POS;POT;NOM(1,PL)	nääntynemme
+nääntyä	V;ACT;PRS;POS;POT;NOM(2,PL)	nääntynette
+nääntyä	V;ACT;PRS;PRF;NEG;COND;NOM(3,PL)	eivät olisi nääntyneet
+nääntyä	V;ACT;PRS;PRF;NEG;IMP;NOM(3,SG)	älköön olko nääntynyt
+nääntyä	V;ACT;PRS;PRF;POS;IMP;NOM(1,PL)	olkaamme nääntyneet
+nääntyä	V;ACT;PRS;PRF;POS;IND;NOM(2,SG)	olet nääntynyt
+nääntyä	V;ACT;PRS;PRF;POS;IND;NOM(3,SG)	on nääntynyt
+nääntyä	V;ACT;PST;NEG;IND;NOM(2,PL)	ette nääntyneet
+nääntyä	V;ACT;PST;PRF;POS;IND;NOM(2,PL)	olitte nääntyneet
+nääntyä	V;NFIN;4;PASS;NOM	nääntyminen
+nääntyä	V;NFIN;5;ACT	nääntymäisillään
+nääntyä	V;PASS;PRS;POS;IMP	näännyttäköön
+nääntyä	V;PASS;PRS;PRF;NEG;IMP	älköön olko näännytty
+nääntyä	V;PASS;PST;NEG;IND	ei näännytty
+nääntyä	V;PASS;PST;PRF;POS;IND	oli näännytty
+pahentaa	V.PTCP;ACT;PRS	pahentava
+pahentaa	V;ACT;PRS;NEG;COND;NOM(3,PL)	eivät pahentaisi
+pahentaa	V;ACT;PRS;NEG;IND;NOM(3,PL)	eivät pahenna
+pahentaa	V;ACT;PRS;NEG;POT;NOM(3,PL)	eivät pahentane
+pahentaa	V;ACT;PRS;POS;COND;NOM(1,SG)	pahentaisin
+pahentaa	V;ACT;PRS;POS;COND;NOM(3,SG)	pahentaisi
+pahentaa	V;ACT;PRS;POS;IND;NOM(3,SG)	pahentaa
+pahentaa	V;ACT;PRS;PRF;NEG;COND;NOM(1,SG)	en olisi pahentanut
+pahentaa	V;ACT;PRS;PRF;NEG;IND;NOM(2,PL)	ette ole pahentaneet
+pahentaa	V;ACT;PRS;PRF;NEG;IND;NOM(3,PL)	eivät ole pahentaneet
+pahentaa	V;ACT;PRS;PRF;NEG;IND;NOM(3,SG)	ei ole pahentanut
+pahentaa	V;ACT;PRS;PRF;POS;IMP;NOM(1,PL)	olkaamme pahentaneet
+pahentaa	V;ACT;PST;PRF;NEG;IND;NOM(1,PL)	emme olleet pahentaneet
+pahentaa	V;ACT;PST;PRF;NEG;IND;NOM(2,SG)	et ollut pahentanut
+pahentaa	V;ACT;PST;PRF;POS;IND;NOM(2,SG)	olit pahentanut
+pahentaa	V;NFIN;5;PASS	pahentamaisillaan
+pahentaa	V;NFIN;ACT+PASS	pahentaa
+pahentaa	V;NFIN;ACT;IN+ESS;NOM(3)	pahentamassa
+pahentaa	V;NFIN;ACT;NOM(1)	pahentaakseen
+pahentaa	V;PASS;PRS;NEG;COND	ei pahennettaisi
+pahentaa	V;PASS;PRS;POS;IND	pahennetaan
+personoida	V;ACT;PRS;NEG;COND;NOM(1,SG)	en personoisi
+personoida	V;ACT;PRS;NEG;COND;NOM(2,SG)	et personoisi
+personoida	V;ACT;PRS;NEG;IMP;NOM(1,PL)	älkäämme personoiko
+personoida	V;ACT;PRS;NEG;IMP;NOM(2,PL)	älkää personoiko
+personoida	V;ACT;PRS;POS;COND;NOM(1,SG)	personoisin
+personoida	V;ACT;PRS;POS;COND;NOM(2,SG)	personoisit
+personoida	V;ACT;PRS;POS;IMP;NOM(2,PL)	personoikaa
+personoida	V;ACT;PRS;POS;IMP;NOM(3,SG)	personoikoon
+personoida	V;ACT;PRS;PRF;NEG;COND;NOM(1,PL)	emme olisi personoineet
+personoida	V;ACT;PRS;PRF;NEG;COND;NOM(2,PL)	ette olisi personoineet
+personoida	V;ACT;PRS;PRF;NEG;COND;NOM(2,SG)	et olisi personoinut
+personoida	V;ACT;PRS;PRF;NEG;POT;NOM(3,PL)	eivät liene personoineet
+personoida	V;ACT;PRS;PRF;POS;IND;NOM(1,PL)	olemme personoineet
+personoida	V;ACT;PRS;PRF;POS;IND;NOM(3,SG)	on personoinut
+personoida	V;ACT;PST;PRF;NEG;IND;NOM(1,SG)	en ollut personoinut
+personoida	V;ACT;PST;PRF;NEG;IND;NOM(3,PL)	eivät olleet personoineet
+personoida	V;NFIN;ACT+PASS	personoida
+personoida	V;NFIN;PASS;IN+ESS;NOM(2)	personoitaessa
+personoida	V;NFIN;PASS;INS;NOM(3)	personoitaman
+personoida	V;PASS;PRS;POS;IMP	personoitakoon
+personoida	V;PASS;PRS;POS;POT	personoitaneen
+plotata	V;ACT;PRS;NEG;IMP;NOM(2,SG)	älä plotaa
+plotata	V;ACT;PRS;NEG;IMP;NOM(3,SG)	älköön plotatko
+plotata	V;ACT;PRS;NEG;IND;NOM(1,PL)	emme plotaa
+plotata	V;ACT;PRS;NEG;POT;NOM(3,PL)	eivät plotanne
+plotata	V;ACT;PRS;POS;COND;NOM(2,PL)	plotaisitte
+plotata	V;ACT;PRS;POS;IMP;NOM(3,PL)	plotatkoot
+plotata	V;ACT;PRS;POS;IND;NOM(3,PL)	plotaavat
+plotata	V;ACT;PRS;POS;IND;NOM(3,SG)	plotaa
+plotata	V;ACT;PRS;POS;POT;NOM(2,PL)	plotannette
+plotata	V;ACT;PRS;PRF;NEG;COND;NOM(1,PL)	emme olisi plotanneet
+plotata	V;ACT;PRS;PRF;NEG;COND;NOM(3,SG)	ei olisi plotannut
+plotata	V;ACT;PRS;PRF;NEG;IND;NOM(3,SG)	ei ole plotannut
+plotata	V;ACT;PRS;PRF;NEG;POT;NOM(2,SG)	et liene plotannut
+plotata	V;ACT;PRS;PRF;POS;COND;NOM(2,SG)	olisit plotannut
+plotata	V;ACT;PRS;PRF;POS;COND;NOM(3,PL)	olisivat plotanneet
+plotata	V;ACT;PRS;PRF;POS;IMP;NOM(3,SG)	olkoon plotannut
+plotata	V;ACT;PST;NEG;IND;NOM(1,PL)	emme plotanneet
+plotata	V;ACT;PST;PRF;NEG;IND;NOM(3,SG)	ei ollut plotannut
+plotata	V;NFIN;5;PASS	plotaamaisillaan
+plotata	V;PASS;PRS;POS;IMP	plotattakoon
+plotata	V;PASS;PST;PRF;POS;IND	oli plotattu
+poikittainen	ADJ;ACC(PL)	poikittaiset
+poikittainen	ADJ;AT+ALL(SG)	poikittaiselle
+poikittainen	ADJ;AT+ESS(PL)	poikittaisilla
+poikittainen	ADJ;AT+ESS(SG)	poikittaisella
+poikittainen	ADJ;FRML(PL)	poikittaisina
+poikittainen	ADJ;FRML(SG)	poikittaisena
+poikittainen	ADJ;GEN(PL)	poikittaisten
+poikittainen	ADJ;IN+ABL(PL)	poikittaisista
+poikittainen	ADJ;IN+ABL(SG)	poikittaisesta
+poikittainen	ADJ;IN+ALL(PL)	poikittaisiin
+poikittainen	ADJ;IN+ALL(SG)	poikittaiseen
+poikittainen	ADJ;IN+ESS(PL)	poikittaisissa
+poikittainen	ADJ;IN+ESS(SG)	poikittaisessa
+poikittainen	ADJ;NOM(PL)	poikittaiset
+poikittainen	ADJ;PRIV(PL)	poikittaisitta
+poikittainen	ADJ;PRIV(SG)	poikittaisetta
+poikittainen	ADJ;PSS(1,PL)	poikittaisemme
+poikittainen	ADJ;PSS(1,SG)	poikittaiseni
+poikittainen	ADJ;PSS(2,PL)	poikittaisenne
+poikittainen	ADJ;PSS(3)	poikittaisensa
+poikittainen	ADJ;TRANS(PL)	poikittaisiksi
+pänniä	V.PTCP;ACT;PST	pänninyt
+pänniä	V.PTCP;AG	pännimä
+pänniä	V;ACT;PRS;NEG;POT;NOM(3,PL)	eivät pännine
+pänniä	V;ACT;PRS;POS;COND;NOM(1,PL)	pännisimme
+pänniä	V;ACT;PRS;POS;IMP;NOM(3,SG)	pänniköön
+pänniä	V;ACT;PRS;PRF;NEG;COND;NOM(2,PL)	ette olisi pännineet
+pänniä	V;ACT;PRS;PRF;NEG;IMP;NOM(3,SG)	älköön olko pänninyt
+pänniä	V;ACT;PRS;PRF;NEG;IND;NOM(3,SG)	ei ole pänninyt
+pänniä	V;ACT;PRS;PRF;POS;COND;NOM(2,PL)	olisitte pännineet
+pänniä	V;ACT;PRS;PRF;POS;COND;NOM(3,SG)	olisi pänninyt
+pänniä	V;ACT;PRS;PRF;POS;POT;NOM(1,SG)	lienen pänninyt
+pänniä	V;ACT;PRS;PRF;POS;POT;NOM(2,SG)	lienet pänninyt
+pänniä	V;ACT;PRS;PRF;POS;POT;NOM(3,PL)	lienevät pännineet
+pänniä	V;ACT;PST;NEG;IND;NOM(3,PL)	eivät pännineet
+pänniä	V;ACT;PST;NEG;IND;NOM(3,SG)	ei pänninyt
+pänniä	V;ACT;PST;PRF;NEG;IND;NOM(1,SG)	en ollut pänninyt
+pänniä	V;ACT;PST;PRF;POS;IND;NOM(1,SG)	olin pänninyt
+pänniä	V;NFIN;ACT;IN+ABL;NOM(3)	pännimästä
+pänniä	V;NFIN;ACT;IN+ESS;NOM(2)	pänniessä
+pänniä	V;NFIN;ACT;PRIV;NOM(3)	pännimättä
+pänniä	V;PASS;PST;NEG;IND	ei pännitty
+ratsastella	V;ACT;PRS;NEG;COND;NOM(1,SG)	en ratsastelisi
+ratsastella	V;ACT;PRS;NEG;IMP;NOM(1,PL)	älkäämme ratsastelko
+ratsastella	V;ACT;PRS;NEG;IMP;NOM(3,SG)	älköön ratsastelko
+ratsastella	V;ACT;PRS;NEG;IND;NOM(1,SG)	en ratsastele
+ratsastella	V;ACT;PRS;NEG;IND;NOM(2,SG)	et ratsastele
+ratsastella	V;ACT;PRS;POS;IMP;NOM(2,PL)	ratsastelkaa
+ratsastella	V;ACT;PRS;POS;IMP;NOM(3,PL)	ratsastelkoot
+ratsastella	V;ACT;PRS;POS;IND;NOM(2,PL)	ratsastelette
+ratsastella	V;ACT;PRS;POS;POT;NOM(2,PL)	ratsastellette
+ratsastella	V;ACT;PRS;POS;POT;NOM(2,SG)	ratsastellet
+ratsastella	V;ACT;PRS;PRF;NEG;COND;NOM(1,SG)	en olisi ratsastellut
+ratsastella	V;ACT;PRS;PRF;NEG;IMP;NOM(2,SG)	älä ole ratsastellut
+ratsastella	V;ACT;PRS;PRF;POS;IND;NOM(1,SG)	olen ratsastellut
+ratsastella	V;ACT;PRS;PRF;POS;IND;NOM(3,SG)	on ratsastellut
+ratsastella	V;ACT;PST;PRF;POS;IND;NOM(2,PL)	olitte ratsastelleet
+ratsastella	V;NFIN;4;ACT;PRT	ratsastelemista
+ratsastella	V;NFIN;PASS;IN+ESS;NOM(2)	ratsasteltaessa
+ratsastella	V;PASS;PRS;NEG;IMP	älköön ratsasteltako
+ratsastella	V;PASS;PRS;NEG;POT	ei ratsasteltane
+ratsastella	V;PASS;PRS;PRF;POS;IND	on ratsasteltu
+ratsastella	V;PASS;PRS;PRF;POS;POT	lienee ratsasteltu
+redusoitua	V.PTCP;ACT;PST	redusoitunut
+redusoitua	V.PTCP;NEG	redusoitumaton
+redusoitua	V;ACT;PRS;NEG;IMP;NOM(3,PL)	älkööt redusoituko
+redusoitua	V;ACT;PRS;NEG;IND;NOM(1,PL)	emme redusoidu
+redusoitua	V;ACT;PRS;NEG;IND;NOM(3,PL)	eivät redusoidu
+redusoitua	V;ACT;PRS;NEG;POT;NOM(3,PL)	eivät redusoitune
+redusoitua	V;ACT;PRS;POS;COND;NOM(1,SG)	redusoituisin
+redusoitua	V;ACT;PRS;POS;COND;NOM(2,SG)	redusoituisit
+redusoitua	V;ACT;PRS;POS;COND;NOM(3,PL)	redusoituisivat
+redusoitua	V;ACT;PRS;POS;IND;NOM(3,PL)	redusoituvat
+redusoitua	V;ACT;PRS;PRF;NEG;COND;NOM(2,PL)	ette olisi redusoituneet
+redusoitua	V;ACT;PRS;PRF;NEG;IMP;NOM(2,SG)	älä ole redusoitunut
+redusoitua	V;ACT;PRS;PRF;POS;IMP;NOM(2,SG)	ole redusoitunut
+redusoitua	V;ACT;PRS;PRF;POS;POT;NOM(3,SG)	lienee redusoitunut
+redusoitua	V;NFIN;4;ACT;NOM	redusoituminen
+redusoitua	V;NFIN;4;PASS;NOM	redusoituminen
+redusoitua	V;NFIN;4;PASS;PRT	redusoitumista
+redusoitua	V;NFIN;5;PASS	redusoitumaisillaan
+redusoitua	V;PASS;PRS;PRF;NEG;COND	ei olisi redusoiduttu
+redusoitua	V;PASS;PRS;PRF;NEG;IMP	älköön olko redusoiduttu
+redusoitua	V;PASS;PRS;PRF;POS;IND	on redusoiduttu
+sanaan	N;IN+ALL(SG;PSS(1,SG))	sanaani
+simahtaa	V.PTCP;PASS;PRS	simahdettava
+simahtaa	V.PTCP;PASS;PST	simahdettu
+simahtaa	V;ACT;PRS;NEG;COND;NOM(3,PL)	eivät simahtaisi
+simahtaa	V;ACT;PRS;NEG;IND;NOM(3,SG)	ei simahda
+simahtaa	V;ACT;PRS;NEG;POT;NOM(3,PL)	eivät simahtane
+simahtaa	V;ACT;PRS;POS;COND;NOM(2,SG)	simahtaisit
+simahtaa	V;ACT;PRS;POS;IMP;NOM(3,SG)	simahtakoon
+simahtaa	V;ACT;PRS;PRF;NEG;COND;NOM(3,PL)	eivät olisi simahtaneet
+simahtaa	V;ACT;PRS;PRF;NEG;IMP;NOM(3,PL)	älkööt olko simahtaneet
+simahtaa	V;ACT;PRS;PRF;NEG;POT;NOM(1,SG)	en liene simahtanut
+simahtaa	V;ACT;PRS;PRF;POS;COND;NOM(1,PL)	olisimme simahtaneet
+simahtaa	V;ACT;PRS;PRF;POS;IMP;NOM(3,PL)	olkoot simahtaneet
+simahtaa	V;ACT;PRS;PRF;POS;IND;NOM(3,SG)	on simahtanut
+simahtaa	V;ACT;PRS;PRF;POS;POT;NOM(1,PL)	lienemme simahtaneet
+simahtaa	V;ACT;PST;NEG;IND;NOM(1,SG)	en simahtanut
+simahtaa	V;ACT;PST;NEG;IND;NOM(2,SG)	et simahtanut
+simahtaa	V;ACT;PST;PRF;NEG;IND;NOM(1,PL)	emme olleet simahtaneet
+simahtaa	V;ACT;PST;PRF;POS;IND;NOM(1,PL)	olimme simahtaneet
+simahtaa	V;NFIN;ACT;IN+ESS;NOM(2)	simahtaessa
+simahtaa	V;PASS;PRS;PRF;NEG;POT	ei liene simahdettu
+simahtaa	V;PASS;PRS;PRF;POS;POT	lienee simahdettu
+skulata	V.PTCP;AG	skulaama
+skulata	V;ACT;PRS;NEG;COND;NOM(1,PL)	emme skulaisi
+skulata	V;ACT;PRS;POS;COND;NOM(2,PL)	skulaisitte
+skulata	V;ACT;PRS;POS;IMP;NOM(3,SG)	skulatkoon
+skulata	V;ACT;PRS;POS;POT;NOM(1,SG)	skulannen
+skulata	V;ACT;PRS;PRF;NEG;IND;NOM(1,PL)	emme ole skulanneet
+skulata	V;ACT;PRS;PRF;NEG;IND;NOM(3,SG)	ei ole skulannut
+skulata	V;ACT;PRS;PRF;NEG;POT;NOM(2,SG)	et liene skulannut
+skulata	V;ACT;PRS;PRF;NEG;POT;NOM(3,PL)	eivät liene skulanneet
+skulata	V;ACT;PRS;PRF;POS;IMP;NOM(2,PL)	olkaa skulanneet
+skulata	V;ACT;PRS;PRF;POS;IMP;NOM(3,PL)	olkoot skulanneet
+skulata	V;ACT;PRS;PRF;POS;IND;NOM(1,PL)	olemme skulanneet
+skulata	V;ACT;PRS;PRF;POS;POT;NOM(2,PL)	lienette skulanneet
+skulata	V;ACT;PST;NEG;IND;NOM(1,PL)	emme skulanneet
+skulata	V;ACT;PST;NEG;IND;NOM(3,PL)	eivät skulanneet
+skulata	V;NFIN;4;PASS;PRT	skulaamista
+skulata	V;NFIN;5;ACT	skulaamaisillaan
+skulata	V;PASS;PRS;NEG;COND	ei skulattaisi
+skulata	V;PASS;PRS;PRF;POS;COND	olisi skulattu
+skulata	V;PASS;PRS;PRF;POS;IND	on skulattu
+skulata	V;PASS;PST;NEG;IND	ei skulattu
+sykertää	V.PTCP;ACT;PRS	sykertävä
+sykertää	V;ACT;PRS;NEG;IMP;NOM(1,PL)	älkäämme sykertäkö
+sykertää	V;ACT;PRS;NEG;POT;NOM(1,PL)	emme sykertäne
+sykertää	V;ACT;PRS;POS;COND;NOM(3,PL)	sykertäisivät
+sykertää	V;ACT;PRS;POS;IMP;NOM(1,PL)	sykertäkäämme
+sykertää	V;ACT;PRS;POS;IND;NOM(3,PL)	sykertävät
+sykertää	V;ACT;PRS;POS;POT;NOM(1,SG)	sykertänen
+sykertää	V;ACT;PRS;POS;POT;NOM(2,SG)	sykertänet
+sykertää	V;ACT;PRS;PRF;NEG;IMP;NOM(2,PL)	älkää olko sykertäneet
+sykertää	V;ACT;PRS;PRF;NEG;IMP;NOM(2,SG)	älä ole sykertänyt
+sykertää	V;ACT;PRS;PRF;NEG;IND;NOM(1,PL)	emme ole sykertäneet
+sykertää	V;ACT;PRS;PRF;NEG;IND;NOM(3,PL)	eivät ole sykertäneet
+sykertää	V;ACT;PRS;PRF;POS;COND;NOM(1,SG)	olisin sykertänyt
+sykertää	V;ACT;PRS;PRF;POS;IMP;NOM(1,PL)	olkaamme sykertäneet
+sykertää	V;ACT;PRS;PRF;POS;IMP;NOM(2,PL)	olkaa sykertäneet
+sykertää	V;ACT;PRS;PRF;POS;IND;NOM(1,PL)	olemme sykertäneet
+sykertää	V;ACT;PST;POS;IND;NOM(1,PL)	sykersimme
+sykertää	V;ACT;PST;POS;IND;NOM(1,SG)	sykersin
+sykertää	V;ACT;PST;PRF;NEG;IND;NOM(2,SG)	et ollut sykertänyt
+sykertää	V;PASS;PRS;PRF;POS;IMP	olkoon sykerretty
+sykertää	V;PASS;PST;NEG;IND	ei sykerretty
+sympatia	N;ACC(PL)	sympatiat
+sympatia	N;ACC(SG)	sympatia
+sympatia	N;AT+ABL(PL)	sympatioilta
+sympatia	N;AT+ALL(SG)	sympatialle
+sympatia	N;AT+ESS(SG)	sympatialla
+sympatia	N;COM(PL)	sympatioineen
+sympatia	N;FRML(PL)	sympatioina
+sympatia	N;FRML(SG)	sympatiana
+sympatia	N;GEN(PL)	sympatioiden
+sympatia	N;GEN(SG)	sympatian
+sympatia	N;IN+ABL(SG)	sympatiasta
+sympatia	N;IN+ALL(SG)	sympatiaan
+sympatia	N;NOM(SG)	sympatia
+sympatia	N;PRIV(PL)	sympatioitta
+sympatia	N;PRT(PL)	sympatioita
+sympatia	N;PSS(1,SG)	sympatiani
+sympatia	N;PSS(2,PL)	sympatianne
+sympatia	N;PSS(2,SG)	sympatiasi
+sympatia	N;PSS(3)	sympatiansa
+sympatia	N;TRANS(PL)	sympatioiksi
+sympatia	N;TRANS(SG)	sympatiaksi
+tabuloida	V.PTCP;AG	tabuloima
+tabuloida	V;ACT;PRS;NEG;COND;NOM(1,PL)	emme tabuloisi
+tabuloida	V;ACT;PRS;NEG;COND;NOM(2,PL)	ette tabuloisi
+tabuloida	V;ACT;PRS;NEG;IMP;NOM(3,PL)	älkööt tabuloiko
+tabuloida	V;ACT;PRS;NEG;IMP;NOM(3,SG)	älköön tabuloiko
+tabuloida	V;ACT;PRS;NEG;IND;NOM(3,PL)	eivät tabuloi
+tabuloida	V;ACT;PRS;NEG;POT;NOM(3,PL)	eivät tabuloine
+tabuloida	V;ACT;PRS;PRF;NEG;COND;NOM(2,PL)	ette olisi tabuloineet
+tabuloida	V;ACT;PRS;PRF;NEG;POT;NOM(2,SG)	et liene tabuloinut
+tabuloida	V;ACT;PRS;PRF;POS;IMP;NOM(3,SG)	olkoon tabuloinut
+tabuloida	V;ACT;PRS;PRF;POS;POT;NOM(2,PL)	lienette tabuloineet
+tabuloida	V;ACT;PRS;PRF;POS;POT;NOM(3,PL)	lienevät tabuloineet
+tabuloida	V;ACT;PST;POS;IND;NOM(1,PL)	tabuloimme
+tabuloida	V;ACT;PST;POS;IND;NOM(3,SG)	tabuloi
+tabuloida	V;ACT;PST;PRF;NEG;IND;NOM(3,PL)	eivät olleet tabuloineet
+tabuloida	V;ACT;PST;PRF;POS;IND;NOM(2,PL)	olitte tabuloineet
+tabuloida	V;NFIN;4;PASS;NOM	tabuloiminen
+tabuloida	V;NFIN;5;ACT	tabuloimaisillaan
+tabuloida	V;NFIN;ACT;IN+ABL;NOM(3)	tabuloimasta
+tabuloida	V;NFIN;PASS;IN+ESS;NOM(2)	tabuloitaessa
+tabuloida	V;PASS;PST;POS;IND	tabuloitiin
+tihkuttaa	V;ACT;PRS;NEG;COND;NOM(2,PL)	ette tihkuttaisi
+tihkuttaa	V;ACT;PRS;NEG;COND;NOM(3,PL)	eivät tihkuttaisi
+tihkuttaa	V;ACT;PRS;NEG;IMP;NOM(3,PL)	älkööt tihkuttako
+tihkuttaa	V;ACT;PRS;NEG;IMP;NOM(3,SG)	älköön tihkuttako
+tihkuttaa	V;ACT;PRS;NEG;IND;NOM(1,SG)	en tihkuta
+tihkuttaa	V;ACT;PRS;NEG;IND;NOM(3,PL)	eivät tihkuta
+tihkuttaa	V;ACT;PRS;NEG;IND;NOM(3,SG)	ei tihkuta
+tihkuttaa	V;ACT;PRS;POS;IND;NOM(3,PL)	tihkuttavat
+tihkuttaa	V;ACT;PRS;PRF;NEG;COND;NOM(1,PL)	emme olisi tihkuttaneet
+tihkuttaa	V;ACT;PRS;PRF;POS;COND;NOM(2,PL)	olisitte tihkuttaneet
+tihkuttaa	V;ACT;PRS;PRF;POS;COND;NOM(3,PL)	olisivat tihkuttaneet
+tihkuttaa	V;ACT;PRS;PRF;POS;IMP;NOM(2,PL)	olkaa tihkuttaneet
+tihkuttaa	V;ACT;PRS;PRF;POS;POT;NOM(1,SG)	lienen tihkuttanut
+tihkuttaa	V;ACT;PST;POS;IND;NOM(1,SG)	tihkutin
+tihkuttaa	V;ACT;PST;POS;IND;NOM(3,PL)	tihkuttivat
+tihkuttaa	V;ACT;PST;PRF;NEG;IND;NOM(2,SG)	et ollut tihkuttanut
+tihkuttaa	V;NFIN;ACT+PASS	tihkuttaa
+tihkuttaa	V;PASS;PRS;POS;IMP	tihkutettakoon
+tihkuttaa	V;PASS;PRS;POS;POT	tihkutettaneen
+tihkuttaa	V;PASS;PRS;PRF;NEG;IMP	älköön olko tihkutettu
+tihkuttaa	V;PASS;PRS;PRF;NEG;POT	ei liene tihkutettu
+tunnistaa	V.PTCP;ACT;PST	tunnistanut
+tunnistaa	V;ACT;PRS;NEG;IND;NOM(1,SG)	en tunnista
+tunnistaa	V;ACT;PRS;NEG;IND;NOM(3,SG)	ei tunnista
+tunnistaa	V;ACT;PRS;POS;COND;NOM(1,SG)	tunnistaisin
+tunnistaa	V;ACT;PRS;POS;POT;NOM(2,SG)	tunnistanet
+tunnistaa	V;ACT;PRS;PRF;NEG;COND;NOM(3,PL)	eivät olisi tunnistaneet
+tunnistaa	V;ACT;PRS;PRF;NEG;IMP;NOM(2,SG)	älä ole tunnistanut
+tunnistaa	V;ACT;PRS;PRF;NEG;POT;NOM(1,PL)	emme liene tunnistaneet
+tunnistaa	V;ACT;PRS;PRF;NEG;POT;NOM(2,PL)	ette liene tunnistaneet
+tunnistaa	V;ACT;PRS;PRF;POS;COND;NOM(1,PL)	olisimme tunnistaneet
+tunnistaa	V;ACT;PRS;PRF;POS;COND;NOM(3,SG)	olisi tunnistanut
+tunnistaa	V;ACT;PRS;PRF;POS;IMP;NOM(3,PL)	olkoot tunnistaneet
+tunnistaa	V;ACT;PRS;PRF;POS;IND;NOM(1,PL)	olemme tunnistaneet
+tunnistaa	V;ACT;PST;NEG;IND;NOM(2,SG)	et tunnistanut
+tunnistaa	V;ACT;PST;PRF;POS;IND;NOM(2,SG)	olit tunnistanut
+tunnistaa	V;NFIN;ACT;IN+ALL;NOM(3)	tunnistamaan
+tunnistaa	V;NFIN;PASS;NOM(1)	tunnistaakseen
+tunnistaa	V;PASS;PRS;POS;POT	tunnistettaneen
+tunnistaa	V;PASS;PRS;PRF;NEG;POT	ei liene tunnistettu
+tunnistaa	V;PASS;PRS;PRF;POS;COND	olisi tunnistettu
+tökerö	ADJ;AT+ABL(PL)	tökeröiltä
+tökerö	ADJ;AT+ABL(SG)	tökeröltä
+tökerö	ADJ;AT+ALL(PL)	tökeröille
+tökerö	ADJ;AT+ALL(SG)	tökerölle
+tökerö	ADJ;AT+ESS(PL)	tökeröillä
+tökerö	ADJ;AT+ESS(SG)	tökeröllä
+tökerö	ADJ;COM(PL)	tökeröine
+tökerö	ADJ;FRML(SG)	tökerönä
+tökerö	ADJ;GEN(PL)	tökeröjen
+tökerö	ADJ;IN+ABL(PL)	tökeröistä
+tökerö	ADJ;IN+ALL(PL)	tökeröihin
+tökerö	ADJ;IN+ALL(SG)	tökeröön
+tökerö	ADJ;IN+ESS(PL)	tökeröissä
+tökerö	ADJ;INS(PL)	tökeröin
+tökerö	ADJ;PRIV(SG)	tökeröttä
+tökerö	ADJ;PRT(SG)	tökeröä
+tökerö	ADJ;PSS(1,PL)	tökerömme
+tökerö	ADJ;PSS(1,SG)	tökeröni
+tökerö	ADJ;PSS(2,PL)	tökerönne
+tökerö	ADJ;PSS(2,SG)	tökerösi
+tökerö	ADJ;PSS(3)	tökerönsä
+töykeä	ADJ;ACC(PL)	töykeät
+töykeä	ADJ;ACC(SG)	töykeä
+töykeä	ADJ;AT+ABL(SG)	töykeältä
+töykeä	ADJ;AT+ALL(PL)	töykeille
+töykeä	ADJ;AT+ESS(SG)	töykeällä
+töykeä	ADJ;FRML(PL)	töykeinä
+töykeä	ADJ;FRML(SG)	töykeänä
+töykeä	ADJ;GEN(SG)	töykeän
+töykeä	ADJ;IN+ALL(SG)	töykeään
+töykeä	ADJ;IN+ESS(PL)	töykeissä
+töykeä	ADJ;IN+ESS(SG)	töykeässä
+töykeä	ADJ;INS(PL)	töykein
+töykeä	ADJ;NOM(PL)	töykeät
+töykeä	ADJ;PRIV(PL)	töykeittä
+töykeä	ADJ;PRIV(SG)	töykeättä
+töykeä	ADJ;PRT(PL)	töykeitä
+töykeä	ADJ;PRT(SG)	töykeää
+töykeä	ADJ;PSS(1,SG)	töykeäni
+töykeä	ADJ;PSS(2,PL)	töykeänne
+töykeä	ADJ;PSS(3)	töykeänsä
+töykeä	ADJ;TRANS(PL)	töykeiksi
+urjalalainen	ADJ;ACC(PL)	urjalalaiset
+urjalalainen	ADJ;ACC(SG)	urjalalainen
+urjalalainen	ADJ;AT+ABL(PL)	urjalalaisilta
+urjalalainen	ADJ;AT+ALL(PL)	urjalalaisille
+urjalalainen	ADJ;AT+ESS(PL)	urjalalaisilla
+urjalalainen	ADJ;FRML(PL)	urjalalaisina
+urjalalainen	ADJ;FRML(SG)	urjalalaisena
+urjalalainen	ADJ;IN+ABL(SG)	urjalalaisesta
+urjalalainen	ADJ;IN+ALL(PL)	urjalalaisiin
+urjalalainen	ADJ;IN+ESS(PL)	urjalalaisissa
+urjalalainen	ADJ;IN+ESS(SG)	urjalalaisessa
+urjalalainen	ADJ;INS(PL)	urjalalaisin
+urjalalainen	ADJ;NOM(PL)	urjalalaiset
+urjalalainen	ADJ;NOM(SG)	urjalalainen
+urjalalainen	ADJ;PRIV(PL)	urjalalaisitta
+urjalalainen	ADJ;PRT(SG)	urjalalaista
+urjalalainen	ADJ;PSS(2,PL)	urjalalaisenne
+urjalalainen	ADJ;PSS(2,SG)	urjalalaisesi
+urjalalainen	ADJ;PSS(3)	urjalalaisensa
+urjalalainen	ADJ;TRANS(PL)	urjalalaisiksi
+valkyria	N;ACC(PL)	valkyriat
+valkyria	N;ACC(SG)	valkyria
+valkyria	N;AT+ABL(PL)	valkyrioilta
+valkyria	N;AT+ALL(PL)	valkyrioille
+valkyria	N;COM(PL)	valkyrioineen
+valkyria	N;FRML(PL)	valkyrioina
+valkyria	N;FRML(SG)	valkyriana
+valkyria	N;GEN(PL)	valkyrioiden
+valkyria	N;GEN(SG)	valkyrian
+valkyria	N;IN+ALL(PL)	valkyrioihin
+valkyria	N;IN+ALL(SG)	valkyriaan
+valkyria	N;IN+ESS(PL)	valkyrioissa
+valkyria	N;IN+ESS(SG)	valkyriassa
+valkyria	N;INS(PL)	valkyrioin
+valkyria	N;NOM(SG)	valkyria
+valkyria	N;PRIV(PL)	valkyrioitta
+valkyria	N;PRT(SG)	valkyriaa
+valkyria	N;PSS(1,PL)	valkyriamme
+valkyria	N;PSS(1,SG)	valkyriani
+valkyria	N;PSS(2,SG)	valkyriasi
+veteliläinen	ADJ;ACC(PL)	veteliläiset
+veteliläinen	ADJ;AT+ABL(PL)	veteliläisiltä
+veteliläinen	ADJ;AT+ALL(PL)	veteliläisille
+veteliläinen	ADJ;AT+ALL(SG)	veteliläiselle
+veteliläinen	ADJ;COM(PL)	veteliläisine
+veteliläinen	ADJ;FRML(PL)	veteliläisinä
+veteliläinen	ADJ;FRML(SG)	veteliläisenä
+veteliläinen	ADJ;GEN(SG)	veteliläisen
+veteliläinen	ADJ;IN+ABL(PL)	veteliläisistä
+veteliläinen	ADJ;IN+ABL(SG)	veteliläisestä
+veteliläinen	ADJ;IN+ALL(PL)	veteliläisiin
+veteliläinen	ADJ;IN+ALL(SG)	veteliläiseen
+veteliläinen	ADJ;IN+ESS(PL)	veteliläisissä
+veteliläinen	ADJ;IN+ESS(SG)	veteliläisessä
+veteliläinen	ADJ;PRT(PL)	veteliläisiä
+veteliläinen	ADJ;PRT(SG)	veteliläistä
+veteliläinen	ADJ;PSS(1,SG)	veteliläiseni
+veteliläinen	ADJ;PSS(2,PL)	veteliläisenne
+veteliläinen	ADJ;PSS(2,SG)	veteliläisesi
+veteliläinen	ADJ;TRANS(PL)	veteliläisiksi
+veteliläinen	ADJ;TRANS(SG)	veteliläiseksi
+villainen	ADJ;ACC(PL)	villaiset
+villainen	ADJ;ACC(SG)	villainen
+villainen	ADJ;AT+ABL(SG)	villaiselta
+villainen	ADJ;AT+ALL(PL)	villaisille
+villainen	ADJ;AT+ESS(PL)	villaisilla
+villainen	ADJ;GEN(PL)	villaisten
+villainen	ADJ;GEN(SG)	villaisen
+villainen	ADJ;IN+ABL(SG)	villaisesta
+villainen	ADJ;IN+ALL(PL)	villaisiin
+villainen	ADJ;IN+ALL(SG)	villaiseen
+villainen	ADJ;IN+ESS(PL)	villaisissa
+villainen	ADJ;IN+ESS(SG)	villaisessa
+villainen	ADJ;NOM(PL)	villaiset
+villainen	ADJ;NOM(SG)	villainen
+villainen	ADJ;PRIV(SG)	villaisetta
+villainen	ADJ;PRT(PL)	villaisia
+villainen	ADJ;PRT(SG)	villaista
+villainen	ADJ;PSS(2,SG)	villaisesi
+villainen	ADJ;PSS(3)	villaisensa
+villainen	ADJ;TRANS(PL)	villaisiksi
+villainen	ADJ;TRANS(SG)	villaiseksi
+vitkasteleminen	N;ACC(PL)	vitkastelemiset
+vitkasteleminen	N;ACC(SG)	vitkasteleminen
+vitkasteleminen	N;AT+ABL(PL)	vitkastelemisilta
+vitkasteleminen	N;AT+ABL(SG)	vitkastelemiselta
+vitkasteleminen	N;AT+ALL(SG)	vitkastelemiselle
+vitkasteleminen	N;AT+ESS(PL)	vitkastelemisilla
+vitkasteleminen	N;FRML(PL)	vitkastelemisina
+vitkasteleminen	N;GEN(PL)	vitkastelemisten
+vitkasteleminen	N;IN+ABL(SG)	vitkastelemisesta
+vitkasteleminen	N;IN+ALL(PL)	vitkastelemisiin
+vitkasteleminen	N;IN+ESS(SG)	vitkastelemisessa
+vitkasteleminen	N;NOM(SG)	vitkasteleminen
+vitkasteleminen	N;PRIV(PL)	vitkastelemisitta
+vitkasteleminen	N;PRIV(SG)	vitkastelemisetta
+vitkasteleminen	N;PRT(PL)	vitkastelemisia
+vitkasteleminen	N;PSS(1,PL)	vitkastelemisemme
+vitkasteleminen	N;PSS(1,SG)	vitkastelemiseni
+vitkasteleminen	N;PSS(2,PL)	vitkastelemisenne
+vitkasteleminen	N;PSS(2,SG)	vitkastelemisesi
+vitkasteleminen	N;PSS(3)	vitkastelemisensa
+vitkasteleminen	N;TRANS(PL)	vitkastelemisiksi
+väistellä	V;ACT;PRS;NEG;COND;NOM(3,PL)	eivät väistelisi
+väistellä	V;ACT;PRS;NEG;IMP;NOM(2,SG)	älä väistele
+väistellä	V;ACT;PRS;NEG;IND;NOM(2,PL)	ette väistele
+väistellä	V;ACT;PRS;NEG;POT;NOM(2,PL)	ette väistelle
+väistellä	V;ACT;PRS;POS;COND;NOM(3,PL)	väistelisivät
+väistellä	V;ACT;PRS;POS;IND;NOM(3,SG)	väistelee
+väistellä	V;ACT;PRS;PRF;NEG;COND;NOM(2,PL)	ette olisi väistelleet
+väistellä	V;ACT;PRS;PRF;NEG;POT;NOM(3,PL)	eivät liene väistelleet
+väistellä	V;ACT;PRS;PRF;POS;COND;NOM(2,SG)	olisit väistellyt
+väistellä	V;ACT;PRS;PRF;POS;IMP;NOM(2,SG)	ole väistellyt
+väistellä	V;ACT;PRS;PRF;POS;IND;NOM(2,SG)	olet väistellyt
+väistellä	V;ACT;PRS;PRF;POS;IND;NOM(3,SG)	on väistellyt
+väistellä	V;ACT;PST;POS;IND;NOM(1,PL)	väistelimme
+väistellä	V;ACT;PST;POS;IND;NOM(2,SG)	väistelit
+väistellä	V;ACT;PST;PRF;POS;IND;NOM(3,SG)	oli väistellyt
+väistellä	V;NFIN;5;PASS	väistelemäisillään
+väistellä	V;PASS;PRS;NEG;IND	ei väistellä
+väistellä	V;PASS;PRS;NEG;POT	ei väisteltäne
+väistellä	V;PASS;PRS;PRF;NEG;IMP	älköön olko väistelty
+väistellä	V;PASS;PRS;PRF;POS;IMP	olkoon väistelty
+väistellä	V;PASS;PST;PRF;NEG;IND	ei ollut väistelty
+ärsyyntynyt	ADJ;ACC(SG)	ärsyyntynyt
+ärsyyntynyt	ADJ;AT+ABL(PL)	ärsyyntyneiltä
+ärsyyntynyt	ADJ;AT+ABL(SG)	ärsyyntyneeltä
+ärsyyntynyt	ADJ;AT+ALL(PL)	ärsyyntyneille
+ärsyyntynyt	ADJ;AT+ALL(SG)	ärsyyntyneelle
+ärsyyntynyt	ADJ;AT+ESS(PL)	ärsyyntyneillä
+ärsyyntynyt	ADJ;AT+ESS(SG)	ärsyyntyneellä
+ärsyyntynyt	ADJ;COM(PL)	ärsyyntyneine
+ärsyyntynyt	ADJ;FRML(SG)	ärsyyntyneenä
+ärsyyntynyt	ADJ;GEN(PL)	ärsyyntyneiden
+ärsyyntynyt	ADJ;GEN(SG)	ärsyyntyneen
+ärsyyntynyt	ADJ;IN+ALL(PL)	ärsyyntyneisiin
+ärsyyntynyt	ADJ;IN+ALL(SG)	ärsyyntyneeseen
+ärsyyntynyt	ADJ;IN+ESS(PL)	ärsyyntyneissä
+ärsyyntynyt	ADJ;INS(PL)	ärsyyntynein
+ärsyyntynyt	ADJ;PRIV(SG)	ärsyyntyneettä
+ärsyyntynyt	ADJ;PRT(SG)	ärsyyntynyttä
+ärsyyntynyt	ADJ;PSS(1,PL)	ärsyyntyneemme
+ärsyyntynyt	ADJ;PSS(2,SG)	ärsyyntyneesi
+ärsyyntynyt	ADJ;TRANS(PL)	ärsyyntyneiksi

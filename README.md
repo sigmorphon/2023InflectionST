@@ -36,29 +36,42 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 
 #### Development Languages
 
-| Language | Family| code | UM | Contributors |
-|---|---|---|---|---|
-| Arabic, Modern Standard | Semitic (Afro-Asiatic) | ara | https://github.com/unimorph/ara/ara_atb | Salam Khalifa, Nizar Habash |
-| Georgian | Kartvelian | kat | https://github.com/unimorph/kat/ | Simon Guriel, Silvia Guriel-Agiashvili & Nona Atanelov |
-| Hebrew | Semitic (Afro-Asiatic) | heb | https://github.com/unimorph/heb/ | Omer Goldman |
-| Karelian | Finnic (Uralic) | krl | https://github.com/unimorph/krl/ | (Wiktionary, [VepKar](http://dictorpus.krc.karelia.ru/en)) |
-| Sanskrit | Indo-Aryan | san | https://github.com/unimorph/san/ | Aryaman Arora |
-| Tibetan | Sino-Tibetan | bod | https://github.com/unimorph/bod/ | Kat Vylomova |
-| Japanese | TBA | TBA | TBA | Mana Ashida |
-| Korean | TBA | TBA | TBA | Seunghun Lee, Jungyeul Park |
-| Afrikaans | TBA | TBA | TBA | Peter Dirix |
+| Language         | Family                       | code | UM                               |
+|------------------|------------------------------|------|----------------------------------|
+| Amharic          | Semitic (Afro-Asiatic)       | amh  | https://github.com/unimorph/kat/ |
+| Arabic, Egyptian | Semitic (Afro-Asiatic)       | arz  | https://github.com/unimorph/arz/ |
+| Danish           | Germanic (Indo-European)     | dan  | https://github.com/unimorph/dan/ |
+| English          | Germanic (Indo-European)     | eng  | https://github.com/unimorph/eng/ |
+| Finnish          | Finnic (Uralic)              | fin  | https://github.com/unimorph/fin/ |
+| French           | Romance (Indo-European)      | fra  | https://github.com/unimorph/fra/ |
+| Ancient Greek    | Helenic (Indo-European)      | grc  | https://github.com/unimorph/grc/ |
+| Hebrew           | Semitic (Afro-Asiatic)       | heb  | https://github.com/unimorph/heb/ |
+| Hungarian        | Ugric (Uralic)               | hun  | https://github.com/unimorph/hun/ |
+| Armenian         | Armenian (Indo-European)     | hye  | https://github.com/unimorph/hye/ |
+| Italian          | Romance (Indo-European)      | ita  | https://github.com/unimorph/ita/ |
+| Japanese         | Japonic                      | jap  | TBA                              |
+| Georgian         | Kartvelian                   | kat  | https://github.com/unimorph/kat/ |
+| Macedonian       | Balto-Slavic (Indo-European) | mkd  | https://github.com/unimorph/mkd/ |
+| Russian          | Balto-Slavic (Indo-European) | rus  | https://github.com/unimorph/rus/ |
+| Spanish          | Romance (Indo-European)      | spa  | https://github.com/unimorph/spa/ |
+| Swahili          | Bantu (Niger-Congo)          | swa  | https://github.com/unimorph/swa/ |
+| Turkish          | Turkic                       | tur  | https://github.com/unimorph/tur/ |
 
+[//]: # (#### Surprise Languages)
 
-#### Surprise Languages
-
-| Language | Family| code | UM | Contributors |
-|---|---|---|---|---|
-| Central Kurdish | TBA | TBA | TBA | Aso Mahmudi, Sina Ahmadi |
-| Ossetian | TBA | TBA | TBA | Samopriya Basu |
-| Khanty | TBA | TBA | TBA | Karina Sheifer |
-| Kullui | TBA | TBA | TBA | Elena Klyachko |
-| Munda | TBA | TBA | TBA | Elena Klyachko |
-
+[//]: # ()
+[//]: # (| Language | Family| code | UM | Contributors |)
+[//]: # (|---|---|---|---|---|)
+[//]: # (| Central Kurdish | TBA | TBA | TBA | Aso Mahmudi, Sina Ahmadi |)
+[//]: # (| Ossetian | TBA | TBA | TBA | Samopriya Basu |)
+[//]: # (| Khanty | TBA | TBA | TBA | Karina Sheifer |)
+[//]: # (| Kullui | TBA | TBA | TBA | Elena Klyachko |)
+[//]: # (| Munda | TBA | TBA | TBA | Elena Klyachko |)
+[//]: # (| Korean | TBA | TBA | TBA | Seunghun Lee, Jungyeul Park |)
+[//]: # (| Afrikaans | TBA | TBA | TBA | Peter Dirix |)
+[//]: # (| Tibetan | Sino-Tibetan | bod | https://github.com/unimorph/bod/ | Kat Vylomova |)
+[//]: # (| Sanskrit | Indo-Aryan | san | https://github.com/unimorph/san/ | Aryaman Arora |)
+[//]: # (| Karelian | Finnic &#40;Uralic&#41; | krl | https://github.com/unimorph/krl/ | &#40;Wiktionary, [VepKar]&#40;http://dictorpus.krc.karelia.ru/en&#41;&#41; |)
 
 ## Timeline
   * February 15, 2023: Task website is complete, and accepting registrations to the mailing list
@@ -81,6 +94,29 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
   * May 31, 2023: CR deadline; task paper due from organizers.
 
 ### Data
+
+The training and development data are provided in a simple utf-8 encoded text format for both the development and surprise languages.
+Each line in a file is an example that consists of a lemma, a word form and 
+the corresponding morphosyntactic descriptions (MSDs) provided as a set of features, separated by semicolons.
+Some features are complex and composed of sub-features seperated by commas inside parentheses.
+Here we present an example from the Spanish training data (the Spanish verb “cancelar” means “to call off” in English):
+```
+cancelar	V;IMP;ACC(2,SG);NOM(INFM,2,SG)	cancélate
+```
+In this example features that pertain to a specific verb argument are treated as sub-features of the corresponding case feature.
+
+In addition, case features for nominal and adjectival inflections are layered on top the other features as in this example from Turkish:
+```
+asimptot	N;NOM(PL;PSS(1,PL))	asimptotlarımız
+```
+(here, again, some features are sub-features of the possessor)
+
+The training data for each language includes 10,000 examples, in addition to a validation and test set of 1,000 examples each.
+The data is split such that there is no overlap in lemmas between the splits.
+
+Validation data is provided in 2 versions: uncovered version that includes the target inflections similarly to the train set, 
+and a covered version that do not include the target similarly to the test set. The test set will be released at the beginning of the test phase (see below). 
+
 
 ## Evaluation
 

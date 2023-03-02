@@ -8,7 +8,7 @@ SIGMORPHON’s eigth installment of its inflection generation shared task will b
 
 Please join our [Google Group](https://TBA) to stay up to date.
 
-***Click here to [register for the task](https://forms.gle/TBA)!***
+***Click here to [register for the task](https://docs.google.com/forms/d/e/1FAIpQLSfA802Luvxn4oAadpmF1lHID_VERAonlDhQ6voY6tXVGEfQnQ/viewform)!***
 
 
 ## Part 1: Typologically Diverse Morphological (Re-)Inflection

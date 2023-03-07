@@ -188,12 +188,20 @@ Auxiliary training data is a list of all -lC verbs in a Korean dictionary, the d
 
 ### Timeline
 
-### Submission Instructions 
+ * March 1, 2023: Data is released to participants
+ * March 14, 2023: Baseline systems released to participants
+ * April 14, 2023: Test data is available for participants
+ * April 21, 2023: Final Submissions are due.
+ * April 25, 2023: Results announced to participants
+ * May 8, 2023: System papers due for review
+ * May 22, 2023: Reviews back to participants
+ * May 31, 2023:  CR deadline; task paper due from organizers
 
+### Submission Instructions 
 
 ### Organizers
 
-Canaan Breiss, Jinyoung Jo
+Canaan Breiss (primary), Jinyoung Jo
 
 Contact: canaanbreiss1@gmail.com
 

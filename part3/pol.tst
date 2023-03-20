@@ -1,180 +1,180 @@
-aparat	ACC	4.39409790523428e-05	aparat
-bocian	GEN	8.66265015603329e-05	bɔt͡ɕan
-garnek	ACC	6.90501099393958e-05	garnɛk
-garnek	DAT	6.90501099393958e-05	garnɛk
-smok	INS	6.40282837619852e-05	smɔk
-traktor	GEN	0.00010420289318127	traktɔr
-traktor	LOC	0.00010420289318127	traktɔr
-statek	ACC	0.000119268371713502	statɛk
-spódnica	NOM	2.63645874314057e-05	spudɲit͡sa
-bocian	ACC	8.66265015603329e-05	bɔt͡ɕan
-garnek	GEN	6.90501099393958e-05	garnɛk
-samochód	ACC	0.000458241638688718	samɔxut
-okno	NOM	0.000410534290003317	ɔknɔ
-chleb	LOC	0.000254857678503588	xlɛp
-telefon	DAT	0.00016572026385455	tɛlɛfɔn
-okno	INS	0.000410534290003317	ɔknɔ
-smok	LOC	6.40282837619852e-05	smɔk
-cebula	INS	1.50654785322318e-05	t͡sɛbula
-wilk	ACC	0.000328929614620395	vilk
-aparat	GEN	4.39409790523428e-05	aparat
-doktor	INS	0.000171997546576313	dɔktɔr
-wieloryb	INS	3.38973266975216e-05	vjɛlɔrɨp
-wieloryb	DAT	3.38973266975216e-05	vjɛlɔrɨp
-pociąg	DAT	0.000502182617741061	pɔt͡ɕɔ̃ŋk
-samochód	GEN	0.000458241638688718	samɔxut
-koło	GEN	9.22459224475379e-05	kɔwɔ
-książka	ACC	0.000610151880555389	kɕɔ̃nʃka
-sitko	GEN	5.27291748628114e-05	ɕitkɔ
-beczka	DAT	2.38536743427004e-05	bɛt͡ʃka
-okno	ACC	0.000410534290003317	ɔknɔ
-beczka	NOM	2.38536743427004e-05	bɛt͡ʃka
-wilk	LOC	0.000328929614620395	vilk
-samochód	NOM	0.000458241638688718	samɔxut
-grzebień	ACC	3.13864136088163e-05	gʒɛbjɛɲ
-spódnica	DAT	2.63645874314057e-05	spudɲit͡sa
-statek	DAT	0.000119268371713502	statɛk
-słoik	GEN	1.75763916209371e-05	swɔik
-koło	INS	3.01309570644636e-05	kɔwɔ
-traktor	NOM	0.00010420289318127	traktɔr
-pianino	ACC	1.75763916209371e-05	pjaɲinɔ
-doktor	LOC	0.000171997546576313	dɔktɔr
-jajko	LOC	0.000337717810430863	jajkɔ
-kucharz	INS	1.12991088991739e-05	kuxaʃ
-książka	DAT	0.000610151880555389	kɕɔ̃nʃka
-aparat	DAT	4.39409790523428e-05	aparat
-sitko	NOM	5.27291748628114e-05	ɕitkɔ
-samochód	DAT	0.000458241638688718	samɔxut
-chleb	GEN	0.000254857678503588	xlɛp
-kucharz	ACC	1.12991088991739e-05	kuxaʃ
-słoik	INS	1.75763916209371e-05	swɔik
-beczka	GEN	2.38536743427004e-05	bɛt͡ʃka
-okno	LOC	0.000410534290003317	ɔknɔ
-ołówek	LOC	0.000303820483733342	ɔwuvɛk
-pianino	LOC	1.75763916209371e-05	pjaɲinɔ
-bocian	NOM	8.66265015603329e-05	bɔt͡ɕan
-pianino	NOM	1.75763916209371e-05	pjaɲinɔ
-doktor	GEN	0.000171997546576313	dɔktɔr
-książka	NOM	0.000610151880555389	kɕɔ̃nʃka
-statek	NOM	0.000119268371713502	statɛk
-pociąg	INS	0.000502182617741061	pɔt͡ɕɔ̃ŋk
-aparat	NOM	4.39409790523428e-05	aparat
-chleb	ACC	0.000254857678503588	xlɛp
-chleb	DAT	0.000254857678503588	xlɛp
-dźwig	GEN	3.51527832418742e-05	d͡ʑvik
-kucharz	LOC	8.78819581046856e-06	kuxaʃ
-beczka	LOC	2.38536743427004e-05	bɛt͡ʃka
-jajko	ACC	0.000337717810430863	jajkɔ
-koło	LOC	9.22459224475379e-05	kɔwɔ
-traktor	DAT	0.00010420289318127	traktɔr
-bocian	DAT	8.66265015603329e-05	bɔt͡ɕan
-telefon	LOC	0.00016572026385455	tɛlɛfɔn
-spódnica	INS	2.63645874314057e-05	spudɲit͡sa
-pianino	INS	1.75763916209371e-05	pjaɲinɔ
-koło	ACC	3.01309570644636e-05	kɔwɔ
-koszula	LOC	4.77073486854008e-05	kɔʃula
-szklanka	LOC	6.27728272176326e-05	ʃklanka
-doktor	NOM	0.000105458349725623	dɔktɔr
-jabłko	LOC	0.000244814026148767	jabwkɔ
-okno	DAT	0.000410534290003317	ɔknɔ
-statek	GEN	0.000119268371713502	statɛk
-książka	LOC	0.000610151880555389	kɕɔ̃nʃka
-telefon	INS	0.00016572026385455	tɛlɛfɔn
-doktor	ACC	0.000171997546576313	dɔktɔr
-wilk	INS	0.000328929614620395	vilk
-aparat	INS	4.39409790523428e-05	aparat
-słoik	LOC	1.75763916209371e-05	swɔik
-dźwig	NOM	3.51527832418742e-05	d͡ʑvik
-wieloryb	LOC	3.38973266975216e-05	vjɛlɔrɨp
-cebula	DAT	1.50654785322318e-05	t͡sɛbula
-jajko	GEN	0.000337717810430863	jajkɔ
-wilk	GEN	0.000328929614620395	vilk
-koszula	GEN	4.77073486854008e-05	kɔʃula
-jabłko	NOM	0.000244814026148767	jabwkɔ
-grzebień	NOM	3.13864136088163e-05	gʒɛbjɛɲ
-beczka	INS	2.39e-05	bɛt͡ʃka
-pociąg	GEN	0.000502182617741061	pɔt͡ɕɔ̃ŋk
-okno	GEN	0.000410534290003317	ɔknɔ
-doktor	DAT	0.000171997546576313	dɔktɔr
-koszula	DAT	4.77073486854008e-05	kɔʃula
-kucharz	GEN	1.12991088991739e-05	kuxaʃ
-smok	DAT	6.40282837619852e-05	smɔk
-statek	INS	0.000119268371713502	statɛk
-słoik	NOM	1.75763916209371e-05	swɔik
-koło	NOM	3.01309570644636e-05	kɔwɔ
-garnek	LOC	6.90501099393958e-05	garnɛk
-samochód	LOC	0.000458241638688718	samɔxut
-szklanka	ACC	6.27728272176326e-05	ʃklanka
-koszula	NOM	4.77073486854008e-05	kɔʃula
-pociąg	NOM	0.000502182617741061	pɔt͡ɕɔ̃ŋk
-spódnica	LOC	2.63645874314057e-05	spudɲit͡sa
-cebula	ACC	1.50654785322318e-05	t͡sɛbula
-cebula	NOM	1.50654785322318e-05	t͡sɛbula
-pianino	GEN	1.75763916209371e-05	pjaɲinɔ
-ołówek	ACC	0.000303820483733342	ɔwuvɛk
-sitko	DAT	5.27291748628114e-05	ɕitkɔ
-jabłko	INS	0.000244814026148767	jabwkɔ
-sitko	ACC	5.27291748628114e-05	ɕitkɔ
-grzebień	INS	3.13864136088163e-05	gʒɛbjɛɲ
-telefon	ACC	0.00016572026385455	tɛlɛfɔn
-wilk	DAT	0.000328929614620395	vilk
-smok	ACC	6.40282837619852e-05	smɔk
-statek	LOC	0.000119268371713502	statɛk
-sitko	LOC	5.27291748628114e-05	ɕitkɔ
-wieloryb	NOM	3.38973266975216e-05	vjɛlɔrɨp
-bocian	LOC	8.66265015603329e-05	bɔt͡ɕan
-szklanka	NOM	6.27728272176326e-05	ʃklanka
-spódnica	GEN	2.63645874314057e-05	spudɲit͡sa
-pociąg	LOC	0.000502182617741061	pɔt͡ɕɔ̃ŋk
-ołówek	GEN	0.000303820483733342	ɔwuvɛk
-chleb	INS	0.000254857678503588	xlɛp
-jajko	DAT	0.000337717810430863	jajkɔ
-ołówek	DAT	0.000303820483733342	ɔwuvɛk
-pociąg	ACC	0.000502182617741061	pɔt͡ɕɔ̃ŋk
-grzebień	DAT	3.14e-05	gʒɛbjɛɲ
-sitko	INS	5.27291748628114e-05	ɕitkɔ
-wieloryb	ACC	3.38973266975216e-05	vjɛlɔrɨp
-ołówek	INS	0.000303820483733342	ɔwuvɛk
-dźwig	INS	3.51527832418742e-05	d͡ʑvik
-szklanka	GEN	6.27728272176326e-05	ʃklanka
-dźwig	LOC	3.51527832418742e-05	d͡ʑvik
-jabłko	GEN	0.000244814026148767	jabwkɔ
-chleb	NOM	0.000254857678503588	xlɛp
-cebula	LOC	1.50654785322318e-05	t͡sɛbula
-bocian	INS	8.66265015603329e-05	bɔt͡ɕan
-koło	DAT	3.01309570644636e-05	kɔwɔ
-spódnica	ACC	2.63645874314057e-05	spudɲit͡sa
-pianino	DAT	1.76e-05	pjaɲinɔ
-garnek	INS	6.90501099393958e-05	garnɛk
-grzebień	LOC	3.14e-05	gʒɛbjɛɲ
-traktor	INS	0.00010420289318127	traktɔr
-szklanka	INS	6.27728272176326e-05	ʃklanka
-wieloryb	GEN	3.38973266975216e-05	vjɛlɔrɨp
-smok	NOM	6.40282837619852e-05	smɔk
-telefon	NOM	0.00016572026385455	tɛlɛfɔn
-jabłko	DAT	0.000244814026148767	jabwkɔ
-samochód	INS	0.000458241638688718	samɔxut
-koszula	ACC	4.77073486854008e-05	kɔʃula
-garnek	NOM	6.90501099393958e-05	garnɛk
-kucharz	NOM	8.78819581046856e-06	kuxaʃ
-cebula	GEN	1.50654785322318e-05	t͡sɛbula
-jabłko	ACC	0.000244814026148767	jabwkɔ
-koszula	INS	4.77073486854008e-05	kɔʃula
-dźwig	ACC	3.51527832418742e-05	d͡ʑvik
-traktor	ACC	0.00010420289318127	traktɔr
-jajko	INS	0.000337717810430863	jajkɔ
-telefon	GEN	0.00016572026385455	tɛlɛfɔn
-kucharz	DAT	8.78819581046856e-06	kuxaʃ
-książka	GEN	0.000610151880555389	kɕɔ̃nʃka
-słoik	ACC	1.75763916209371e-05	swɔik
-beczka	ACC	2.38536743427004e-05	bɛt͡ʃka
-książka	INS	0.000610151880555389	kɕɔ̃nʃka
-ołówek	NOM	0.000303820483733342	ɔwuvɛk
-jajko	NOM	0.000337717810430863	jajkɔ
-grzebień	GEN	3.13864136088163e-05	gʒɛbjɛɲ
-smok	GEN	6.40282837619852e-05	smɔk
-słoik	DAT	1.75763916209371e-05	swɔik
-dźwig	DAT	3.51527832418742e-05	d͡ʑvik
-wilk	NOM	0.000328929614620395	vilk
-szklanka	DAT	6.27728272176326e-05	ʃklanka
-aparat	LOC	4.39409790523428e-05	aparat
+pociąg	NOM	pɔt͡ɕɔ̃ŋk
+chleb	DAT	xlɛp
+pianino	LOC	pjaɲinɔ
+statek	INS	statɛk
+aparat	NOM	aparat
+jajko	DAT	jajkɔ
+smok	INS	smɔk
+spódnica	INS	spudɲit͡sa
+koszula	DAT	kɔʃula
+pianino	ACC	pjaɲinɔ
+aparat	LOC	aparat
+samochód	NOM	samɔxut
+cebula	DAT	t͡sɛbula
+sitko	DAT	ɕitkɔ
+pociąg	DAT	pɔt͡ɕɔ̃ŋk
+jabłko	GEN	jabwkɔ
+dźwig	INS	d͡ʑvik
+pianino	DAT	pjaɲinɔ
+dźwig	GEN	d͡ʑvik
+wieloryb	GEN	vjɛlɔrɨp
+telefon	ACC	tɛlɛfɔn
+garnek	ACC	garnɛk
+smok	ACC	smɔk
+aparat	INS	aparat
+spódnica	GEN	spudɲit͡sa
+chleb	LOC	xlɛp
+słoik	INS	swɔik
+smok	NOM	smɔk
+garnek	INS	garnɛk
+bocian	GEN	bɔt͡ɕan
+wieloryb	ACC	vjɛlɔrɨp
+chleb	NOM	xlɛp
+książka	INS	kɕɔ̃nʃka
+sitko	LOC	ɕitkɔ
+kucharz	LOC	kuxaʃ
+doktor	GEN	dɔktɔr
+garnek	GEN	garnɛk
+wilk	NOM	vilk
+chleb	GEN	xlɛp
+pianino	INS	pjaɲinɔ
+koszula	ACC	kɔʃula
+grzebień	DAT	gʒɛbjɛɲ
+dźwig	ACC	d͡ʑvik
+wilk	INS	vilk
+statek	LOC	statɛk
+grzebień	INS	gʒɛbjɛɲ
+cebula	ACC	t͡sɛbula
+okno	ACC	ɔknɔ
+garnek	NOM	garnɛk
+wilk	GEN	vilk
+traktor	GEN	traktɔr
+ołówek	NOM	ɔwuvɛk
+koło	NOM	kɔwɔ
+okno	INS	ɔknɔ
+garnek	LOC	garnɛk
+koło	DAT	kɔwɔ
+jajko	LOC	jajkɔ
+beczka	GEN	bɛt͡ʃka
+koło	INS	kɔwɔ
+cebula	LOC	t͡sɛbula
+doktor	LOC	dɔktɔr
+dźwig	DAT	d͡ʑvik
+bocian	ACC	bɔt͡ɕan
+książka	ACC	kɕɔ̃nʃka
+ołówek	LOC	ɔwuvɛk
+doktor	DAT	dɔktɔr
+koło	LOC	kɔwɔ
+dźwig	NOM	d͡ʑvik
+beczka	NOM	bɛt͡ʃka
+sitko	INS	ɕitkɔ
+aparat	DAT	aparat
+doktor	ACC	dɔktɔr
+okno	LOC	ɔknɔ
+cebula	INS	t͡sɛbula
+traktor	DAT	traktɔr
+wieloryb	DAT	vjɛlɔrɨp
+okno	NOM	ɔknɔ
+beczka	INS	bɛt͡ʃka
+wieloryb	INS	vjɛlɔrɨp
+grzebień	NOM	gʒɛbjɛɲ
+jabłko	LOC	jabwkɔ
+ołówek	GEN	ɔwuvɛk
+jabłko	DAT	jabwkɔ
+szklanka	ACC	ʃklanka
+telefon	GEN	tɛlɛfɔn
+spódnica	ACC	spudɲit͡sa
+aparat	ACC	aparat
+kucharz	ACC	kuxaʃ
+jabłko	NOM	jabwkɔ
+smok	GEN	smɔk
+książka	GEN	kɕɔ̃nʃka
+słoik	ACC	swɔik
+samochód	GEN	samɔxut
+jajko	INS	jajkɔ
+książka	NOM	kɕɔ̃nʃka
+okno	DAT	ɔknɔ
+samochód	LOC	samɔxut
+książka	DAT	kɕɔ̃nʃka
+bocian	INS	bɔt͡ɕan
+kucharz	DAT	kuxaʃ
+kucharz	INS	kuxaʃ
+cebula	GEN	t͡sɛbula
+koszula	LOC	kɔʃula
+doktor	NOM	dɔktɔr
+statek	GEN	statɛk
+bocian	DAT	bɔt͡ɕan
+koszula	INS	kɔʃula
+okno	GEN	ɔknɔ
+spódnica	DAT	spudɲit͡sa
+pianino	NOM	pjaɲinɔ
+traktor	LOC	traktɔr
+słoik	LOC	swɔik
+słoik	NOM	swɔik
+dźwig	LOC	d͡ʑvik
+aparat	GEN	aparat
+samochód	ACC	samɔxut
+sitko	GEN	ɕitkɔ
+ołówek	INS	ɔwuvɛk
+pociąg	ACC	pɔt͡ɕɔ̃ŋk
+koło	ACC	kɔwɔ
+słoik	GEN	swɔik
+telefon	LOC	tɛlɛfɔn
+wilk	LOC	vilk
+szklanka	LOC	ʃklanka
+grzebień	LOC	gʒɛbjɛɲ
+wilk	ACC	vilk
+smok	DAT	smɔk
+szklanka	DAT	ʃklanka
+ołówek	DAT	ɔwuvɛk
+ołówek	ACC	ɔwuvɛk
+grzebień	ACC	gʒɛbjɛɲ
+telefon	NOM	tɛlɛfɔn
+jajko	GEN	jajkɔ
+szklanka	INS	ʃklanka
+traktor	NOM	traktɔr
+traktor	INS	traktɔr
+kucharz	GEN	kuxaʃ
+spódnica	NOM	spudɲit͡sa
+jabłko	INS	jabwkɔ
+telefon	INS	tɛlɛfɔn
+grzebień	GEN	gʒɛbjɛɲ
+wieloryb	NOM	vjɛlɔrɨp
+słoik	DAT	swɔik
+wieloryb	LOC	vjɛlɔrɨp
+kucharz	NOM	kuxaʃ
+samochód	INS	samɔxut
+wilk	DAT	vilk
+bocian	NOM	bɔt͡ɕan
+pociąg	LOC	pɔt͡ɕɔ̃ŋk
+statek	DAT	statɛk
+pianino	GEN	pjaɲinɔ
+smok	LOC	smɔk
+garnek	DAT	garnɛk
+bocian	LOC	bɔt͡ɕan
+sitko	ACC	ɕitkɔ
+pociąg	INS	pɔt͡ɕɔ̃ŋk
+sitko	NOM	ɕitkɔ
+pociąg	GEN	pɔt͡ɕɔ̃ŋk
+chleb	ACC	xlɛp
+telefon	DAT	tɛlɛfɔn
+doktor	INS	dɔktɔr
+książka	LOC	kɕɔ̃nʃka
+jajko	NOM	jajkɔ
+statek	ACC	statɛk
+chleb	INS	xlɛp
+samochód	DAT	samɔxut
+statek	NOM	statɛk
+szklanka	NOM	ʃklanka
+beczka	DAT	bɛt͡ʃka
+traktor	ACC	traktɔr
+koło	GEN	kɔwɔ
+beczka	LOC	bɛt͡ʃka
+cebula	NOM	t͡sɛbula
+beczka	ACC	bɛt͡ʃka
+jajko	ACC	jajkɔ
+jabłko	ACC	jabwkɔ
+spódnica	LOC	spudɲit͡sa
+koszula	GEN	kɔʃula
+koszula	NOM	kɔʃula
+szklanka	GEN	ʃklanka

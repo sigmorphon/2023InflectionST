@@ -231,8 +231,13 @@ Still, the ``regular--irregular'' dichotomy comes from theories developed on the
 (the PND effect is greater for low-frequency forms). Connectionist models should be able to predict the effects of surface-form frequency and PN size while rule-based approaches only present the latter. It is important to note that rule-based accounts identify PND classes (conjugation or declension) in which the behaviour is defined by the whole morphological paradigm. On the other hand, connectionist and exemplar-based approaches consider PND forms instead, i.e. focus on patterns emerging from initial-to-target form transformations.
 The latter is also in line with children's language acquisition since they are unlikely to observe the whole paradigm, as mentioned earlier. In this task, we will consider both PND form and class.
 
-For the current shared task iteration, we would like to use the data collected in Grandlund et al. (2019) which is available at [https://osf.io/bmncq/](https://osf.io/bmncq/). 
-The data contains lemmas, their classes, word forms, their corresponding case, the form frequency, the number of phonological neighbors, the age and gender of each participant. Both lemma and word form are represented in orthographically and phonetically (IPA). Each class (out of 10 (Polish), 9 (Finnish) or 8 (Estonian)) is represented by three nouns. In addition, the case system has been restricted to 5 (Polish) or 6 (Finnish and Estonian) most commonly used cases. The form frequencies and PND counts were derived from child-directed speech corpora: Polish (Haman et al., 2011), Finnish (Kirjavainen et al., 2017), Estonian (Argus, 1998; Vija, 2007).
+For the current shared task iteration, we use the data collected in Grandlund et al. (2019).
+The data contains lemmas, word forms, their corresponding case, the lemma frequency, and the form frequency. Both lemma and word form are represented in orthographically and phonetically (IPA). 
+
+The study only focuses on singular forms and is restictied to most commonly used cases in each language.
+Each class (out of 10 (Polish), 9 (Finnish) or 8 (Estonian)) is represented by three nouns. In addition, the case system has been restricted to 5 (Polish) or 6 (Finnish and Estonian) most commonly used cases. The form frequencies were derived from child-directed speech corpora: Polish (Haman et al., 2011), Finnish (Kirjavainen et al., 2017), Estonian (Argus, 1998; Vija, 2007).
+
+
 
 ### Data and Evaluation
 
@@ -246,8 +251,8 @@ Child learners generalize in particular ways. Systems will be evaluated accordin
   * February 17, 2023: Data preparation is complete, and training and evaluation data is released to participants
   * February 22, 2023: Baseline systems released to participants
   * March 31, 2023: Test data is available for participants
-  * April 14, 2023: Final Submissions are due.
-  * April 21, 2023: Results announced to participants
+  * April 21, 2023: Final Submissions are due
+  * April 25, 2023: Results announced to participants
   * May 8, 2023: System papers due for review
   * May 22, 2023: Reviews back to participants
   * May 31, 2023:  CR deadline; task paper due from organizers

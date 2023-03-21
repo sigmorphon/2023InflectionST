@@ -238,7 +238,7 @@ The data contains lemmas, word forms, their corresponding case, the lemma freque
 The study only focuses on singular forms and is restictied to most commonly used cases in each language.
 Each class (out of 10 (Polish), 9 (Finnish) or 8 (Estonian)) is represented by three nouns. In addition, the case system has been restricted to 5 (Polish) or 6 (Finnish and Estonian) most commonly used cases. The lemma and form frequencies were derived from child-directed speech corpora: Polish (Haman et al., 2011), Finnish (Kirjavainen et al., 2017), Estonian (Argus, 1998; Vija, 2007).
 
-An example of training data (for the Polish lemma ``zdrowie'', ``health''):
+An example of training data (for the Polish lemma "zdrowie", "health"):
 
 ```
 zdrowie GEN     zdrowia zdrɔvjɛ zdrɔvja 6

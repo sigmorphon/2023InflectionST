@@ -258,12 +258,42 @@ Child learners generalize in particular ways. Systems will be evaluated accordin
   * May 31, 2023:  CR deadline; task paper due from organizers
 
 ### Submission Instructions 
+Please submit your team's results to evylomova@gmail.com CCing your team
 
 
 ### Organizers
 Kat Vylomova, Tiago Pimentel, Jordan Kodner, Ryan Cotterell, Ben Ambridge
 
 ### References
+Sonia Granlund, Joanna Kolak, Virve Vihman, Felix Engelmann, Elena VM Lieven, Julian M Pine, Anna L Theakston, and Ben Ambridge. Language-general and language-specific phenomena in the acquisition of inflectional noun morphology: A cross-linguistic elicited-production study of Polish, Finnish and Estonian. Journal of Memory and Language, 107:169–194, 2019
+
+Steven Pinker and Alan Prince. Regular and irregular morphology and the psychological status of rules of grammar. The reality of linguistic rules, 321:51, 1994
+
+Michael Maratsos. More overregularizations after all: New data and discussion on Marcus, Pinker, Ullman, Hollander, Rosen & Xu. Journal of Child Language, 27(1):183–212, 2000
+
+Robert JC Maslen, Anna L Theakston, Elena VM Lieven, and Michael Tomasello. A dense corpus study of past tense and plural overregularization in English. Journal of Speech, Language, and Hearing Research, 47(1319-1333), 2004.
+
+Fei Xu and Steven Pinker. Weird past tense forms. Journal of Child Language, 22(3):531–556, 1995
+
+Harald Clahsen, Monika Rothweiler, Andreas Woest, and Gary Marcus. Regular and irregular inflection in the acquisition of German noun plurals. Cognition, 45:225–255, 1992
+
+Harald Clahsen and Monika Rothweiler. Inflectional rules in children’s grammars: Evidence from German participles. In Yearbook of morphology. 1992, pages 1–34. Springer, 1993
+
+Shanley Allen. Aspects of argument structure acquisition in Inuktitut, volume 13. John Benjamins Publishing, 1996
+
+Laia Mayol. Acquisition of irregular patterns in Spanish verbal morphology. In Ville Nurmi and Dmitry Sustretov, editors, Proceedings of the 12th ESSLLI Student Session, pages 1–11, Dublin, 2007
+
+Constantine Lignos and Charles Yang. Morphology and language acquisition. Cambridge handbook of morphology, pages 765–791, 2018
+
+Ewa Dąbrowska and Marcin Szczerbiński. Polish children’s productivity with case marking: the role of regularity, type frequency, and phonological diversity. Journal of child language, 33(3):559–597, 2006
+
+Ewa Haman, Bartłomiej Etenkowski, Magdalena Łuniewska, Joanna Szwabe, Ewa Dąbrowska, Marta Szreder, and Marek Łaziński. The polish cds corpus. talkbank, 2011.
+
+Minna Kirjavainen, Evan Kidd, and Elena Lieven. How do language-specific characteristics affect the acquisition of different relative clause types? Evidence from finnish. Journal of child language, 44(1):120–157, 2017
+
+Reili Argus. Childes’i eesti andmepank ja selle suhtluskeskne analüüs (hendrik, 1.6-2.6). Tallinn: Tallinna Pedagoogikaülikool, 1998
+
+Maigi Vija. Pronoomenid lapsekeeles: mõnda mina ja sina omandamisest. Eesti Rakenduslingvistika Ühingu aastaraamat, 3:373–384, 2007
 
 # Participation Policy
 

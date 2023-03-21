@@ -243,7 +243,7 @@ An example of training data (for the Polish lemma "zdrowie", "health"):
 ```
 zdrowie GEN     zdrowia zdrɔvjɛ zdrɔvja 6
 ```
-The data comes in TSV format. The columns: the lemma, the target case, the target form, the lemma IPA, the form IPA, the form frequency
+The data comes in the TSV format. The columns: the lemma, the target case, the target form, the lemma IPA, the form IPA, the form frequency
 
 The test data does not provide the target form, its IPA, and the frequency.
 ### Evaluation

@@ -227,6 +227,7 @@ Sohn, H.-M. (1999). The Korean Language. Cambridge University Press, Cambridge, 
 
 ### Task Description
 We propose a cross-linguistic modelling of child language acquisition to mediate between the theories of the acquisition of inflectional morphology. This will also allow for a more fine-grained analysis of generalizations made by contemporary connectionist models.
+***The model’s task here is to simulate kids’ performance in our elicited production experiment, and we deliberately chose nouns that young kids would know.*** Here, the aim is to build a model that shows childlike item-by-item error rates. So this involves NOT building the best model, but building a model with some flaws that are supposed to simulate “flaws” in child learners – i.e., high rates of forgetting, high rates of interference from other forms of the same noun, “slow” learning, slow/low generalization”.
 
 Children produce a range of errors (or more neutrally, non-adult-like productions) during development, but these productions are not distributed uniformly. Some broad trends emerge. First, there is a strong asymmetry between over-regularization errors and over-irregularization (Pinker and Prince, 1994) where over-production of productive patterns (e.g., "go-goed") is relatively common, while the over-production of potentially reasonable but non-productive patterns such as vowel mutation in English (e.g., "fry-\*frew" cf. "fly-flew") is quite rare. Studies estimate the rate of over-regularizations in child English past tense productions to be between 8\% and 10\%  (Maratsos, 2000; Maslen et al., 2004) while over-irregularization is under 0.2\% (Xu and Pinker, 1995). Similar patterns emerge when measuring German, Spanish, and Inuktitut learners' productions (Clahsen et al., 1992; Clahsen et al., 1993; Allen et al., 1996; Mayol et al., 2007). Another type of common error is the production of a higher-frequency form instead of a lower-frequency form (resulting in a different grammatical feature, e.g. case or gender).
 See Lignos and Yang (2018) and Dąbrowska and Marcin Szczerbiński (2018) for more discussion. 
@@ -249,12 +250,15 @@ zdrowie GEN     zdrowia zdrɔvjɛ zdrɔvja 6
 ```
 The data comes in the TSV format. The columns: the lemma, the target case, the target form, the lemma IPA, the form IPA, the form frequency
 
-The test data does not provide the target form, its IPA, and the frequency.
+The test data does not provide the target form, its IPA, and the frequency. The systems need to predict the target form IPA.
+
 ### Evaluation
 
-Models will be evaluated in two ways, by measuring accuracy and ability to generalize in a human-like way. Word-level accuracy and Levenshtein distance as in Part 1 provide standard measures for performance. Controlling for the confounds described above will facilitate cross-language comparison. 
+Models will be evaluated in their ability to generalize in a child-like way. Word-level accuracy and Levenshtein distance as in Part 1 provide standard measures for performance. We will also calculate a model-child correlation on the proportion of correct vs error responses by item (sample).
+The predicted IPA form will be scored as correct vs error and this proportion (from multiple runs of the same model) will be correlated against the same proportion for kids.
 
-Child learners generalize in particular ways. Systems will be evaluated according to how well they generalize and analyzed to determine in what ways they generalize similarly or differently to humans. For that, we will identify error types and compare them against those produced by children. We will also evaluate the effects of the token frequency, type frequency, and phonological neighborhood density.
+We will also compare the error types. Child learners generalize in particular ways, and we do want the models’ errors to be qualitatively similar to those produced by kids. It would be a bad model if, for example, all its errors were just repeating the nominative form, as this isn’t what kids do. B
+Systems will be evaluated according to how well they generalize and analyzed to determine in what ways they generalize similarly or differently to humans. For that, we will identify common error types and compare them against those produced by children. We will also evaluate the effects of the token frequency, type frequency, and phonological neighborhood density.
 
 ### Timeline
   * February 15, 2023: Task website is complete, and accepting registrations to the mailing

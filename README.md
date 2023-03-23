@@ -250,7 +250,7 @@ zdrowie GEN     zdrowia zdrɔvjɛ zdrɔvja 6
 ```
 The data comes in the TSV format. The columns: the lemma, the target case, the target form, the lemma IPA, the form IPA, the form frequency
 
-The test data does not provide the target form, its IPA, and the frequency. The systems need to predict the target form IPA.
+The test data does not provide the target form, its IPA, and the frequency. Still, you will see the correct target forms in the training data. ***The task does not require predicting the correct target form! Instead, the systems need to make predictions about the forms that children are more likely to produce based on the provided training data.*** More specifically, for each test sample the systems need to provide the top 10 most likely forms with their probabilities. The forms should be provided in IPA.
 
 ### Evaluation
 

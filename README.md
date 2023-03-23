@@ -4,7 +4,7 @@ SIGMORPHON’s eigth installment of its inflection generation shared task will b
 
 + ***Part 1***: [Typologically Diverse Morphological (Re-)Inflection](https://github.com/sigmorphon/2023InflectionST/tree/main/part1)
 + ***Part 2***: [Cognitively Plausible Morphophonological Generalization in Korean](https://github.com/sigmorphon/2023InflectionST/tree/main/part2/README.md)
-+ ***Part 3***: [Models of Acquisition of Inflectional Noun Moprhology in Polish, Estonian, and Finnish](https://github.com/sigmorphon/2023InflectionST/tree/main/part3/README.md)
++ ***Part 3***: [Models of Acquisition of Inflectional Noun Moprhology in Polish, Estonian, and Finnish](https://github.com/sigmorphon/2023InflectionST/tree/main/part3)
 
 Please join our [Google Group](https://TBA) to stay up to date.
 

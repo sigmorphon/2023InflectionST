@@ -1,180 +1,150 @@
-pociąg	NOM	pɔt͡ɕɔ̃ŋk
-chleb	DAT	xlɛp
-pianino	LOC	pjaɲinɔ
-statek	INS	statɛk
-aparat	NOM	aparat
-jajko	DAT	jajkɔ
-smok	INS	smɔk
-spódnica	INS	spudɲit͡sa
-koszula	DAT	kɔʃula
-pianino	ACC	pjaɲinɔ
-aparat	LOC	aparat
-samochód	NOM	samɔxut
-cebula	DAT	t͡sɛbula
-sitko	DAT	ɕitkɔ
-pociąg	DAT	pɔt͡ɕɔ̃ŋk
-jabłko	GEN	jabwkɔ
-dźwig	INS	d͡ʑvik
-pianino	DAT	pjaɲinɔ
-dźwig	GEN	d͡ʑvik
-wieloryb	GEN	vjɛlɔrɨp
-telefon	ACC	tɛlɛfɔn
-garnek	ACC	garnɛk
-smok	ACC	smɔk
-aparat	INS	aparat
-spódnica	GEN	spudɲit͡sa
-chleb	LOC	xlɛp
-słoik	INS	swɔik
-smok	NOM	smɔk
-garnek	INS	garnɛk
-bocian	GEN	bɔt͡ɕan
-wieloryb	ACC	vjɛlɔrɨp
-chleb	NOM	xlɛp
-książka	INS	kɕɔ̃nʃka
-sitko	LOC	ɕitkɔ
-kucharz	LOC	kuxaʃ
-doktor	GEN	dɔktɔr
-garnek	GEN	garnɛk
-wilk	NOM	vilk
-chleb	GEN	xlɛp
-pianino	INS	pjaɲinɔ
-koszula	ACC	kɔʃula
-grzebień	DAT	gʒɛbjɛɲ
-dźwig	ACC	d͡ʑvik
-wilk	INS	vilk
-statek	LOC	statɛk
-grzebień	INS	gʒɛbjɛɲ
-cebula	ACC	t͡sɛbula
-okno	ACC	ɔknɔ
-garnek	NOM	garnɛk
-wilk	GEN	vilk
-traktor	GEN	traktɔr
-ołówek	NOM	ɔwuvɛk
-koło	NOM	kɔwɔ
-okno	INS	ɔknɔ
-garnek	LOC	garnɛk
-koło	DAT	kɔwɔ
-jajko	LOC	jajkɔ
-beczka	GEN	bɛt͡ʃka
-koło	INS	kɔwɔ
-cebula	LOC	t͡sɛbula
-doktor	LOC	dɔktɔr
-dźwig	DAT	d͡ʑvik
-bocian	ACC	bɔt͡ɕan
-książka	ACC	kɕɔ̃nʃka
-ołówek	LOC	ɔwuvɛk
-doktor	DAT	dɔktɔr
-koło	LOC	kɔwɔ
-dźwig	NOM	d͡ʑvik
-beczka	NOM	bɛt͡ʃka
-sitko	INS	ɕitkɔ
-aparat	DAT	aparat
-doktor	ACC	dɔktɔr
-okno	LOC	ɔknɔ
-cebula	INS	t͡sɛbula
-traktor	DAT	traktɔr
-wieloryb	DAT	vjɛlɔrɨp
-okno	NOM	ɔknɔ
-beczka	INS	bɛt͡ʃka
-wieloryb	INS	vjɛlɔrɨp
-grzebień	NOM	gʒɛbjɛɲ
-jabłko	LOC	jabwkɔ
-ołówek	GEN	ɔwuvɛk
-jabłko	DAT	jabwkɔ
-szklanka	ACC	ʃklanka
-telefon	GEN	tɛlɛfɔn
-spódnica	ACC	spudɲit͡sa
-aparat	ACC	aparat
-kucharz	ACC	kuxaʃ
-jabłko	NOM	jabwkɔ
-smok	GEN	smɔk
-książka	GEN	kɕɔ̃nʃka
-słoik	ACC	swɔik
-samochód	GEN	samɔxut
-jajko	INS	jajkɔ
-książka	NOM	kɕɔ̃nʃka
-okno	DAT	ɔknɔ
-samochód	LOC	samɔxut
-książka	DAT	kɕɔ̃nʃka
-bocian	INS	bɔt͡ɕan
-kucharz	DAT	kuxaʃ
-kucharz	INS	kuxaʃ
-cebula	GEN	t͡sɛbula
-koszula	LOC	kɔʃula
-doktor	NOM	dɔktɔr
-statek	GEN	statɛk
-bocian	DAT	bɔt͡ɕan
-koszula	INS	kɔʃula
-okno	GEN	ɔknɔ
-spódnica	DAT	spudɲit͡sa
-pianino	NOM	pjaɲinɔ
-traktor	LOC	traktɔr
-słoik	LOC	swɔik
-słoik	NOM	swɔik
-dźwig	LOC	d͡ʑvik
-aparat	GEN	aparat
-samochód	ACC	samɔxut
-sitko	GEN	ɕitkɔ
-ołówek	INS	ɔwuvɛk
-pociąg	ACC	pɔt͡ɕɔ̃ŋk
-koło	ACC	kɔwɔ
-słoik	GEN	swɔik
-telefon	LOC	tɛlɛfɔn
-wilk	LOC	vilk
-szklanka	LOC	ʃklanka
-grzebień	LOC	gʒɛbjɛɲ
-wilk	ACC	vilk
-smok	DAT	smɔk
-szklanka	DAT	ʃklanka
-ołówek	DAT	ɔwuvɛk
-ołówek	ACC	ɔwuvɛk
-grzebień	ACC	gʒɛbjɛɲ
-telefon	NOM	tɛlɛfɔn
-jajko	GEN	jajkɔ
-szklanka	INS	ʃklanka
-traktor	NOM	traktɔr
-traktor	INS	traktɔr
-kucharz	GEN	kuxaʃ
-spódnica	NOM	spudɲit͡sa
-jabłko	INS	jabwkɔ
-telefon	INS	tɛlɛfɔn
-grzebień	GEN	gʒɛbjɛɲ
-wieloryb	NOM	vjɛlɔrɨp
-słoik	DAT	swɔik
-wieloryb	LOC	vjɛlɔrɨp
-kucharz	NOM	kuxaʃ
-samochód	INS	samɔxut
-wilk	DAT	vilk
-bocian	NOM	bɔt͡ɕan
-pociąg	LOC	pɔt͡ɕɔ̃ŋk
-statek	DAT	statɛk
-pianino	GEN	pjaɲinɔ
-smok	LOC	smɔk
-garnek	DAT	garnɛk
-bocian	LOC	bɔt͡ɕan
-sitko	ACC	ɕitkɔ
-pociąg	INS	pɔt͡ɕɔ̃ŋk
-sitko	NOM	ɕitkɔ
-pociąg	GEN	pɔt͡ɕɔ̃ŋk
-chleb	ACC	xlɛp
-telefon	DAT	tɛlɛfɔn
-doktor	INS	dɔktɔr
-książka	LOC	kɕɔ̃nʃka
-jajko	NOM	jajkɔ
-statek	ACC	statɛk
-chleb	INS	xlɛp
-samochód	DAT	samɔxut
-statek	NOM	statɛk
-szklanka	NOM	ʃklanka
-beczka	DAT	bɛt͡ʃka
-traktor	ACC	traktɔr
-koło	GEN	kɔwɔ
-beczka	LOC	bɛt͡ʃka
-cebula	NOM	t͡sɛbula
-beczka	ACC	bɛt͡ʃka
-jajko	ACC	jajkɔ
-jabłko	ACC	jabwkɔ
-spódnica	LOC	spudɲit͡sa
-koszula	GEN	kɔʃula
-koszula	NOM	kɔʃula
-szklanka	GEN	ʃklanka
+aparat	LOC	aparacie	aparat	aparat͡ɕɛ	6	0.904761904761905
+aparat	ACC	aparat	aparat	aparat	25	1
+aparat	INS	aparatem	aparat	aparatɛm	3	0.95
+aparat	DAT	aparatowi	aparat	aparatɔvi	1	0.888888888888889
+aparat	GEN	aparatu	aparat	aparatu	3	1
+beczka	DAT	beczce	bɛt͡ʃka	bɛt͡ʃt͡sɛ	4	1
+beczka	LOC	beczce	bɛt͡ʃka	bɛt͡ʃt͡sɛ	4	1
+beczka	INS	beczką	bɛt͡ʃka	bɛt͡ʃkɔ̃w	1	1
+beczka	ACC	beczkę	bɛt͡ʃka	bɛt͡ʃkɛ̃	4	1
+beczka	GEN	beczki	bɛt͡ʃka	bɛt͡ʃki	5	1
+bocian	ACC	bociana	bɔt͡ɕan	bɔt͡ɕana	13	1
+bocian	GEN	bociana	bɔt͡ɕan	bɔt͡ɕana	13	1
+bocian	INS	bocianem	bɔt͡ɕan	bɔt͡ɕanɛm	3	1
+bocian	LOC	bocianie	bɔt͡ɕan	bɔt͡ɕaɲɛ	1	1
+bocian	DAT	bocianowi	bɔt͡ɕan	bɔt͡ɕanɔvi	1	1
+cebula	INS	cebulą	t͡sɛbula	t͡sɛbulɔ̃w	2	1
+cebula	ACC	cebulę	t͡sɛbula	t͡sɛbulɛ̃	2	1
+cebula	DAT	cebuli	t͡sɛbula	t͡sɛbuli	4	1
+cebula	GEN	cebuli	t͡sɛbula	t͡sɛbuli	4	1
+cebula	LOC	cebuli	t͡sɛbula	t͡sɛbuli	4	1
+chleb	ACC	chleb	xlɛp	xlɛp	125	1
+chleb	GEN	chleba	xlɛp	xlɛba	71	1
+chleb	INS	chlebem	xlɛp	xlɛbɛm	5	1
+chleb	LOC	chlebie	xlɛp	xlɛbjɛ	6	0.947368421052632
+chleb	DAT	chlebowi	xlɛp	xlɛbɔvi	1	1
+doktor	ACC	doktora	dɔktɔr	dɔktɔra	48	1
+doktor	GEN	doktora	dɔktɔr	dɔktɔra	48	1
+doktor	INS	doktorem	dɔktɔr	dɔktɔrɛm	8	1
+doktor	DAT	doktorowi	dɔktɔr	dɔktɔrɔvi	1	1
+doktor	LOC	doktorze	dɔktɔr	dɔktɔʒɛ	11	1
+dźwig	ACC	dźwig	d͡ʑvik	d͡ʑvik	22	1
+dźwig	INS	dźwigiem	d͡ʑvik	d͡ʑvigjɛm	2	1
+dźwig	DAT	dźwigowi	d͡ʑvik	d͡ʑvigɔvi	1	1
+dźwig	GEN	dźwigu	d͡ʑvik	d͡ʑvigu	4	1
+dźwig	LOC	dźwigu	d͡ʑvik	d͡ʑvigu	4	1
+garnek	ACC	garnek	garnɛk	garnɛk	32	1
+garnek	GEN	garnka	garnɛk	garnka	10	0.956521739130435
+garnek	INS	garnkiem	garnɛk	garnkjɛm	1	0.947368421052632
+garnek	DAT	garnkowi	garnɛk	garnkɔvi	1	1
+garnek	LOC	garnku	garnɛk	garnku	6	0.909090909090909
+grzebień	DAT	grzbieniowi	gʒɛbjɛɲ	gʒbjɛɲɔvi	1	0.857142857142857
+grzebień	ACC	grzebień	gʒɛbjɛɲ	gʒɛbjɛɲ	19	1
+grzebień	GEN	grzebienia	gʒɛbjɛɲ	gʒɛbjɛɲa	4	0.954545454545455
+grzebień	INS	grzebieniem	gʒɛbjɛɲ	gʒɛbjɛɲɛm	4	0.954545454545455
+grzebień	LOC	grzebieniu	gʒɛbjɛɲ	gʒɛbjɛɲu	1	1
+jabłko	GEN	jabłka	jabwkɔ	jabwka	63	1
+jabłko	INS	jabłkiem	jabwkɔ	jabwkjɛm	2	1
+jabłko	ACC	jabłko	jabwkɔ	jabwkɔ	118	0.954545454545455
+jabłko	DAT	jabłku	jabwkɔ	jabwku	1	1
+jabłko	LOC	jabłku	jabwkɔ	jabwku	1	1
+jajko	GEN	jajka	jajkɔ	jajka	121	1
+jajko	INS	jajkiem	jajkɔ	jajkjɛm	18	1
+jajko	ACC	jajko	jajkɔ	jajkɔ	91	1
+jajko	DAT	jajku	jajkɔ	jajku	10	1
+jajko	LOC	jajku	jajkɔ	jajku	10	1
+koło	GEN	koła	kɔwɔ	kɔwa	58	1
+koło	LOC	kole	kɔwɔ	kɔlɛ	7	0.75
+koło	INS	kołem	kɔwɔ	kɔwɛm	1	1
+koło	ACC	koło	kɔwɔ	kɔwɔ	11	1
+koło	DAT	kołu	kɔwɔ	kɔwu	1	0.857142857142857
+koszula	INS	koszulą	kɔʃula	kɔʃulɔ̃w	2	1
+koszula	ACC	koszulę	kɔʃula	kɔʃulɛ̃	11	1
+koszula	DAT	koszuli	kɔʃula	kɔʃuli	13	1
+koszula	GEN	koszuli	kɔʃula	kɔʃuli	13	1
+koszula	LOC	koszuli	kɔʃula	kɔʃuli	13	0.95
+książka	DAT	książce	kɕɔ̃nʃka	kɕɔ̃nʃt͡sɛ	63	1
+książka	LOC	książce	kɕɔ̃nʃka	kɕɔ̃nʃt͡sɛ	63	1
+książka	INS	książką	kɕɔ̃nʃka	kɕɔ̃nʃkɔ̃w	6	1
+książka	ACC	książkę	kɕɔ̃nʃka	kɕɔ̃nʃkɛ̃	180	1
+książka	GEN	książki	kɕɔ̃nʃka	kɕɔ̃nʃki	118	1
+kucharz	ACC	kucharza	kuxaʃ	kuxaʒa	4	1
+kucharz	GEN	kucharza	kuxaʃ	kuxaʒa	4	1
+kucharz	INS	kucharzem	kuxaʃ	kuxaʒɛm	5	1
+kucharz	DAT	kucharzowi	kuxaʃ	kuxaʒɔvi	1	1
+kucharz	LOC	kucharzu	kuxaʃ	kuxaʒu	1	1
+okno	GEN	okna	ɔknɔ	ɔkna	83	1
+okno	INS	oknem	ɔknɔ	ɔknɛm	28	1
+okno	LOC	oknie	ɔknɔ	ɔkɲɛ	40	1
+okno	ACC	okno	ɔknɔ	ɔknɔ	166	1
+okno	DAT	oknu	ɔknɔ	ɔknu	1	1
+ołówek	ACC	ołówek	ɔwuvɛk	ɔwuvɛk	140	1
+ołówek	GEN	ołówka	ɔwuvɛk	ɔwufka	33	1
+ołówek	INS	ołówkiem	ɔwuvɛk	ɔwufkjɛm	34	1
+ołówek	DAT	ołówkowi	ɔwuvɛk	ɔwufkɔvi	1	1
+ołówek	LOC	ołówku	ɔwuvɛk	ɔwufku	4	1
+pianino	GEN	pianina	pjaɲinɔ	pjaɲina	3	0.941176470588235
+pianino	INS	pianinem	pjaɲinɔ	pjaɲinɛm	4	1
+pianino	LOC	pianinie	pjaɲinɔ	pjaɲiɲɛ	8	1
+pianino	ACC	pianino	pjaɲinɔ	pjaɲinɔ	3	1
+pianino	DAT	pianinu	pjaɲinɔ	pjaɲinu	1	0.857142857142857
+pociąg	ACC	pociąg	pɔt͡ɕɔ̃ŋk	pɔt͡ɕɔ̃ŋk	236	1
+pociąg	INS	pociągiem	pɔt͡ɕɔ̃ŋk	pɔt͡ɕɔ̃ŋgjɛm	86	1
+pociąg	DAT	pociągowi	pɔt͡ɕɔ̃ŋk	pɔt͡ɕɔ̃ŋgɔvi	1	1
+pociąg	GEN	pociągu	pɔt͡ɕɔ̃ŋk	pɔt͡ɕɔ̃ŋgu	42	1
+pociąg	LOC	pociągu	pɔt͡ɕɔ̃ŋk	pɔt͡ɕɔ̃ŋgu	42	1
+samochód	ACC	samochód	samɔxut	samɔxut	172	1
+samochód	INS	samochodem	samɔxut	samɔxɔdɛm	56	0.956521739130435
+samochód	DAT	samochodowi	samɔxut	samɔxɔdɔvi	1	1
+samochód	GEN	samochodu	samɔxut	samɔxɔdu	24	1
+samochód	LOC	samochodzie	samɔxut	samɔxɔd͡ʑɛ	24	1
+sitko	GEN	sitka	ɕitkɔ	ɕitka	4	1
+sitko	INS	sitkiem	ɕitkɔ	ɕitkjɛm	5	0.9375
+sitko	ACC	sitko	ɕitkɔ	ɕitkɔ	34	1
+sitko	DAT	sitku	ɕitkɔ	ɕitku	3	1
+sitko	LOC	sitku	ɕitkɔ	ɕitku	3	1
+słoik	ACC	słoik	swɔik	swɔik	5	1
+słoik	GEN	słoika	swɔik	swɔika	3	1
+słoik	INS	słoikiem	swɔik	swɔikjɛm	2	1
+słoik	DAT	słoikowi	swɔik	swɔikɔvi	1	1
+słoik	LOC	słoiku	swɔik	swɔiku	3	0.956521739130435
+smok	ACC	smoka	smɔk	smɔka	1	1
+smok	GEN	smoka	smɔk	smɔka	1	1
+smok	INS	smokiem	smɔk	smɔkjɛm	3	1
+smok	DAT	smokowi	smɔk	smɔkɔvi	3	1
+smok	LOC	smoku	smɔk	smɔku	12	1
+spódnica	INS	spódnicą	spudɲit͡sa	spudɲit͡sɔ̃w	3	1
+spódnica	ACC	spódnicę	spudɲit͡sa	spudɲit͡sɛ̃	11	1
+spódnica	DAT	spódnicy	spudɲit͡sa	spudɲit͡sɨ	2	1
+spódnica	GEN	spódnicy	spudɲit͡sa	spudɲit͡sɨ	2	1
+spódnica	LOC	spódnicy	spudɲit͡sa	spudɲit͡sɨ	2	1
+statek	ACC	statek	statɛk	statɛk	58	1
+statek	INS	statkiem	statɛk	statkjɛm	12	1
+statek	DAT	statkowi	statɛk	statkɔvi	1	1
+statek	GEN	statku	statɛk	statku	9	1
+statek	LOC	statku	statɛk	statku	9	1
+szklanka	DAT	szklance	ʃklanka	ʃklant͡sɛ	5	1
+szklanka	LOC	szklance	ʃklanka	ʃklant͡sɛ	5	1
+szklanka	INS	szklanką	ʃklanka	ʃklankɔ̃w	2	1
+szklanka	ACC	szklankę	ʃklanka	ʃklankɛ̃	13	1
+szklanka	GEN	szklanki	ʃklanka	ʃklanki	22	1
+telefon	ACC	telefon	tɛlɛfɔn	tɛlɛfɔn	101	1
+telefon	INS	telefonem	tɛlɛfɔn	tɛlɛfɔnɛm	4	1
+telefon	LOC	telefonie	tɛlɛfɔn	tɛlɛfɔɲɛ	1	1
+telefon	DAT	telefonowi	tɛlɛfɔn	tɛlɛfɔnɔvi	1	0.888888888888889
+telefon	GEN	telefonu	tɛlɛfɔn	tɛlɛfɔnu	22	1
+traktor	ACC	traktor	traktɔr	traktɔr	60	1
+traktor	GEN	traktora	traktɔr	traktɔra	10	1
+traktor	INS	traktorem	traktɔr	traktɔrɛm	6	1
+traktor	DAT	traktorowi	traktɔr	traktɔrɔvi	1	1
+traktor	LOC	traktorze	traktɔr	traktɔʒɛ	8	0.944444444444444
+wieloryb	ACC	wieloryba	vjɛlɔrɨp	vjɛlɔrɨba	6	1
+wieloryb	GEN	wieloryba	vjɛlɔrɨp	vjɛlɔrɨba	6	1
+wieloryb	INS	wielorybem	vjɛlɔrɨp	vjɛlɔrɨbɛm	2	1
+wieloryb	LOC	wielorybie	vjɛlɔrɨp	vjɛlɔrɨbjɛ	1	0.954545454545455
+wieloryb	DAT	wielorybowi	vjɛlɔrɨp	vjɛlɔrɨbɔvi	1	0.875
+wilk	ACC	wilka	vilk	vilka	73	1
+wilk	GEN	wilka	vilk	vilka	73	1
+wilk	INS	wilkiem	vilk	vilkjɛm	30	1
+wilk	DAT	wilkowi	vilk	vilkɔvi	7	1
+wilk	LOC	wilku	vilk	vilku	7	1

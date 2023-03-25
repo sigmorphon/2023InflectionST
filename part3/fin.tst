@@ -1,189 +1,162 @@
-kaari	PAR	kɑːri
-sormus	PAR	sormus
-uuni	NOM	uːni
-sormus	ELA	sormus
-hevonen	NOM	heʋonen
-vyö	NOM	ʋyø
-käpy	INE	kæpy
-kilpi	NOM	kilpi
-sormus	ALL	sormus
-avain	PAR	ɑʋɑin
-kilpi	PAR	kilpi
-kirja	PAR	kirjɑ
-puu	ALL	puː
-maalaus	ALL	mɑːlɑus
-käpy	ELA	kæpy
-hame	INE	hɑme
-avain	NOM	ɑʋɑin
-puhelin	ILL	puhelin
-allas	ILL	ɑlːɑs
-kirja	ILL	kirjɑ
-kuusi	PAR	kuːsi
-kone	PAR	kone
-puhelin	ALL	puhelin
-kaulin	NOM	kɑulin
-sirkus	ALL	sirkus
-puhelin	NOM	puhelin
-kiuas	ALL	kiuɑs
-ovi	NOM	oʋi
-käpy	NOM	kæpy
-käpy	GEN	kæpy
-kuusi	INE	kuːsi
-hame	NOM	hɑme
-hevonen	ALL	heʋonen
-kiuas	INE	kiuɑs
-kiuas	ELA	kiuɑs
-ovi	ELA	oʋi
-lautanen	ALL	lɑutɑnen
-kaari	ALL	kɑːri
-puu	GEN	puː
-sieni	ILL	sieni
-hevonen	GEN	heʋonen
-uuni	PAR	uːni
-lapanen	ILL	lɑpɑnen
-kone	NOM	kone
-ovi	GEN	oʋi
-sieni	GEN	sieni
-kirja	ALL	kirjɑ
-puhelin	INE	puhelin
-kilpi	ALL	kilpi
-sirkus	GEN	sirkus
-allas	ELA	ɑlːɑs
-aarre	NOM	ɑːrːe
-hevonen	ELA	heʋonen
-hame	GEN	hɑme
-uuni	GEN	uːni
-maalaus	PAR	mɑːlɑus
-rengas	GEN	reŋːɑs
-putki	PAR	putki
-vyö	INE	ʋyø
-puhelin	GEN	puhelin
-avain	ILL	ɑʋɑin
-aarre	PAR	ɑːrːe
-lapanen	INE	lɑpɑnen
-vyö	ALL	ʋyø
-kaulin	ILL	kɑulin
-kone	ALL	kone
-sieni	PAR	sieni
-sormus	NOM	sormus
-hai	INE	hɑi
-kaulin	ELA	kɑulin
-ovi	ALL	oʋi
-sirkus	ELA	sirkus
-lautanen	PAR	lɑutɑnen
-sirkus	PAR	sirkus
-sirkus	ILL	sirkus
-kaari	GEN	kɑːri
-puu	ILL	puː
-sormus	INE	sormus
-vyö	ILL	ʋyø
-lautanen	ILL	lɑutɑnen
-kuusi	ELA	kuːsi
-putki	GEN	putki
-aarre	ELA	ɑːrːe
-vyö	ELA	ʋyø
-puu	NOM	puː
-uuni	ILL	uːni
-kaari	ILL	kɑːri
-maalaus	GEN	mɑːlɑus
-allas	NOM	ɑlːɑs
-kiuas	GEN	kiuɑs
-uuni	ALL	uːni
-allas	INE	ɑlːɑs
-puhelin	ELA	puhelin
-sieni	ELA	sieni
-maalaus	INE	mɑːlɑus
-rengas	NOM	reŋːɑs
-uuni	ELA	uːni
-kone	INE	kone
-putki	ILL	putki
-kaulin	PAR	kɑulin
-kaari	INE	kɑːri
-lapanen	ALL	lɑpɑnen
-aarre	INE	ɑːrːe
-avain	ALL	ɑʋɑin
-kirja	INE	kirjɑ
-sormus	ILL	sormus
-rengas	ELA	reŋːɑs
-lautanen	GEN	lɑutɑnen
-kuusi	NOM	kuːsi
-käpy	PAR	kæpy
-kilpi	ILL	kilpi
-lapanen	NOM	lɑpɑnen
-sormus	GEN	sormus
-hai	NOM	hɑi
-hevonen	ILL	heʋonen
-aarre	ALL	ɑːrːe
-kiuas	NOM	kiuɑs
-avain	ELA	ɑʋɑin
-hai	ALL	hɑi
-lapanen	PAR	lɑpɑnen
-lapanen	ELA	lɑpɑnen
-kaulin	INE	kɑulin
-käpy	ALL	kæpy
-ovi	PAR	oʋi
-lapanen	GEN	lɑpɑnen
-lautanen	ELA	lɑutɑnen
-kone	ELA	kone
-kaari	ELA	kɑːri
-putki	ELA	putki
-kilpi	ELA	kilpi
-maalaus	ILL	mɑːlɑus
-hevonen	PAR	heʋonen
-lautanen	INE	lɑutɑnen
-kaulin	ALL	kɑulin
-allas	ALL	ɑlːɑs
-kaari	NOM	kɑːri
-sirkus	INE	sirkus
-avain	INE	ɑʋɑin
-rengas	INE	reŋːɑs
-aarre	GEN	ɑːrːe
-putki	NOM	putki
-hai	ELA	hɑi
-puhelin	PAR	puhelin
-kiuas	ILL	kiuɑs
-putki	INE	putki
-puu	INE	puː
-kilpi	INE	kilpi
-maalaus	NOM	mɑːlɑus
-aarre	ILL	ɑːrːe
-allas	GEN	ɑlːɑs
-vyö	GEN	ʋyø
-kuusi	ALL	kuːsi
-puu	ELA	puː
-hai	PAR	hɑi
-kaulin	GEN	kɑulin
-putki	ALL	putki
-kirja	ELA	kirjɑ
-hai	GEN	hɑi
-hevonen	INE	heʋonen
-rengas	PAR	reŋːɑs
-kuusi	ILL	kuːsi
-hame	ILL	hɑme
-kilpi	GEN	kilpi
-lautanen	NOM	lɑutɑnen
-allas	PAR	ɑlːɑs
-avain	GEN	ɑʋɑin
-rengas	ILL	reŋːɑs
-kuusi	GEN	kuːsi
-vyö	PAR	ʋyø
-sieni	ALL	sieni
-rengas	ALL	reŋːɑs
-maalaus	ELA	mɑːlɑus
-hame	ELA	hɑme
-kiuas	PAR	kiuɑs
-käpy	ILL	kæpy
-hai	ILL	hɑi
-kone	ILL	kone
-kirja	NOM	kirjɑ
-sieni	INE	sieni
-sieni	NOM	sieni
-kone	GEN	kone
-ovi	INE	oʋi
-hame	PAR	hɑme
-sirkus	NOM	sirkus
-kirja	GEN	kirjɑ
-uuni	INE	uːni
-hame	ALL	hɑme
-puu	PAR	puː
-ovi	ILL	oʋi
+aarre	PAR	aarretta	ɑːrːe	ɑːrːetːɑ	3	0.909090909090909
+aarre	ALL	aarteelle	ɑːrːe	ɑːrteːlːe	2	0.666666666666667
+aarre	GEN	aarteen	ɑːrːe	ɑːrteːn	2	0.777777777777778
+aarre	ILL	aarteeseen	ɑːrːe	ɑːrteːseːn	2	0.352941176470588
+aarre	INE	aarteessa	ɑːrːe	ɑːrteːsːɑ	1	0.6
+aarre	ELA	aarteesta	ɑːrːe	ɑːrteːstɑ	1	0.65
+allas	PAR	allasta	ɑlːɑs	ɑlːɑstɑ	4	0.933333333333333
+allas	ALL	altaalle	ɑlːɑs	ɑltɑːlːe	18	0.636363636363636
+allas	GEN	altaan	ɑlːɑs	ɑltɑːn	8	0.555555555555556
+allas	ILL	altaaseen	ɑlːɑs	ɑltɑːseːn	6	0.588235294117647
+allas	INE	altaassa	ɑlːɑs	ɑltɑːsːɑ	12	0.588235294117647
+allas	ELA	altaasta	ɑlːɑs	ɑltɑːstɑ	1	0.4375
+avain	ILL	avaimeen	ɑʋɑin	ɑʋɑimeːn	1	0.75
+avain	ALL	avaimelle	ɑʋɑin	ɑʋɑimelːe	2	0.875
+avain	GEN	avaimen	ɑʋɑin	ɑʋɑimen	8	0.888888888888889
+avain	INE	avaimessa	ɑʋɑin	ɑʋɑimesːɑ	1	0.9375
+avain	ELA	avaimesta	ɑʋɑin	ɑʋɑimestɑ	1	0.888888888888889
+avain	PAR	avainta	ɑʋɑin	ɑʋɑintɑ	4	1
+hai	ILL	haihin	hɑi	hɑihin	1	0.428571428571429
+hai	ALL	haille	hɑi	hɑilːe	2	0.944444444444444
+hai	GEN	hain	hɑi	hɑin	6	1
+hai	INE	haissa	hɑi	hɑisːɑ	1	1
+hai	ELA	haista	hɑi	hɑistɑ	1	0.933333333333333
+hai	PAR	haita	hɑi	hɑitɑ	3	0.85
+hame	ALL	hameelle	hɑme	hɑmeːlːe	2	0.6875
+hame	GEN	hameen	hɑme	hɑmeːn	20	0.789473684210526
+hame	ILL	hameeseen	hɑme	hɑmeːseːn	4	0.866666666666667
+hame	INE	hameessa	hɑme	hɑmeːsːɑ	2	0.75
+hame	ELA	hameesta	hɑme	hɑmeːstɑ	2	0.777777777777778
+hame	PAR	hametta	hɑme	hɑmetːɑ	6	0.611111111111111
+hevonen	ILL	hevoseen	heʋonen	heʋoseːn	2	0.88235294117647
+hevonen	ALL	hevoselle	heʋonen	heʋoselːe	2	1
+hevonen	GEN	hevosen	heʋonen	heʋosen	12	1
+hevonen	INE	hevosessa	heʋonen	heʋosesːɑ	1	1
+hevonen	ELA	hevosesta	heʋonen	heʋosestɑ	2	1
+hevonen	PAR	hevosta	heʋonen	heʋostɑ	3	0.947368421052632
+kaari	ILL	kaareen	kɑːri	kɑːreːn	1	0.666666666666667
+kaari	ALL	kaarelle	kɑːri	kɑːrelːe	1	0.611111111111111
+kaari	GEN	kaaren	kɑːri	kɑːren	2	0.571428571428571
+kaari	INE	kaaressa	kɑːri	kɑːresːɑ	1	0.578947368421053
+kaari	ELA	kaaresta	kɑːri	kɑːrestɑ	1	0.538461538461538
+kaari	PAR	kaarta	kɑːri	kɑːrtɑ	1	0.333333333333333
+käpy	ALL	kävylle	kæpy	kæʋylːe	1	1
+käpy	ELA	kävystä	kæpy	kæʋystæ	1	0.95
+käpy	GEN	kävyn	kæpy	kæʋyn	2	0.947368421052632
+käpy	ILL	käpyyn	kæpy	kæpyːn	1	0.75
+käpy	INE	kävyssä	kæpy	kæʋysːæ	1	0.923076923076923
+käpy	PAR	käpyä	kæpy	kæpyæ	2	0.88235294117647
+kaulin	ILL	kaulimeen	kɑulin	kɑulimeːn	1	0.526315789473684
+kaulin	ALL	kaulimelle	kɑulin	kɑulimelːe	1	0.578947368421053
+kaulin	GEN	kaulimen	kɑulin	kɑulimen	4	0.6
+kaulin	INE	kaulimessa	kɑulin	kɑulimesːɑ	1	0.375
+kaulin	ELA	kaulimesta	kɑulin	kɑulimestɑ	1	0.529411764705882
+kaulin	PAR	kaulinta	kɑulin	kɑulintɑ	1	0.95
+kilpi	PAR	kilpeä	kilpi	kilpeæ	1	0.529411764705882
+kilpi	ILL	kilpeen	kilpi	kilpeːn	1	0.615384615384615
+kilpi	ALL	kilvelle	kilpi	kilʋelːe	1	0.470588235294118
+kilpi	GEN	kilven	kilpi	kilʋen	1	0.944444444444444
+kilpi	INE	kilvessä	kilpi	kilʋesːæ	1	0.789473684210526
+kilpi	ELA	kilvestä	kilpi	kilʋestæ	1	0.533333333333333
+kirja	PAR	kirjaa	kirjɑ	kirjɑː	125	1
+kirja	ILL	kirjaan	kirjɑ	kirjɑːn	14	0.736842105263158
+kirja	ALL	kirjalle	kirjɑ	kirjɑlːe	2	0.9375
+kirja	GEN	kirjan	kirjɑ	kirjɑn	105	0.904761904761905
+kirja	INE	kirjassa	kirjɑ	kirjɑsːɑ	19	0.888888888888889
+kirja	ELA	kirjasta	kirjɑ	kirjɑstɑ	23	1
+kiuas	PAR	kiuasta	kiuɑs	kiuɑstɑ	1	0.941176470588235
+kiuas	ALL	kiukaalle	kiuɑs	kiukɑːlːe	3	0.444444444444444
+kiuas	GEN	kiukaan	kiuɑs	kiukɑːn	1	0.388888888888889
+kiuas	ILL	kiukaaseen	kiuɑs	kiukɑːseːn	1	0.6875
+kiuas	INE	kiukaassa	kiuɑs	kiukɑːsːɑ	1	0.666666666666667
+kiuas	ELA	kiukaasta	kiuɑs	kiukɑːstɑ	1	0.555555555555556
+kone	ALL	koneelle	kone	koneːlːe	7	0.894736842105263
+kone	GEN	koneen	kone	koneːn	50	0.866666666666667
+kone	ILL	koneeseen	kone	koneːseːn	26	0.777777777777778
+kone	INE	koneessa	kone	koneːsːɑ	20	0.88235294117647
+kone	ELA	koneesta	kone	koneːstɑ	8	1
+kone	PAR	konetta	kone	konetːɑ	20	0.705882352941177
+kuusi	ILL	kuuseen	kuːsi	kuːseːn	9	0.666666666666667
+kuusi	ALL	kuuselle	kuːsi	kuːselːe	4	0.75
+kuusi	GEN	kuusen	kuːsi	kuːsen	31	0.823529411764706
+kuusi	INE	kuusessa	kuːsi	kuːsesːɑ	4	0.75
+kuusi	ELA	kuusesta	kuːsi	kuːsestɑ	5	0.9
+kuusi	PAR	kuusta	kuːsi	kuːstɑ	13	0.352941176470588
+lapanen	ILL	lapaseen	lɑpɑnen	lɑpɑseːn	1	0.8125
+lapanen	ALL	lapaselle	lɑpɑnen	lɑpɑselːe	1	1
+lapanen	GEN	lapasen	lɑpɑnen	lɑpɑsen	4	1
+lapanen	INE	lapasessa	lɑpɑnen	lɑpɑsesːɑ	2	0.947368421052632
+lapanen	ELA	lapasesta	lɑpɑnen	lɑpɑsestɑ	1	0.944444444444444
+lapanen	PAR	lapasta	lɑpɑnen	lɑpɑstɑ	2	0.823529411764706
+lautanen	ILL	lautaseen	lɑutɑnen	lɑutɑseːn	3	0.85
+lautanen	ALL	lautaselle	lɑutɑnen	lɑutɑselːe	58	0.9375
+lautanen	GEN	lautasen	lɑutɑnen	lɑutɑsen	32	0.947368421052632
+lautanen	INE	lautasessa	lɑutɑnen	lɑutɑsesːɑ	5	0.933333333333333
+lautanen	ELA	lautasesta	lɑutɑnen	lɑutɑsestɑ	5	0.842105263157895
+lautanen	PAR	lautasta	lɑutɑnen	lɑutɑstɑ	11	1
+maalaus	ILL	maalaukseen	mɑːlɑus	mɑːlɑukseːn	1	1
+maalaus	ALL	maalaukselle	mɑːlɑus	mɑːlɑukselːe	1	0.714285714285714
+maalaus	GEN	maalauksen	mɑːlɑus	mɑːlɑuksen	1	0.944444444444444
+maalaus	INE	maalauksessa	mɑːlɑus	mɑːlɑuksesːɑ	2	1
+maalaus	ELA	maalauksesta	mɑːlɑus	mɑːlɑuksestɑ	1	0.842105263157895
+maalaus	PAR	maalausta	mɑːlɑus	mɑːlɑustɑ	2	1
+ovi	PAR	ovea	oʋi	oʋeɑ	29	0.625
+ovi	ILL	oveen	oʋi	oʋeːn	19	0.777777777777778
+ovi	ALL	ovelle	oʋi	oʋelːe	12	0.85
+ovi	GEN	oven	oʋi	oʋen	57	0.777777777777778
+ovi	INE	ovessa	oʋi	oʋesːɑ	2	0.944444444444444
+ovi	ELA	ovesta	oʋi	oʋestɑ	10	1
+puhelin	ILL	puhelimeen	puhelin	puhelimeːn	9	0.666666666666667
+puhelin	ALL	puhelimelle	puhelin	puhelimelːe	1	0.5
+puhelin	GEN	puhelimen	puhelin	puhelimen	13	0.823529411764706
+puhelin	INE	puhelimessa	puhelin	puhelimesːɑ	9	0.842105263157895
+puhelin	ELA	puhelimesta	puhelin	puhelimestɑ	7	0.75
+puhelin	PAR	puhelinta	puhelin	puhelintɑ	7	0.8
+putki	PAR	putkea	putki	putkeɑ	4	0.619047619047619
+putki	ILL	putkeen	putki	putkeːn	9	0.777777777777778
+putki	ALL	putkelle	putki	putkelːe	1	0.823529411764706
+putki	GEN	putken	putki	putken	6	0.947368421052632
+putki	INE	putkessa	putki	putkesːɑ	3	0.875
+putki	ELA	putkesta	putki	putkestɑ	1	0.88235294117647
+puu	ILL	puuhun	puː	puːhun	6	0.933333333333333
+puu	ALL	puulle	puː	puːlːe	1	0.88235294117647
+puu	GEN	puun	puː	puːn	13	0.944444444444444
+puu	INE	puussa	puː	puːsːɑ	9	1
+puu	ELA	puusta	puː	puːstɑ	4	0.941176470588235
+puu	PAR	puuta	puː	puːtɑ	10	0.944444444444444
+rengas	PAR	rengasta	reŋːɑs	reŋːɑstɑ	2	0.95
+rengas	ALL	renkaalle	reŋːɑs	reŋkɑːlːe	1	0.764705882352941
+rengas	GEN	renkaan	reŋːɑs	reŋkɑːn	9	0.722222222222222
+rengas	ILL	renkaaseen	reŋːɑs	reŋkɑːseːn	1	0.769230769230769
+rengas	INE	renkaassa	reŋːɑs	reŋkɑːsːɑ	3	0.444444444444444
+rengas	ELA	renkaasta	reŋːɑs	reŋkɑːstɑ	1	0.777777777777778
+sieni	ILL	sieneen	sieni	sieneːn	1	0.75
+sieni	ALL	sienelle	sieni	sienelːe	1	0.95
+sieni	GEN	sienen	sieni	sienen	6	1
+sieni	INE	sienessä	sieni	sienesːæ	1	0.875
+sieni	ELA	sienestä	sieni	sienestæ	1	0.933333333333333
+sieni	PAR	sientä	sieni	sientæ	5	0.666666666666667
+sirkus	ILL	sirkukseen	sirkus	sirkukseːn	4	1
+sirkus	ALL	sirkukselle	sirkus	sirkukselːe	1	0.9
+sirkus	GEN	sirkuksen	sirkus	sirkuksen	7	0.894736842105263
+sirkus	INE	sirkuksessa	sirkus	sirkuksesːɑ	15	1
+sirkus	ELA	sirkuksesta	sirkus	sirkuksestɑ	1	0.777777777777778
+sirkus	PAR	sirkusta	sirkus	sirkustɑ	1	0.894736842105263
+sormus	ILL	sormukseen	sormus	sormukseːn	1	0.928571428571429
+sormus	ALL	sormukselle	sormus	sormukselːe	1	0.88235294117647
+sormus	GEN	sormuksen	sormus	sormuksen	11	1
+sormus	INE	sormuksessa	sormus	sormuksesːɑ	1	0.875
+sormus	ELA	sormusksesta	sormus	sormusksestɑ	2	1
+sormus	PAR	sormusta	sormus	sormustɑ	3	1
+uuni	PAR	uunia	uːni	uːniɑ	2	1
+uuni	ILL	uuniin	uːni	uːniːn	51	0.777777777777778
+uuni	ALL	uunille	uːni	uːnilːe	1	0.947368421052632
+uuni	GEN	uunin	uːni	uːnin	5	0.9
+uuni	INE	uunissa	uːni	uːnisːɑ	14	0.941176470588235
+uuni	ELA	uunista	uːni	uːnistɑ	13	0.88235294117647
+vyö	ALL	vyölle	ʋyø	ʋyølːe	1	0.95
+vyö	ELA	vyöstä	ʋyø	ʋyøstæ	1	0.904761904761905
+vyö	GEN	vyön	ʋyø	ʋyøn	5	1
+vyö	ILL	vyöhön	ʋyø	ʋyøhøn	1	0.6875
+vyö	INE	vyössä	ʋyø	ʋyøsːæ	1	1
+vyö	PAR	vyötä	ʋyø	ʋyøtæ	2	0.941176470588235

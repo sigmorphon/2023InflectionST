@@ -1,144 +1,144 @@
-päike	COM	pæike
-saabas	COM	sɑːbɑs
-patarei	PAR	pɑtɑrei
-masin	COM	mɑsin
-hobune	COM	hobune
-patarei	GEN	pɑtɑrei
-masin	INE	mɑsin
-tsirkus	ELA	tsirkus
-tigu	ELA	tigu
-tuba	PAR	tubɑ
-lamp	INE	lɑm;p
-täht	PAR	tæh;t
-kuu	GEN	kuː
-täht	GEN	tæh;t
-raadio	COM	rɑːdio
-nuga	PAR	nugɑ
-madrats	GEN	mɑdrɑts
-lamp	COM	lɑm;p
-vöö	ELA	ʋøː
-madrats	ELA	mɑdrɑts
-raadio	PAR	rɑːdio
-madrats	PAR	mɑdrɑts
-raamat	GEN	rɑːmɑt
-raamat	PAR	rɑːmɑt
-tuba	ELA	tubɑ
-patarei	INE	pɑtɑrei
-lamp	PAR	lɑm;p
-saabas	GEN	sɑːbɑs
-sulg	PAR	sul;g
-täht	INE	tæh;t
-aken	COM	ɑken
-kuu	COM	kuː
-raamat	COM	rɑːmɑt
-masin	ALL	mɑsin
-päike	ELA	pæike
-sulg	GEN	sul;g
-masin	ELA	mɑsin
-tsirkus	COM	tsirkus
-toru	ELA	toru
-päike	INE	pæike
-aken	GEN	ɑken
-saabas	ELA	sɑːbɑs
-tsirkus	INE	tsirkus
-raadio	ALL	rɑːdio
-kuu	ELA	kuː
-auto	GEN	ɑuto
-raamat	ALL	rɑːmɑt
-päike	PAR	pæike
-ratas	ALL	rɑtɑs
-tigu	GEN	tigu
-toru	PAR	toru
-tigu	PAR	tigu
-maja	COM	mɑjɑ
-täht	ALL	tæh;t
-nuga	COM	nugɑ
-madrats	ALL	mɑdrɑts
-kruvi	GEN	kruʋi
-lamp	GEN	lɑm;p
-ratas	ELA	rɑtɑs
-nuga	INE	nugɑ
-vöö	PAR	ʋøː
-tsirkus	ALL	tsirkus
-auto	ALL	ɑuto
-ratas	PAR	rɑtɑs
-täht	COM	tæh;t
-tuba	INE	tubɑ
-madrats	COM	mɑdrɑts
-sulg	COM	sul;g
-tigu	INE	tigu
-maja	INE	mɑjɑ
-vöö	INE	ʋøː
-tsirkus	PAR	tsirkus
-sulg	ELA	sul;g
-kuu	ALL	kuː
-auto	COM	ɑuto
-hobune	ELA	hobune
-tsirkus	GEN	tsirkus
-täht	ELA	tæh;t
-raadio	ELA	rɑːdio
-aken	ELA	ɑken
-lamp	ALL	lɑm;p
-päike	GEN	pæike
-hobune	INE	hobune
-auto	PAR	ɑuto
-kuu	PAR	kuː
-nuga	ELA	nugɑ
-raadio	GEN	rɑːdio
-ratas	INE	rɑtɑs
-tigu	COM	tigu
-vöö	COM	ʋøː
-voodi	PAR	ʋoːdi
-kruvi	PAR	kruʋi
-toru	COM	toru
-madrats	INE	mɑdrɑts
-hobune	ALL	hobune
-kruvi	ALL	kruʋi
-kruvi	INE	kruʋi
-aken	PAR	ɑken
-saabas	ALL	sɑːbɑs
-nuga	ALL	nugɑ
-patarei	ALL	pɑtɑrei
-kruvi	ELA	kruʋi
-ratas	COM	rɑtɑs
-voodi	INE	ʋoːdi
-tigu	ALL	tigu
-auto	INE	ɑuto
-patarei	COM	pɑtɑrei
-maja	ELA	mɑjɑ
-nuga	GEN	nugɑ
-raamat	ELA	rɑːmɑt
-tuba	ALL	tubɑ
-raadio	INE	rɑːdio
-tuba	COM	tubɑ
-masin	GEN	mɑsin
-hobune	PAR	hobune
-patarei	ELA	pɑtɑrei
-maja	ALL	mɑjɑ
-ratas	GEN	rɑtɑs
-lamp	ELA	lɑm;p
-vöö	GEN	ʋøː
-auto	ELA	ɑuto
-voodi	ALL	ʋoːdi
-voodi	COM	ʋoːdi
-sulg	ALL	sul;g
-voodi	ELA	ʋoːdi
-kruvi	COM	kruʋi
-maja	GEN	mɑjɑ
-sulg	INE	sul;g
-toru	INE	toru
-toru	GEN	toru
-toru	ALL	toru
-aken	INE	ɑken
-tuba	GEN	tubɑ
-voodi	GEN	ʋoːdi
-päike	ALL	pæike
-aken	ALL	ɑken
-raamat	INE	rɑːmɑt
-hobune	GEN	hobune
-masin	PAR	mɑsin
-saabas	INE	sɑːbɑs
-vöö	ALL	ʋøː
-kuu	INE	kuː
-maja	PAR	mɑjɑ
-saabas	PAR	sɑːbɑs
+aken	PAR	akent	ɑken	ɑkent	10	0.736842105263158
+aken	GEN	akna	ɑken	ɑk;nɑ	32	0.888888888888889
+aken	COM	aknaga	ɑken	ɑk;nɑgɑ	1	0.736842105263158
+aken	ALL	aknale	ɑken	ɑk;nɑle	3	0.85
+aken	INE	aknas	ɑken	ɑk;nɑs	1	0.8
+aken	ELA	aknast	ɑken	ɑk;nɑst	32	0.68421052631579
+auto	GEN	auto	ɑuto	ɑuto	45	1
+auto	COM	autoga	ɑuto	ɑutogɑ	28	1
+auto	ALL	autole	ɑuto	ɑutole	10	1
+auto	INE	autos	ɑuto	ɑutos	7	1
+auto	ELA	autost	ɑuto	ɑutost	5	1
+auto	PAR	autot	ɑuto	ɑutot	26	1
+hobune	GEN	hobuse	hobune	hobuse	3	0.944444444444444
+hobune	COM	hobusega	hobune	hobusegɑ	1	1
+hobune	ALL	hobusele	hobune	hobusele	1	0.95
+hobune	INE	hobuses	hobune	hobuses	1	1
+hobune	ELA	hobusest	hobune	hobusest	1	1
+hobune	PAR	hobust	hobune	hobust	2	0.944444444444444
+kruvi	GEN	kruvi	kruʋi	kruʋi	1	0.95
+kruvi	PAR	kruvi	kruʋi	kruʋi	1	0.619047619047619
+kruvi	COM	kruviga	kruʋi	kruʋigɑ	2	1
+kruvi	ALL	kruvile	kruʋi	kruʋile	1	1
+kruvi	INE	kruvis	kruʋi	kruʋis	1	0.777777777777778
+kruvi	ELA	kruvist	kruʋi	kruʋist	1	1
+kuu	GEN	kuu	kuː	kuː	16	0.933333333333333
+kuu	PAR	kuud	kuː	kuːd	3	1
+kuu	COM	kuuga	kuː	kuːgɑ	1	1
+kuu	ALL	kuule	kuː	kuːle	1	0.947368421052632
+kuu	INE	kuus	kuː	kuːs	1	0.777777777777778
+kuu	ELA	kuust	kuː	kuːst	1	1
+lamp	GEN	lambi	lɑm;p	lɑmbi	6	1
+lamp	COM	lambiga	lɑm;p	lɑmbigɑ	1	1
+lamp	ALL	lambile	lɑm;p	lɑmbile	2	1
+lamp	INE	lambis	lɑm;p	lɑmbis	1	0.888888888888889
+lamp	ELA	lambist	lɑm;p	lɑmbist	1	1
+lamp	PAR	lampi	lɑm;p	lɑm;pi	8	1
+madrats	GEN	madratsi	mɑdrɑts	mɑdrɑtsi	4	0.941176470588235
+madrats	COM	madratsiga	mɑdrɑts	mɑdrɑtsigɑ	1	0.947368421052632
+madrats	ALL	madratsile	mɑdrɑts	mɑdrɑtsile	1	1
+madrats	INE	madratsis	mɑdrɑts	mɑdrɑtsis	1	0.916666666666667
+madrats	ELA	madratsist	mɑdrɑts	mɑdrɑtsist	1	0.941176470588235
+madrats	PAR	madratsit	mɑdrɑts	mɑdrɑtsit	3	0.9
+maja	GEN	maja	mɑjɑ	mɑjɑ	67	1
+maja	PAR	maja	mɑjɑ	mɑjɑ	43	0.904761904761905
+maja	COM	majaga	mɑjɑ	mɑjɑgɑ	3	1
+maja	ALL	majale	mɑjɑ	mɑjɑle	5	1
+maja	INE	majas	mɑjɑ	mɑjɑs	12	1
+maja	ELA	majast	mɑjɑ	mɑjɑst	1	1
+masin	GEN	masina	mɑsin	mɑsinɑ	12	1
+masin	COM	masinaga	mɑsin	mɑsinɑgɑ	5	1
+masin	ALL	masinale	mɑsin	mɑsinɑle	5	0.9
+masin	INE	masinas	mɑsin	mɑsinɑs	3	1
+masin	ELA	masinast	mɑsin	mɑsinɑst	2	1
+masin	PAR	masinat	mɑsin	mɑsinɑt	4	1
+nuga	GEN	noa	nugɑ	noɑ	7	1
+nuga	COM	noaga	nugɑ	noɑgɑ	7	0.4
+nuga	ALL	noale	nugɑ	noɑle	1	0.571428571428571
+nuga	INE	noas	nugɑ	noɑs	1	0.5
+nuga	ELA	noast	nugɑ	noɑst	1	0.588235294117647
+nuga	PAR	nuga	nugɑ	nugɑ	11	0.833333333333333
+päike	ALL	päikesele	pæike	pæikesele	1	0.894736842105263
+päike	COM	päikesega	pæike	pæikesegɑ	1	0.85
+päike	ELA	päikesest	pæike	pæikesest	1	0.764705882352941
+päike	GEN	päikese	pæike	pæikese	16	1
+päike	INE	päikeses	pæike	pæikeses	1	0.888888888888889
+päike	PAR	päikest	pæike	pæikest	9	1
+patarei	GEN	patarei	pɑtɑrei	pɑtɑrei	4	0.9375
+patarei	PAR	patareid	pɑtɑrei	pɑtɑreid	3	0.8
+patarei	COM	patareiga	pɑtɑrei	pɑtɑreigɑ	2	0.95
+patarei	ALL	patareile	pɑtɑrei	pɑtɑreile	1	0.85
+patarei	INE	patareis	pɑtɑrei	pɑtɑreis	1	0.909090909090909
+patarei	ELA	patareist	pɑtɑrei	pɑtɑreist	1	1
+raadio	GEN	raadio	rɑːdio	rɑːdio	3	1
+raadio	COM	raadioga	rɑːdio	rɑːdiogɑ	3	0.952380952380952
+raadio	ALL	raadiole	rɑːdio	rɑːdiole	1	0.95
+raadio	INE	raadios	rɑːdio	rɑːdios	1	1
+raadio	ELA	raadiost	rɑːdio	rɑːdiost	2	0.933333333333333
+raadio	PAR	raadiot	rɑːdio	rɑːdiot	2	1
+raamat	GEN	raamatu	rɑːmɑt	rɑːmɑtu	30	1
+raamat	COM	raamatuga	rɑːmɑt	rɑːmɑtugɑ	4	1
+raamat	ALL	raamatule	rɑːmɑt	rɑːmɑtule	3	1
+raamat	INE	raamatus	rɑːmɑt	rɑːmɑtus	14	1
+raamat	ELA	raamatust	rɑːmɑt	rɑːmɑtust	6	1
+raamat	PAR	raamatut	rɑːmɑt	rɑːmɑtut	42	1
+ratas	PAR	ratast	rɑtɑs	rɑtɑst	4	0.944444444444444
+ratas	GEN	ratta	rɑtɑs	rɑt;ɑ	15	0.947368421052632
+ratas	COM	rattaga	rɑtɑs	rɑt;ɑgɑ	19	0.85
+ratas	ALL	rattale	rɑtɑs	rɑt;ɑle	1	0.736842105263158
+ratas	INE	rattas	rɑtɑs	rɑt;ɑs	1	1
+ratas	ELA	rattast	rɑtɑs	rɑt;ɑst	1	0.9375
+saabas	PAR	saabast	sɑːbɑs	sɑːbɑst	1	0.85
+saabas	GEN	saapa	sɑːbɑs	sɑ;pɑ	2	0.75
+saabas	COM	saapaga	sɑːbɑs	sɑ;pɑgɑ	1	0.857142857142857
+saabas	ALL	saapale	sɑːbɑs	sɑ;pɑle	1	0.80952380952381
+saabas	INE	saapas	sɑːbɑs	sɑ;pɑs	1	0.75
+saabas	ELA	saapast	sɑːbɑs	sɑ;pɑst	1	0.75
+sulg	GEN	sule	sul;g	sule	3	1
+sulg	COM	sulega	sul;g	sulegɑ	1	0.95
+sulg	ALL	sulele	sul;g	sulele	1	0.904761904761905
+sulg	INE	sules	sul;g	sules	1	0.727272727272727
+sulg	ELA	sulest	sul;g	sulest	1	0.842105263157895
+sulg	PAR	sulge	sul;g	sul;ge	1	0.894736842105263
+täht	ALL	tähele	tæh;t	tæhele	1	0.944444444444444
+täht	COM	tähega	tæh;t	tæhegɑ	45	1
+täht	ELA	tähest	tæh;t	tæhest	1	0.928571428571429
+täht	GEN	tähe	tæh;t	tæhe	23	0.875
+täht	INE	tähes	tæh;t	tæhes	1	1
+täht	PAR	tähte	tæh;t	tæh;te	32	0.944444444444444
+tigu	GEN	teo	tigu	teo	2	1
+tigu	COM	teoga	tigu	teogɑ	1	0.35
+tigu	ALL	teole	tigu	teole	1	0.35
+tigu	INE	teos	tigu	teos	1	0.428571428571429
+tigu	ELA	teost	tigu	teost	1	0.176470588235294
+tigu	PAR	tigu	tigu	tigu	2	0.857142857142857
+tuba	GEN	toa	tubɑ	toɑ	7	1
+tuba	COM	toaga	tubɑ	toɑgɑ	1	0.5
+tuba	ALL	toale	tubɑ	toɑle	1	0.45
+tuba	INE	toas	tubɑ	toɑs	92	0.666666666666667
+tuba	ELA	toast	tubɑ	toɑst	25	0.705882352941177
+toru	GEN	toru	toru	toru	3	1
+toru	PAR	toru	toru	toru	2	0.722222222222222
+toru	COM	toruga	toru	torugɑ	4	1
+toru	ALL	torule	toru	torule	1	0.95
+toru	INE	torus	toru	torus	2	1
+toru	ELA	torust	toru	torust	5	1
+tsirkus	GEN	tsirkuse	tsirkus	tsirkuse	2	1
+tsirkus	COM	tsirkusega	tsirkus	tsirkusegɑ	1	0.947368421052632
+tsirkus	ALL	tsirkusele	tsirkus	tsirkusele	1	0.947368421052632
+tsirkus	INE	tsirkuses	tsirkus	tsirkuses	1	0.875
+tsirkus	ELA	tsirkusest	tsirkus	tsirkusest	1	1
+tsirkus	PAR	tsirkust	tsirkus	tsirkust	1	1
+tuba	PAR	tuba	tubɑ	tubɑ	3	0.947368421052632
+voodi	GEN	voodi	ʋoːdi	ʋoːdi	13	1
+voodi	COM	voodiga	ʋoːdi	ʋoːdigɑ	2	1
+voodi	ALL	voodile	ʋoːdi	ʋoːdile	1	1
+voodi	INE	voodis	ʋoːdi	ʋoːdis	25	1
+voodi	ELA	voodist	ʋoːdi	ʋoːdist	1	0.888888888888889
+voodi	PAR	voodit	ʋoːdi	ʋoːdit	2	1
+vöö	ALL	vööle	ʋøː	ʋøːle	1	1
+vöö	COM	vööga	ʋøː	ʋøːgɑ	1	1
+vöö	ELA	vööst	ʋøː	ʋøːst	1	0.9375
+vöö	GEN	vöö	ʋøː	ʋøː	1	1
+vöö	INE	vöös	ʋøː	ʋøːs	1	1
+vöö	PAR	vööd	ʋøː	ʋøːd	1	0.95

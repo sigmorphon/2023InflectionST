@@ -74,19 +74,18 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 [//]: # (| Karelian | Finnic &#40;Uralic&#41; | krl | https://github.com/unimorph/krl/ | &#40;Wiktionary, [VepKar]&#40;http://dictorpus.krc.karelia.ru/en&#41;&#41; |)
 
 ## Timeline
-  * February 15, 2023: Task website is complete, and accepting registrations to the mailing list
 
 **Stage 1: Development Phase**
-  * February 17, 2023: Training and development splits for development languages released; we invite participants to report errors
-  * February 22, 2023: Neural and non-neural baselines for development languages released
+  * March 1, 2023: Training and development splits for development languages released; we invite participants to report errors
+  * March 15, 2023: Neural and non-neural baselines for development languages released
 
 **Stage 2: Generalization Phase**
-  * March 24, 2023: Training and development splits for surprise languages released
+  * April 7, 2023: Training and development splits for surprise languages released
 
 **Stage 3: Evaluation Phase**
-  * March 31, 2023: Test splits for all languages (both development and surprise) released
-  * April 14, 2023: Participants submit test predictions on all languages
-  * April 21, 2023: Results announced to participants
+  * April 14, 2023: Test splits for all languages (both development and surprise) released
+  * April 21, 2023: Participants submit test predictions on all languages
+  * April 25, 2023: Results announced to participants
 
 **Stage 4: Write-up Phase**
   * May 8, 2023: System papers due for review

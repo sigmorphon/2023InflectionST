@@ -6,8 +6,6 @@ SIGMORPHON’s eigth installment of its inflection generation shared task will b
 + ***Part 2***: [Cognitively Plausible Morphophonological Generalization in Korean](https://github.com/sigmorphon/2023InflectionST/tree/main/part2/README.md)
 + ***Part 3***: [Models of Acquisition of Inflectional Noun Moprhology in Polish, Estonian, and Finnish](https://github.com/sigmorphon/2023InflectionST/tree/main/part3)
 
-Please join our [Google Group](https://TBA) to stay up to date.
-
 ***Click here to [register for the task](https://docs.google.com/forms/d/e/1FAIpQLSfA802Luvxn4oAadpmF1lHID_VERAonlDhQ6voY6tXVGEfQnQ/viewform)!***
 
 
@@ -59,19 +57,6 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 
 [//]: # (#### Surprise Languages)
 
-[//]: # ()
-[//]: # (| Language | Family| code | UM | Contributors |)
-[//]: # (|---|---|---|---|---|)
-[//]: # (| Central Kurdish | TBA | TBA | TBA | Aso Mahmudi, Sina Ahmadi |)
-[//]: # (| Ossetian | TBA | TBA | TBA | Samopriya Basu |)
-[//]: # (| Khanty | TBA | TBA | TBA | Karina Sheifer |)
-[//]: # (| Kullui | TBA | TBA | TBA | Elena Klyachko |)
-[//]: # (| Munda | TBA | TBA | TBA | Elena Klyachko |)
-[//]: # (| Korean | TBA | TBA | TBA | Seunghun Lee, Jungyeul Park |)
-[//]: # (| Afrikaans | TBA | TBA | TBA | Peter Dirix |)
-[//]: # (| Tibetan | Sino-Tibetan | bod | https://github.com/unimorph/bod/ | Kat Vylomova |)
-[//]: # (| Sanskrit | Indo-Aryan | san | https://github.com/unimorph/san/ | Aryaman Arora |)
-[//]: # (| Karelian | Finnic &#40;Uralic&#41; | krl | https://github.com/unimorph/krl/ | &#40;Wiktionary, [VepKar]&#40;http://dictorpus.krc.karelia.ru/en&#41;&#41; |)
 
 ## Timeline
 

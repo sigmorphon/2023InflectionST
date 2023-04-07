@@ -2,7 +2,7 @@ Here is the key to the column headers in the dataset.
 
 * Morphology_R - morphological parse, romanization. Consists of more or less the URs for each morpheme
 * Morphology_H - morphological parse, Hangul.
-* Production_R - production, romanization. Represents the option chosen by the participant, in phonetic detail (ie, representing the actual assumed segmental targets, the "SR", with phonological processes applied)
+* Production_R - production, romanization. Represents the option chosen by the participant, in phonemic detail (ie, representing the actual assumed segmental targets, the "SR", with phonological processes applied)
 * Production_H - production, Hangul.
 * UR - segmental sequence surrounding the morpheme juncture (noted "-")
 * SR - segmental sequence of how the UR was produced in the Production

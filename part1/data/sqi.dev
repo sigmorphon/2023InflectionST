@@ -1,0 +1,1000 @@
+abdikoj	V;ADM;PRF;NOM(3,SG)	paska abdikuar
+abdikoj	V;ADM;PRF;PRF;NOM(2,PL)	paskëshit abdikuar
+abdikoj	V;COND;PRF;NOM(1,PL)	do të kishim abdikuar
+abdikoj	V;COND;PRF;NOM(2,PL)	do të kishit abdikuar
+abdikoj	V;COND;PRF;NOM(3,PL)	do të kishin abdikuar
+abdikoj	V;COND;PRS;NOM(2,SG)	do të abdikoje
+abdikoj	V;IMP;NOM(2,PL)	abdikoni
+abdikoj	V;IND;IPFV;NOM(1,PL)	abdikonim
+abdikoj	V;IND;IPFV;NOM(2,PL)	abdikonit
+abdikoj	V;IND;IPFV;NOM(2,SG)	abdikoje
+abdikoj	V;IND;IPFV;NOM(3,PL)	abdikonin
+abdikoj	V;IND;PRF;NOM(2,SG)	ke abdikuar
+abdikoj	V;IND;PRF;PST;NOM(1,PL)	patëm abdikuar
+abdikoj	V;IND;PRF;PST;NOM(1,SG)	pata abdikuar
+abdikoj	V;IND;PRF;PST;NOM(3,PL)	patën abdikuar
+abdikoj	V;IND;PRS;NOM(1,SG)	abdikoj
+abdikoj	V;OPT;PRF;NOM(1,PL)	paçim abdikuar
+abdikoj	V;OPT;PRF;NOM(3,PL)	paçin abdikuar
+abdikoj	V;OPT;PRS;NOM(1,SG)	abdikofsha
+abdikoj	V;OPT;PRS;NOM(3,PL)	abdikofshin
+abdikoj	V;SBJV;PRF;NOM(1,SG)	të kem abdikuar
+abdikoj	V;SBJV;PRS;NOM(1,SG)	të abdikoj
+abdikoj	V;SBJV;PRS;NOM(2,SG)	të abdikosh
+abdikoj	V;SBJV;PRS;NOM(3,PL)	të abdikojnë
+abdikoj	V;SBJV;PRS;NOM(3,SG)	të abdikojë
+antonim	N;ABL(PL;DEF)	antonimeve
+antonim	N;ABL(PL;NDEF)	antonimesh
+antonim	N;ABL(SG;DEF)	antonimit
+antonim	N;ABL(SG;NDEF)	antonimi
+antonim	N;ACC(PL;DEF)	antonimet
+antonim	N;ACC(PL;NDEF)	antonime
+antonim	N;ACC(SG;DEF)	antonimin
+antonim	N;ACC(SG;NDEF)	antonim
+antonim	N;DAT(PL;DEF)	antonimeve
+antonim	N;DAT(PL;NDEF)	antonimeve
+antonim	N;DAT(SG;DEF)	antonimit
+antonim	N;DAT(SG;NDEF)	antonimi
+antonim	N;GEN(PL;DEF)	antonimeve
+antonim	N;GEN(PL;NDEF)	antonimeve
+antonim	N;GEN(SG;DEF)	antonimit
+antonim	N;GEN(SG;NDEF)	antonimi
+antonim	N;NOM(PL;DEF)	antonimet
+antonim	N;NOM(PL;NDEF)	antonime
+antonim	N;NOM(SG;DEF)	antonimi
+antonim	N;NOM(SG;NDEF)	antonim
+apologji	N;ABL(PL;DEF)	apologjive
+apologji	N;ABL(PL;NDEF)	apologjish
+apologji	N;ABL(SG;DEF)	apologjisë
+apologji	N;ABL(SG;NDEF)	apologjie
+apologji	N;ACC(PL;DEF)	apologjitë
+apologji	N;ACC(PL;NDEF)	apologji
+apologji	N;ACC(SG;DEF)	apologjinë
+apologji	N;ACC(SG;NDEF)	apologji
+apologji	N;DAT(PL;DEF)	apologjive
+apologji	N;DAT(PL;NDEF)	apologjive
+apologji	N;DAT(SG;DEF)	apologjisë
+apologji	N;DAT(SG;NDEF)	apologjie
+apologji	N;GEN(PL;DEF)	apologjive
+apologji	N;GEN(PL;NDEF)	apologjive
+apologji	N;GEN(SG;DEF)	apologjisë
+apologji	N;GEN(SG;NDEF)	apologjie
+apologji	N;NOM(PL;DEF)	apologjitë
+apologji	N;NOM(PL;NDEF)	apologji
+apologji	N;NOM(SG;DEF)	apologjia
+apologji	N;NOM(SG;NDEF)	apologji
+ar	N;ABL(SG;DEF)	arit
+ar	N;ABL(SG;NDEF)	ari
+ar	N;ACC(SG;DEF)	arin
+ar	N;ACC(SG;NDEF)	ar
+ar	N;DAT(SG;DEF)	arit
+ar	N;DAT(SG;NDEF)	ari
+ar	N;GEN(SG;DEF)	arit
+ar	N;GEN(SG;NDEF)	ari
+ar	N;NOM(SG;DEF)	ari
+ar	N;NOM(SG;NDEF)	ar
+arsimoj	V;ADM;IPFV;NOM(1,SG)	arsimuakësha
+arsimoj	V;ADM;PRF;NOM(2,SG)	paske arsimuar
+arsimoj	V;ADM;PRF;PST;NOM(1,PL)	paskëshim arsimuar
+arsimoj	V;ADM;PRF;PST;NOM(1,SG)	paskësha arsimuar
+arsimoj	V;ADM;PRS;NOM(2,SG)	arsimuake
+arsimoj	V;COND;PRF;NOM(1,PL)	do të kishim arsimuar
+arsimoj	V;COND;PRF;NOM(2,SG)	do të kishe arsimuar
+arsimoj	V;COND;PRS;NOM(1,PL)	do të arsimonim
+arsimoj	V;COND;PRS;NOM(1,SG)	do të arsimoja
+arsimoj	V;IMP;NOM(2,SG)	arsimo
+arsimoj	V;IND;FUT;NOM(2,SG)	do të arsimosh
+arsimoj	V;IND;IPFV;NOM(2,PL)	arsimonit
+arsimoj	V;IND;PRF;NOM(3,PL)	kanë arsimuar
+arsimoj	V;IND;PRS;NOM(1,PL)	arsimojmë
+arsimoj	V;IND;PRS;NOM(3,PL)	arsimojnë
+arsimoj	V;IND;PST;NOM(1,PL)	arsimuam
+arsimoj	V;IND;PST;NOM(2,PL)	arsimuat
+arsimoj	V;IND;PST;NOM(3,SG)	arsimoi
+arsimoj	V;OPT;PRS;NOM(3,PL)	arsimofshin
+arsimoj	V;OPT;PRS;NOM(3,SG)	arsimoftë
+arsimoj	V;SBJV;PRF;NOM(1,SG)	të kem arsimuar
+arsimoj	V;SBJV;PRF;PST;NOM(1,PL)	të kishim arsimuar
+arsimoj	V;SBJV;PRF;PST;NOM(1,SG)	të kisha arsimuar
+arsimoj	V;SBJV;PRS;NOM(1,SG)	të arsimoj
+arsimoj	V;SBJV;PST;NOM(3,PL)	të arsimonin
+arësyetoj	V;ADM;PRF;NOM(2,SG)	paske arësyetuar
+arësyetoj	V;ADM;PRF;NOM(3,SG)	paska arësyetuar
+arësyetoj	V;ADM;PRF;PRF;NOM(2,PL)	paskëshit arësyetuar
+arësyetoj	V;ADM;PRF;PST;NOM(1,PL)	paskëshim arësyetuar
+arësyetoj	V;ADM;PRF;PST;NOM(1,SG)	paskësha arësyetuar
+arësyetoj	V;ADM;PRS;NOM(1,SG)	arësyetuakam
+arësyetoj	V;ADM;PRS;NOM(2,PL)	arësyetuakeni
+arësyetoj	V;ADM;PRS;NOM(2,SG)	arësyetuake
+arësyetoj	V;ADM;PRS;NOM(3,SG)	arësyetuaka
+arësyetoj	V;IND;IPFV;NOM(1,SG)	arësyetoja
+arësyetoj	V;IND;PRF;NOM(1,PL)	kemi arësyetuar
+arësyetoj	V;IND;PRF;NOM(2,SG)	ke arësyetuar
+arësyetoj	V;IND;PRS;NOM(3,SG)	arësyeton
+arësyetoj	V;IND;PST;NOM(3,SG)	arësyetoi
+arësyetoj	V;NFIN	për të arësyetuar
+arësyetoj	V;OPT;PRF;NOM(2,PL)	paçit arësyetuar
+arësyetoj	V;OPT;PRF;NOM(2,SG)	paç arësyetuar
+arësyetoj	V;OPT;PRS;NOM(1,PL)	arësyetofshim
+arësyetoj	V;OPT;PRS;NOM(1,SG)	arësyetofsha
+arësyetoj	V;OPT;PRS;NOM(3,PL)	arësyetofshin
+arësyetoj	V;SBJV;PRF;NOM(3,PL)	të kenë arësyetuar
+arësyetoj	V;SBJV;PRF;NOM(3,SG)	të ketë arësyetuar
+arësyetoj	V;SBJV;PRF;PST;NOM(2,SG)	të kishe arësyetuar
+arësyetoj	V;SBJV;PST;NOM(2,SG)	të arësyetoje
+arësyetoj	V;V.PTCP;PRS	duke arësyetuar
+asnjanësoj	V;ADM;IPFV;NOM(1,SG)	asnjanësuakësha
+asnjanësoj	V;ADM;IPFV;NOM(3,PL)	asnjanësuakëshin
+asnjanësoj	V;ADM;PRF;NOM(1,SG)	paskam asnjanësuar
+asnjanësoj	V;ADM;PRF;NOM(3,PL)	paskan asnjanësuar
+asnjanësoj	V;ADM;PRF;PST;NOM(1,SG)	paskësha asnjanësuar
+asnjanësoj	V;ADM;PRF;PST;NOM(3,PL)	paskëshin asnjanësuar
+asnjanësoj	V;COND;PRF;NOM(2,PL)	do të kishit asnjanësuar
+asnjanësoj	V;COND;PRF;NOM(2,SG)	do të kishe asnjanësuar
+asnjanësoj	V;IMP;NOM(2,SG)	asnjanëso
+asnjanësoj	V;IND;FUT;NOM(1,SG)	do të asnjanësoj
+asnjanësoj	V;IND;FUT;NOM(3,SG)	do të asnjanësojë
+asnjanësoj	V;IND;IPFV;NOM(1,PL)	asnjanësonim
+asnjanësoj	V;IND;PRF;FUT;NOM(1,SG)	do të kem asnjanësuar
+asnjanësoj	V;IND;PRF;FUT;NOM(2,PL)	do të keni asnjanësuar
+asnjanësoj	V;IND;PRF;FUT;NOM(3,SG)	do të ketë asnjanësuar
+asnjanësoj	V;IND;PRF;NOM(2,PL)	keni asnjanësuar
+asnjanësoj	V;IND;PRF;PST;NOM(1,SG)	pata asnjanësuar
+asnjanësoj	V;IND;PRF;PST;NOM(3,SG)	pati asnjanësuar
+asnjanësoj	V;IND;PRS;NOM(1,SG)	asnjanësoj
+asnjanësoj	V;IND;PRS;NOM(3,PL)	asnjanësojnë
+asnjanësoj	V;IND;PST;NOM(2,SG)	asnjanësove
+asnjanësoj	V;IND;PST;NOM(3,PL)	asnjanësuan
+asnjanësoj	V;OPT;PRS;NOM(3,PL)	asnjanësofshin
+asnjanësoj	V;SBJV;PRF;NOM(1,PL)	të kemi asnjanësuar
+asnjanësoj	V;SBJV;PST;NOM(2,SG)	të asnjanësoje
+astrologji	N;ABL(SG;DEF)	astrologjisë
+astrologji	N;ABL(SG;NDEF)	astrologjie
+astrologji	N;ACC(SG;DEF)	astrologjinë
+astrologji	N;ACC(SG;NDEF)	astrologji
+astrologji	N;DAT(SG;DEF)	astrologjisë
+astrologji	N;DAT(SG;NDEF)	astrologjie
+astrologji	N;GEN(SG;DEF)	astrologjisë
+astrologji	N;GEN(SG;NDEF)	astrologjie
+astrologji	N;NOM(SG;DEF)	astrologjia
+astrologji	N;NOM(SG;NDEF)	astrologji
+dërgoj	V;ADM;PRS;NOM(3,SG)	dërguaka
+dërgoj	V;COND;PRF;NOM(1,PL)	do të kishim dërguar
+dërgoj	V;COND;PRF;NOM(2,PL)	do të kishit dërguar
+dërgoj	V;COND;PRS;NOM(1,PL)	do të dërgonim
+dërgoj	V;IND;FUT;NOM(1,SG)	do të dërgoj
+dërgoj	V;IND;FUT;NOM(3,PL)	do të dërgojnë
+dërgoj	V;IND;IPFV;NOM(1,SG)	dërgoja
+dërgoj	V;IND;IPFV;NOM(3,PL)	dërgonin
+dërgoj	V;IND;IPFV;NOM(3,SG)	dërgonte
+dërgoj	V;IND;PRF;FUT;NOM(1,PL)	do të kemi dërguar
+dërgoj	V;IND;PRF;FUT;NOM(1,SG)	do të kem dërguar
+dërgoj	V;IND;PRF;FUT;NOM(2,PL)	do të keni dërguar
+dërgoj	V;IND;PRF;FUT;NOM(2,SG)	do të kesh dërguar
+dërgoj	V;IND;PRF;FUT;NOM(3,PL)	do të kenë dërguar
+dërgoj	V;IND;PRF;NOM(1,PL)	kemi dërguar
+dërgoj	V;IND;PRF;NOM(1,SG)	kam dërguar
+dërgoj	V;IND;PRF;NOM(3,PL)	kanë dërguar
+dërgoj	V;IND;PRS;NOM(1,PL)	dërgojmë
+dërgoj	V;IND;PRS;NOM(2,PL)	dërgoni
+dërgoj	V;OPT;PRF;NOM(3,PL)	paçin dërguar
+dërgoj	V;OPT;PRS;NOM(3,PL)	dërgofshin
+dërgoj	V;SBJV;PRF;NOM(2,PL)	të keni dërguar
+dërgoj	V;SBJV;PRF;NOM(2,SG)	të kesh dërguar
+dërgoj	V;SBJV;PRF;PST;NOM(1,SG)	të kisha dërguar
+dërgoj	V;SBJV;PRS;NOM(2,SG)	të dërgosh
+enigmë	N;ABL(PL;DEF)	enigmave
+enigmë	N;ABL(PL;NDEF)	enigmash
+enigmë	N;ABL(SG;DEF)	enigmës
+enigmë	N;ABL(SG;NDEF)	enigme
+enigmë	N;ACC(PL;DEF)	enigmat
+enigmë	N;ACC(PL;NDEF)	enigma
+enigmë	N;ACC(SG;DEF)	enigmën
+enigmë	N;ACC(SG;NDEF)	enigmë
+enigmë	N;DAT(PL;DEF)	enigmave
+enigmë	N;DAT(PL;NDEF)	enigmave
+enigmë	N;DAT(SG;DEF)	enigmës
+enigmë	N;DAT(SG;NDEF)	enigme
+enigmë	N;GEN(PL;DEF)	enigmave
+enigmë	N;GEN(SG;DEF)	enigmës
+enigmë	N;GEN(SG;NDEF)	enigme
+enigmë	N;NOM(PL;DEF)	enigmat
+enigmë	N;NOM(PL;NDEF)	enigma
+enigmë	N;NOM(SG;DEF)	enigma
+enigmë	N;NOM(SG;NDEF)	enigmë
+epshmëri	N;ABL(SG;DEF)	epshmërisë
+epshmëri	N;ABL(SG;NDEF)	epshmërie
+epshmëri	N;ACC(SG;DEF)	epshmërinë
+epshmëri	N;ACC(SG;NDEF)	epshmëri
+epshmëri	N;DAT(SG;DEF)	epshmërisë
+epshmëri	N;DAT(SG;NDEF)	epshmërie
+epshmëri	N;GEN(SG;DEF)	epshmërisë
+epshmëri	N;GEN(SG;NDEF)	epshmërie
+epshmëri	N;NOM(SG;DEF)	epshmëria
+epshmëri	N;NOM(SG;NDEF)	epshmëri
+farmakologji	N;ABL(SG;DEF)	farmakologjisë
+farmakologji	N;ABL(SG;NDEF)	farmakologjie
+farmakologji	N;ACC(SG;DEF)	farmakologjinë
+farmakologji	N;ACC(SG;NDEF)	farmakologji
+farmakologji	N;DAT(SG;DEF)	farmakologjisë
+farmakologji	N;DAT(SG;NDEF)	farmakologjie
+farmakologji	N;GEN(SG;DEF)	farmakologjisë
+farmakologji	N;NOM(SG;DEF)	farmakologjia
+farmakologji	N;NOM(SG;NDEF)	farmakologji
+fytyrë	N;ABL(PL;DEF)	fytyrave
+fytyrë	N;ABL(PL;NDEF)	fytyrash
+fytyrë	N;ABL(SG;DEF)	fytyrës
+fytyrë	N;ABL(SG;NDEF)	fytyre
+fytyrë	N;ACC(PL;DEF)	fytyrat
+fytyrë	N;ACC(PL;NDEF)	fytyra
+fytyrë	N;ACC(SG;DEF)	fytyrën
+fytyrë	N;ACC(SG;NDEF)	fytyrë
+fytyrë	N;DAT(PL;DEF)	fytyrave
+fytyrë	N;DAT(PL;NDEF)	fytyrave
+fytyrë	N;DAT(SG;DEF)	fytyrës
+fytyrë	N;DAT(SG;NDEF)	fytyre
+fytyrë	N;GEN(PL;DEF)	fytyrave
+fytyrë	N;GEN(PL;NDEF)	fytyrave
+fytyrë	N;GEN(SG;DEF)	fytyrës
+fytyrë	N;GEN(SG;NDEF)	fytyre
+fytyrë	N;NOM(PL;NDEF)	fytyra
+fytyrë	N;NOM(SG;DEF)	fytyra
+fytyrë	N;NOM(SG;NDEF)	fytyrë
+gjenealogji	N;ABL(PL;DEF)	gjenealogjive
+gjenealogji	N;ABL(PL;NDEF)	gjenealogjish
+gjenealogji	N;ABL(SG;DEF)	gjenealogjisë
+gjenealogji	N;ABL(SG;NDEF)	gjenealogjie
+gjenealogji	N;ACC(PL;DEF)	gjenealogjitë
+gjenealogji	N;ACC(PL;NDEF)	gjenealogji
+gjenealogji	N;ACC(SG;DEF)	gjenealogjinë
+gjenealogji	N;ACC(SG;NDEF)	gjenealogji
+gjenealogji	N;DAT(PL;DEF)	gjenealogjive
+gjenealogji	N;DAT(PL;NDEF)	gjenealogjive
+gjenealogji	N;DAT(SG;DEF)	gjenealogjisë
+gjenealogji	N;DAT(SG;NDEF)	gjenealogjie
+gjenealogji	N;GEN(PL;DEF)	gjenealogjive
+gjenealogji	N;GEN(PL;NDEF)	gjenealogjive
+gjenealogji	N;GEN(SG;DEF)	gjenealogjisë
+gjenealogji	N;GEN(SG;NDEF)	gjenealogjie
+gjenealogji	N;NOM(PL;DEF)	gjenealogjitë
+gjenealogji	N;NOM(PL;NDEF)	gjenealogji
+gjenealogji	N;NOM(SG;DEF)	gjenealogjia
+gjenealogji	N;NOM(SG;NDEF)	gjenealogji
+gjilpërë	N;ABL(PL;DEF)	gjilpërave
+gjilpërë	N;ABL(PL;NDEF)	gjilpërash
+gjilpërë	N;ABL(SG;DEF)	gjilpërës
+gjilpërë	N;ABL(SG;NDEF)	gjilpëre
+gjilpërë	N;ACC(PL;DEF)	gjilpërat
+gjilpërë	N;ACC(PL;NDEF)	gjilpëra
+gjilpërë	N;ACC(SG;DEF)	gjilpërën
+gjilpërë	N;ACC(SG;NDEF)	gjilpërë
+gjilpërë	N;DAT(PL;DEF)	gjilpërave
+gjilpërë	N;DAT(PL;NDEF)	gjilpërave
+gjilpërë	N;DAT(SG;DEF)	gjilpërës
+gjilpërë	N;DAT(SG;NDEF)	gjilpëre
+gjilpërë	N;GEN(PL;DEF)	gjilpërave
+gjilpërë	N;GEN(PL;NDEF)	gjilpërave
+gjilpërë	N;GEN(SG;DEF)	gjilpërës
+gjilpërë	N;GEN(SG;NDEF)	gjilpëre
+gjilpërë	N;NOM(PL;DEF)	gjilpërat
+gjilpërë	N;NOM(PL;NDEF)	gjilpëra
+gjilpërë	N;NOM(SG;DEF)	gjilpëra
+gjilpërë	N;NOM(SG;NDEF)	gjilpërë
+grafik	N;ABL(PL;DEF)	grafikëve
+grafik	N;ABL(PL;NDEF)	grafikësh
+grafik	N;ABL(SG;DEF)	grafikut
+grafik	N;ABL(SG;NDEF)	grafiku
+grafik	N;ACC(PL;DEF)	grafikët
+grafik	N;ACC(PL;NDEF)	grafikë
+grafik	N;ACC(SG;NDEF)	grafik
+grafik	N;DAT(PL;DEF)	grafikëve
+grafik	N;DAT(PL;NDEF)	grafikëve
+grafik	N;DAT(SG;DEF)	grafikut
+grafik	N;DAT(SG;NDEF)	grafiku
+grafik	N;GEN(PL;DEF)	grafikëve
+grafik	N;GEN(PL;NDEF)	grafikëve
+grafik	N;GEN(SG;DEF)	grafikut
+grafik	N;GEN(SG;NDEF)	grafiku
+grafik	N;NOM(PL;DEF)	grafikët
+grafik	N;NOM(PL;NDEF)	grafikë
+grafik	N;NOM(SG;DEF)	grafiku
+grafik	N;NOM(SG;NDEF)	grafik
+gënjej	V;ADM;IPFV;NOM(2,SG)	gënjyekëshe
+gënjej	V;ADM;PRF;NOM(3,SG)	paska gënjyer
+gënjej	V;ADM;PRF;PRF;NOM(2,PL)	paskëshit gënjyer
+gënjej	V;ADM;PRF;PST;NOM(2,SG)	paskëshe gënjyer
+gënjej	V;ADM;PRS;NOM(2,SG)	gënjyeke
+gënjej	V;ADM;PRS;NOM(3,SG)	gënjyeka
+gënjej	V;COND;PRS;NOM(2,PL)	do të gënjenit
+gënjej	V;IMP;NOM(2,PL)	gënjeni
+gënjej	V;IND;FUT;NOM(2,SG)	do të gënjesh
+gënjej	V;IND;PRF;FUT;NOM(1,SG)	do të kem gënjyer
+gënjej	V;IND;PRF;NOM(2,SG)	ke gënjyer
+gënjej	V;IND;PRF;PST;NOM(1,PL)	patëm gënjyer
+gënjej	V;IND;PRF;PST;NOM(1,SG)	pata gënjyer
+gënjej	V;IND;PRF;PST;NOM(2,SG)	pate gënjyer
+gënjej	V;IND;PRF;PST;NOM(3,PL)	patën gënjyer
+gënjej	V;IND;PRS;NOM(1,PL)	gënjejmë
+gënjej	V;IND;PST;NOM(1,SG)	gënjeva
+gënjej	V;NFIN	për të gënjyer
+gënjej	V;OPT;PRS;NOM(1,PL)	gënjefshim
+gënjej	V;SBJV;PRF;NOM(3,SG)	të ketë gënjyer
+gënjej	V;SBJV;PRS;NOM(1,SG)	të gënjej
+gënjej	V;SBJV;PRS;NOM(2,PL)	të gënjeni
+gënjej	V;V.PTCP	gënjyer
+gënjej	V;V.PTCP;PST	duke pasë gënjyer
+justifikoj	V;ADM;IPFV;NOM(1,PL)	justifikuakëshim
+justifikoj	V;ADM;IPFV;NOM(2,PL)	justifikuakëshit
+justifikoj	V;ADM;PRF;NOM(1,PL)	paskemi justifikuar
+justifikoj	V;ADM;PRS;NOM(2,PL)	justifikuakeni
+justifikoj	V;COND;PRF;NOM(3,SG)	do të kishte justifikuar
+justifikoj	V;COND;PRS;NOM(1,SG)	do të justifikoja
+justifikoj	V;COND;PRS;NOM(3,SG)	do të justifikonte
+justifikoj	V;IND;FUT;NOM(1,PL)	do të justifikojmë
+justifikoj	V;IND;FUT;NOM(3,SG)	do të justifikojë
+justifikoj	V;IND;IPFV;NOM(2,SG)	justifikoje
+justifikoj	V;IND;PRF;FUT;NOM(1,SG)	do të kem justifikuar
+justifikoj	V;IND;PRF;NOM(1,SG)	kam justifikuar
+justifikoj	V;IND;PRF;PST;NOM(1,PL)	patëm justifikuar
+justifikoj	V;IND;PRF;PST;NOM(3,PL)	patën justifikuar
+justifikoj	V;IND;PRS;NOM(1,SG)	justifikoj
+justifikoj	V;IND;PRS;NOM(2,SG)	justifikon
+justifikoj	V;IND;PST;NOM(2,SG)	justifikove
+justifikoj	V;NFIN	për të justifikuar
+justifikoj	V;OPT;PRS;NOM(3,SG)	justifikoftë
+justifikoj	V;SBJV;PRF;PST;NOM(3,PL)	të kishin justifikuar
+justifikoj	V;SBJV;PRS;NOM(2,PL)	të justifikoni
+justifikoj	V;SBJV;PST;NOM(1,SG)	të justifikoja
+justifikoj	V;V.PTCP	justifikuar
+justifikoj	V;V.PTCP;PST	duke pasë justifikuar
+keqkuptoj	V;ADM;IPFV;NOM(1,PL)	keqkuptuakëshim
+keqkuptoj	V;ADM;IPFV;NOM(2,PL)	keqkuptuakëshit
+keqkuptoj	V;ADM;PRF;NOM(2,SG)	paske keqkuptuar
+keqkuptoj	V;ADM;PRF;PRF;NOM(2,PL)	paskëshit keqkuptuar
+keqkuptoj	V;ADM;PRS;NOM(1,SG)	keqkuptuakam
+keqkuptoj	V;COND;PRF;NOM(3,SG)	do të kishte keqkuptuar
+keqkuptoj	V;COND;PRS;NOM(1,PL)	do të keqkuptonim
+keqkuptoj	V;IMP;NOM(2,SG)	keqkupto
+keqkuptoj	V;IND;FUT;NOM(1,PL)	do të keqkuptojmë
+keqkuptoj	V;IND;FUT;NOM(2,SG)	do të keqkuptosh
+keqkuptoj	V;IND;FUT;NOM(3,PL)	do të keqkuptojnë
+keqkuptoj	V;IND;IPFV;NOM(1,SG)	keqkuptoja
+keqkuptoj	V;IND;PRF;FUT;NOM(3,PL)	do të kenë keqkuptuar
+keqkuptoj	V;IND;PRF;FUT;NOM(3,SG)	do të ketë keqkuptuar
+keqkuptoj	V;IND;PRS;NOM(3,SG)	keqkupton
+keqkuptoj	V;IND;PST;NOM(1,PL)	keqkuptuam
+keqkuptoj	V;IND;PST;NOM(2,PL)	keqkuptuat
+keqkuptoj	V;NFIN	për të keqkuptuar
+keqkuptoj	V;OPT;PRF;NOM(1,PL)	paçim keqkuptuar
+keqkuptoj	V;OPT;PRF;NOM(1,SG)	paça keqkuptuar
+keqkuptoj	V;OPT;PRF;NOM(2,PL)	paçit keqkuptuar
+keqkuptoj	V;OPT;PRF;NOM(2,SG)	paç keqkuptuar
+keqkuptoj	V;OPT;PRS;NOM(2,SG)	keqkuptofsh
+keqkuptoj	V;OPT;PRS;NOM(3,SG)	keqkuptoftë
+keqkuptoj	V;SBJV;PST;NOM(3,SG)	të keqkuptonte
+krim	N;ABL(PL;DEF)	krimeve
+krim	N;ABL(PL;NDEF)	krimesh
+krim	N;ABL(SG;DEF)	krimit
+krim	N;ABL(SG;NDEF)	krimi
+krim	N;ACC(PL;DEF)	krimet
+krim	N;ACC(PL;NDEF)	krime
+krim	N;ACC(SG;DEF)	krimin
+krim	N;ACC(SG;NDEF)	krim
+krim	N;DAT(PL;DEF)	krimeve
+krim	N;DAT(PL;NDEF)	krimeve
+krim	N;DAT(SG;DEF)	krimit
+krim	N;DAT(SG;NDEF)	krimi
+krim	N;GEN(PL;DEF)	krimeve
+krim	N;GEN(PL;NDEF)	krimeve
+krim	N;GEN(SG;DEF)	krimit
+krim	N;GEN(SG;NDEF)	krimi
+krim	N;NOM(PL;DEF)	krimet
+krim	N;NOM(PL;NDEF)	krime
+krim	N;NOM(SG;DEF)	krimi
+krim	N;NOM(SG;NDEF)	krim
+këmbë	N;ABL(PL;DEF)	këmbëve
+këmbë	N;ABL(PL;NDEF)	këmbësh
+këmbë	N;ABL(SG;DEF)	këmbës
+këmbë	N;ABL(SG;NDEF)	këmbe
+këmbë	N;ACC(PL;DEF)	këmbët
+këmbë	N;ACC(PL;NDEF)	këmbë
+këmbë	N;ACC(SG;DEF)	këmbën
+këmbë	N;ACC(SG;NDEF)	këmbë
+këmbë	N;DAT(PL;DEF)	këmbëve
+këmbë	N;DAT(PL;NDEF)	këmbëve
+këmbë	N;DAT(SG;DEF)	këmbës
+këmbë	N;DAT(SG;NDEF)	këmbe
+këmbë	N;GEN(PL;DEF)	këmbëve
+këmbë	N;GEN(PL;NDEF)	këmbëve
+këmbë	N;GEN(SG;DEF)	këmbës
+këmbë	N;GEN(SG;NDEF)	këmbe
+këmbë	N;NOM(PL;DEF)	këmbët
+këmbë	N;NOM(PL;NDEF)	këmbë
+këmbë	N;NOM(SG;DEF)	këmba
+këmbë	N;NOM(SG;NDEF)	këmbë
+mbaroj	V;ADM;IPFV;NOM(1,PL)	mbaruakëshim
+mbaroj	V;ADM;IPFV;NOM(1,SG)	mbaruakësha
+mbaroj	V;ADM;PRF;NOM(1,PL)	paskemi mbaruar
+mbaroj	V;COND;PRS;NOM(2,PL)	do të mbaronit
+mbaroj	V;IND;FUT;NOM(1,PL)	do të mbarojmë
+mbaroj	V;IND;FUT;NOM(2,PL)	do të mbaroni
+mbaroj	V;IND;IPFV;NOM(3,PL)	mbaronin
+mbaroj	V;IND;PRF;NOM(2,SG)	ke mbaruar
+mbaroj	V;IND;PRF;PRF;NOM(2,PL)	patët mbaruar
+mbaroj	V;IND;PRF;PST;NOM(1,SG)	pata mbaruar
+mbaroj	V;IND;PRF;PST;NOM(3,PL)	patën mbaruar
+mbaroj	V;IND;PRF;PST;NOM(3,SG)	pati mbaruar
+mbaroj	V;IND;PRS;NOM(1,PL)	mbarojmë
+mbaroj	V;IND;PST;NOM(1,SG)	mbarova
+mbaroj	V;IND;PST;NOM(2,PL)	mbaruat
+mbaroj	V;OPT;PRF;NOM(1,SG)	paça mbaruar
+mbaroj	V;OPT;PRF;NOM(2,PL)	paçit mbaruar
+mbaroj	V;OPT;PRF;NOM(3,PL)	paçin mbaruar
+mbaroj	V;OPT;PRS;NOM(2,SG)	mbarofsh
+mbaroj	V;SBJV;PRF;NOM(1,SG)	të kem mbaruar
+mbaroj	V;SBJV;PRF;NOM(2,PL)	të keni mbaruar
+mbaroj	V;SBJV;PRF;PRF;NOM(2,PL)	të kishit mbaruar
+mbaroj	V;SBJV;PRF;PST;NOM(2,SG)	të kishe mbaruar
+mbaroj	V;SBJV;PRS;NOM(2,SG)	të mbarosh
+mbaroj	V;SBJV;PST;NOM(3,PL)	të mbaronin
+mendje	N;ABL(PL;DEF)	mendjve
+mendje	N;ABL(PL;NDEF)	mendjsh
+mendje	N;ABL(SG;DEF)	mendjes
+mendje	N;ABL(SG;NDEF)	mendjeje
+mendje	N;ACC(PL;DEF)	mendjt
+mendje	N;ACC(PL;NDEF)	mendj
+mendje	N;ACC(SG;DEF)	mendjen
+mendje	N;ACC(SG;NDEF)	mendje
+mendje	N;DAT(PL;DEF)	mendjve
+mendje	N;DAT(PL;NDEF)	mendjve
+mendje	N;DAT(SG;DEF)	mendjes
+mendje	N;DAT(SG;NDEF)	mendjeje
+mendje	N;GEN(PL;DEF)	mendjve
+mendje	N;GEN(PL;NDEF)	mendjve
+mendje	N;GEN(SG;DEF)	mendjes
+mendje	N;GEN(SG;NDEF)	mendjeje
+mendje	N;NOM(PL;DEF)	mendjt
+mendje	N;NOM(PL;NDEF)	mendj
+mendje	N;NOM(SG;DEF)	mendjj
+mendje	N;NOM(SG;NDEF)	mendje
+mendoj	V;ADM;PRF;NOM(2,PL)	paskeni menduar
+mendoj	V;ADM;PRF;PRF;NOM(2,PL)	paskëshit menduar
+mendoj	V;ADM;PRF;PST;NOM(3,SG)	paskësh menduar
+mendoj	V;ADM;PRS;NOM(1,SG)	menduakam
+mendoj	V;ADM;PRS;NOM(2,SG)	menduake
+mendoj	V;ADM;PRS;NOM(3,PL)	menduakan
+mendoj	V;ADM;PRS;NOM(3,SG)	menduaka
+mendoj	V;COND;PRF;NOM(1,PL)	do të kishim menduar
+mendoj	V;COND;PRS;NOM(1,SG)	do të mendoja
+mendoj	V;IND;IPFV;NOM(1,SG)	mendoja
+mendoj	V;IND;IPFV;NOM(3,SG)	mendonte
+mendoj	V;IND;PRF;FUT;NOM(3,PL)	do të kenë menduar
+mendoj	V;IND;PRF;NOM(1,PL)	kemi menduar
+mendoj	V;IND;PRF;NOM(2,SG)	ke menduar
+mendoj	V;IND;PRS;NOM(3,SG)	mendon
+mendoj	V;IND;PST;NOM(3,SG)	mendoi
+mendoj	V;OPT;PRF;NOM(1,PL)	paçim menduar
+mendoj	V;OPT;PRS;NOM(1,SG)	mendofsha
+mendoj	V;SBJV;PRF;NOM(3,PL)	të kenë menduar
+mendoj	V;SBJV;PRF;PRF;NOM(2,PL)	të kishit menduar
+mendoj	V;SBJV;PRF;PST;NOM(3,PL)	të kishin menduar
+mendoj	V;SBJV;PRF;PST;NOM(3,SG)	të kishte menduar
+mendoj	V;SBJV;PRS;NOM(3,SG)	të mendojë
+mendoj	V;SBJV;PST;NOM(2,PL)	të mendonit
+mendoj	V;SBJV;PST;NOM(2,SG)	të mendoje
+merimangë	N;ABL(PL;DEF)	merimangave
+merimangë	N;ABL(PL;NDEF)	merimangash
+merimangë	N;ABL(SG;DEF)	merimangës
+merimangë	N;ABL(SG;NDEF)	merimange
+merimangë	N;ACC(PL;DEF)	merimangat
+merimangë	N;ACC(PL;NDEF)	merimanga
+merimangë	N;ACC(SG;DEF)	merimangën
+merimangë	N;ACC(SG;NDEF)	merimangë
+merimangë	N;DAT(PL;DEF)	merimangave
+merimangë	N;DAT(PL;NDEF)	merimangave
+merimangë	N;DAT(SG;DEF)	merimangës
+merimangë	N;DAT(SG;NDEF)	merimange
+merimangë	N;GEN(PL;DEF)	merimangave
+merimangë	N;GEN(PL;NDEF)	merimangave
+merimangë	N;GEN(SG;NDEF)	merimange
+merimangë	N;NOM(PL;DEF)	merimangat
+merimangë	N;NOM(PL;NDEF)	merimanga
+merimangë	N;NOM(SG;DEF)	merimanga
+merimangë	N;NOM(SG;NDEF)	merimangë
+mjekër	N;ABL(PL;DEF)	mjekrave
+mjekër	N;ABL(PL;NDEF)	mjekrash
+mjekër	N;ABL(SG;DEF)	mjekrës
+mjekër	N;ABL(SG;NDEF)	mjekre
+mjekër	N;ACC(PL;DEF)	mjekrat
+mjekër	N;ACC(PL;NDEF)	mjekra
+mjekër	N;ACC(SG;DEF)	mjekrën
+mjekër	N;ACC(SG;NDEF)	mjekër
+mjekër	N;DAT(PL;DEF)	mjekrave
+mjekër	N;DAT(PL;NDEF)	mjekrave
+mjekër	N;DAT(SG;DEF)	mjekrës
+mjekër	N;DAT(SG;NDEF)	mjekre
+mjekër	N;GEN(PL;DEF)	mjekrave
+mjekër	N;GEN(PL;NDEF)	mjekrave
+mjekër	N;GEN(SG;DEF)	mjekrës
+mjekër	N;GEN(SG;NDEF)	mjekre
+mjekër	N;NOM(PL;DEF)	mjekrat
+mjekër	N;NOM(PL;NDEF)	mjekra
+mjekër	N;NOM(SG;DEF)	mjekra
+mjekër	N;NOM(SG;NDEF)	mjekër
+mjellmë	N;ABL(PL;DEF)	mjellmave
+mjellmë	N;ABL(PL;NDEF)	mjellmash
+mjellmë	N;ABL(SG;DEF)	mjellmës
+mjellmë	N;ABL(SG;NDEF)	mjellme
+mjellmë	N;ACC(PL;DEF)	mjellmat
+mjellmë	N;ACC(PL;NDEF)	mjellma
+mjellmë	N;ACC(SG;DEF)	mjellmën
+mjellmë	N;ACC(SG;NDEF)	mjellmë
+mjellmë	N;DAT(PL;DEF)	mjellmave
+mjellmë	N;DAT(PL;NDEF)	mjellmave
+mjellmë	N;DAT(SG;DEF)	mjellmës
+mjellmë	N;DAT(SG;NDEF)	mjellme
+mjellmë	N;GEN(PL;DEF)	mjellmave
+mjellmë	N;GEN(PL;NDEF)	mjellmave
+mjellmë	N;GEN(SG;DEF)	mjellmës
+mjellmë	N;GEN(SG;NDEF)	mjellme
+mjellmë	N;NOM(PL;DEF)	mjellmat
+mjellmë	N;NOM(PL;NDEF)	mjellma
+mjellmë	N;NOM(SG;DEF)	mjellma
+mjellmë	N;NOM(SG;NDEF)	mjellmë
+ndryshim	N;ABL(PL;DEF)	ndryshimeve
+ndryshim	N;ABL(PL;NDEF)	ndryshimesh
+ndryshim	N;ABL(SG;DEF)	ndryshimit
+ndryshim	N;ABL(SG;NDEF)	ndryshimi
+ndryshim	N;ACC(PL;DEF)	ndryshimet
+ndryshim	N;ACC(PL;NDEF)	ndryshime
+ndryshim	N;ACC(SG;DEF)	ndryshimin
+ndryshim	N;ACC(SG;NDEF)	ndryshim
+ndryshim	N;DAT(PL;DEF)	ndryshimeve
+ndryshim	N;DAT(PL;NDEF)	ndryshimeve
+ndryshim	N;DAT(SG;DEF)	ndryshimit
+ndryshim	N;DAT(SG;NDEF)	ndryshimi
+ndryshim	N;GEN(PL;DEF)	ndryshimeve
+ndryshim	N;GEN(PL;NDEF)	ndryshimeve
+ndryshim	N;GEN(SG;DEF)	ndryshimit
+ndryshim	N;GEN(SG;NDEF)	ndryshimi
+ndryshim	N;NOM(PL;DEF)	ndryshimet
+ndryshim	N;NOM(PL;NDEF)	ndryshime
+ndryshim	N;NOM(SG;DEF)	ndryshimi
+ndryshim	N;NOM(SG;NDEF)	ndryshim
+ngritje	N;ABL(PL;DEF)	ngritjeve
+ngritje	N;ABL(PL;NDEF)	ngritjesh
+ngritje	N;ABL(SG;DEF)	ngritjes
+ngritje	N;ABL(SG;NDEF)	ngritjeje
+ngritje	N;ACC(PL;DEF)	ngritjet
+ngritje	N;ACC(PL;NDEF)	ngritje
+ngritje	N;ACC(SG;DEF)	ngritjen
+ngritje	N;ACC(SG;NDEF)	ngritje
+ngritje	N;DAT(PL;DEF)	ngritjeve
+ngritje	N;DAT(PL;NDEF)	ngritjeve
+ngritje	N;DAT(SG;DEF)	ngritjes
+ngritje	N;DAT(SG;NDEF)	ngritjeje
+ngritje	N;GEN(PL;DEF)	ngritjeve
+ngritje	N;GEN(PL;NDEF)	ngritjeve
+ngritje	N;GEN(SG;DEF)	ngritjes
+ngritje	N;GEN(SG;NDEF)	ngritjeje
+ngritje	N;NOM(PL;DEF)	ngritjet
+ngritje	N;NOM(PL;NDEF)	ngritje
+ngritje	N;NOM(SG;DEF)	ngritja
+ngritje	N;NOM(SG;NDEF)	ngritje
+njoftim	N;ABL(PL;DEF)	njoftimeve
+njoftim	N;ABL(PL;NDEF)	njoftimesh
+njoftim	N;ABL(SG;DEF)	njoftimit
+njoftim	N;ABL(SG;NDEF)	njoftimi
+njoftim	N;ACC(PL;DEF)	njoftimet
+njoftim	N;ACC(PL;NDEF)	njoftime
+njoftim	N;ACC(SG;DEF)	njoftimin
+njoftim	N;ACC(SG;NDEF)	njoftim
+njoftim	N;DAT(PL;DEF)	njoftimeve
+njoftim	N;DAT(PL;NDEF)	njoftimeve
+njoftim	N;DAT(SG;DEF)	njoftimit
+njoftim	N;DAT(SG;NDEF)	njoftimi
+njoftim	N;GEN(PL;DEF)	njoftimeve
+njoftim	N;GEN(PL;NDEF)	njoftimeve
+njoftim	N;GEN(SG;DEF)	njoftimit
+njoftim	N;GEN(SG;NDEF)	njoftimi
+njoftim	N;NOM(PL;DEF)	njoftimet
+njoftim	N;NOM(PL;NDEF)	njoftime
+njoftim	N;NOM(SG;DEF)	njoftimi
+njoftim	N;NOM(SG;NDEF)	njoftim
+nxehtësi	N;ABL(SG;DEF)	nxehtësisë
+nxehtësi	N;ABL(SG;NDEF)	nxehtësie
+nxehtësi	N;ACC(SG;DEF)	nxehtësinë
+nxehtësi	N;ACC(SG;NDEF)	nxehtësi
+nxehtësi	N;DAT(SG;DEF)	nxehtësisë
+nxehtësi	N;DAT(SG;NDEF)	nxehtësie
+nxehtësi	N;GEN(SG;DEF)	nxehtësisë
+nxehtësi	N;GEN(SG;NDEF)	nxehtësie
+nxehtësi	N;NOM(SG;DEF)	nxehtësia
+nxehtësi	N;NOM(SG;NDEF)	nxehtësi
+organizëm	N;ABL(PL;DEF)	organizmave
+organizëm	N;ABL(PL;NDEF)	organizmash
+organizëm	N;ABL(SG;NDEF)	organizmi
+organizëm	N;ACC(PL;DEF)	organizmat
+organizëm	N;ACC(PL;NDEF)	organizma
+organizëm	N;ACC(SG;DEF)	organizmin
+organizëm	N;ACC(SG;NDEF)	organizëm
+organizëm	N;DAT(PL;DEF)	organizmave
+organizëm	N;DAT(PL;NDEF)	organizmave
+organizëm	N;DAT(SG;DEF)	organizmit
+organizëm	N;DAT(SG;NDEF)	organizmi
+organizëm	N;GEN(PL;DEF)	organizmave
+organizëm	N;GEN(PL;NDEF)	organizmave
+organizëm	N;GEN(SG;DEF)	organizmit
+organizëm	N;GEN(SG;NDEF)	organizmi
+organizëm	N;NOM(PL;DEF)	organizmat
+organizëm	N;NOM(PL;NDEF)	organizma
+organizëm	N;NOM(SG;DEF)	organizmi
+organizëm	N;NOM(SG;NDEF)	organizëm
+pjekuri	N;ABL(SG;DEF)	pjekurisë
+pjekuri	N;ABL(SG;NDEF)	pjekurie
+pjekuri	N;ACC(SG;DEF)	pjekurinë
+pjekuri	N;ACC(SG;NDEF)	pjekuri
+pjekuri	N;DAT(SG;DEF)	pjekurisë
+pjekuri	N;DAT(SG;NDEF)	pjekurie
+pjekuri	N;GEN(SG;DEF)	pjekurisë
+pjekuri	N;GEN(SG;NDEF)	pjekurie
+pjekuri	N;NOM(SG;DEF)	pjekuria
+pjekuri	N;NOM(SG;NDEF)	pjekuri
+planet	N;ABL(PL;DEF)	planeteve
+planet	N;ABL(PL;NDEF)	planetesh
+planet	N;ABL(SG;DEF)	planetit
+planet	N;ABL(SG;NDEF)	planeti
+planet	N;ACC(PL;DEF)	planetet
+planet	N;ACC(PL;NDEF)	planete
+planet	N;ACC(SG;DEF)	planetin
+planet	N;ACC(SG;NDEF)	planet
+planet	N;DAT(PL;DEF)	planeteve
+planet	N;DAT(PL;NDEF)	planeteve
+planet	N;DAT(SG;DEF)	planetit
+planet	N;DAT(SG;NDEF)	planeti
+planet	N;GEN(PL;DEF)	planeteve
+planet	N;GEN(PL;NDEF)	planeteve
+planet	N;GEN(SG;DEF)	planetit
+planet	N;GEN(SG;NDEF)	planeti
+planet	N;NOM(PL;DEF)	planetet
+planet	N;NOM(PL;NDEF)	planete
+planet	N;NOM(SG;DEF)	planeti
+planet	N;NOM(SG;NDEF)	planet
+rajon	N;ABL(PL;DEF)	rajoneve
+rajon	N;ABL(PL;NDEF)	rajonesh
+rajon	N;ABL(SG;DEF)	rajonit
+rajon	N;ABL(SG;NDEF)	rajoni
+rajon	N;ACC(PL;DEF)	rajonet
+rajon	N;ACC(PL;NDEF)	rajone
+rajon	N;ACC(SG;DEF)	rajonin
+rajon	N;ACC(SG;NDEF)	rajon
+rajon	N;DAT(PL;DEF)	rajoneve
+rajon	N;DAT(PL;NDEF)	rajoneve
+rajon	N;DAT(SG;DEF)	rajonit
+rajon	N;DAT(SG;NDEF)	rajoni
+rajon	N;GEN(PL;DEF)	rajoneve
+rajon	N;GEN(PL;NDEF)	rajoneve
+rajon	N;GEN(SG;DEF)	rajonit
+rajon	N;GEN(SG;NDEF)	rajoni
+rajon	N;NOM(PL;DEF)	rajonet
+rajon	N;NOM(PL;NDEF)	rajone
+rajon	N;NOM(SG;DEF)	rajoni
+rajon	N;NOM(SG;NDEF)	rajon
+reagoj	V;ADM;IPFV;NOM(1,SG)	reaguakësha
+reagoj	V;ADM;PRF;NOM(2,PL)	paskeni reaguar
+reagoj	V;ADM;PRF;PST;NOM(3,PL)	paskëshin reaguar
+reagoj	V;ADM;PRS;NOM(2,PL)	reaguakeni
+reagoj	V;COND;PRF;NOM(3,PL)	do të kishin reaguar
+reagoj	V;IND;FUT;NOM(3,PL)	do të reagojnë
+reagoj	V;IND;IPFV;NOM(3,SG)	reagonte
+reagoj	V;IND;PRF;FUT;NOM(1,PL)	do të kemi reaguar
+reagoj	V;IND;PRF;FUT;NOM(1,SG)	do të kem reaguar
+reagoj	V;IND;PRF;FUT;NOM(3,SG)	do të ketë reaguar
+reagoj	V;IND;PRF;NOM(1,PL)	kemi reaguar
+reagoj	V;IND;PRF;NOM(3,PL)	kanë reaguar
+reagoj	V;IND;PRF;PST;NOM(1,SG)	pata reaguar
+reagoj	V;IND;PRS;NOM(1,SG)	reagoj
+reagoj	V;IND;PRS;NOM(2,SG)	reagon
+reagoj	V;IND;PST;NOM(2,SG)	reagove
+reagoj	V;IND;PST;NOM(3,SG)	reagoi
+reagoj	V;OPT;PRS;NOM(3,PL)	reagofshin
+reagoj	V;SBJV;PRF;NOM(2,PL)	të keni reaguar
+reagoj	V;SBJV;PRF;NOM(3,PL)	të kenë reaguar
+reagoj	V;SBJV;PRF;PST;NOM(2,SG)	të kishe reaguar
+reagoj	V;SBJV;PRF;PST;NOM(3,PL)	të kishin reaguar
+reagoj	V;SBJV;PRF;PST;NOM(3,SG)	të kishte reaguar
+reagoj	V;SBJV;PST;NOM(3,SG)	të reagonte
+reagoj	V;V.PTCP;PST	duke pasë reaguar
+rrahje	N;ABL(PL;DEF)	rrahjeve
+rrahje	N;ABL(PL;NDEF)	rrahjesh
+rrahje	N;ABL(SG;DEF)	rrahjes
+rrahje	N;ABL(SG;NDEF)	rrahjeje
+rrahje	N;ACC(PL;DEF)	rrahjet
+rrahje	N;ACC(PL;NDEF)	rrahje
+rrahje	N;ACC(SG;DEF)	rrahjen
+rrahje	N;ACC(SG;NDEF)	rrahje
+rrahje	N;DAT(PL;DEF)	rrahjeve
+rrahje	N;DAT(PL;NDEF)	rrahjeve
+rrahje	N;DAT(SG;DEF)	rrahjes
+rrahje	N;DAT(SG;NDEF)	rrahjeje
+rrahje	N;GEN(PL;DEF)	rrahjeve
+rrahje	N;GEN(PL;NDEF)	rrahjeve
+rrahje	N;GEN(SG;DEF)	rrahjes
+rrahje	N;GEN(SG;NDEF)	rrahjeje
+rrahje	N;NOM(PL;DEF)	rrahjet
+rrahje	N;NOM(PL;NDEF)	rrahje
+rrahje	N;NOM(SG;DEF)	rrahja
+rrahje	N;NOM(SG;NDEF)	rrahje
+shkencë	N;ABL(PL;DEF)	shkencave
+shkencë	N;ABL(PL;NDEF)	shkencash
+shkencë	N;ABL(SG;DEF)	shkencës
+shkencë	N;ABL(SG;NDEF)	shkence
+shkencë	N;ACC(PL;DEF)	shkencat
+shkencë	N;ACC(PL;NDEF)	shkenca
+shkencë	N;ACC(SG;DEF)	shkencën
+shkencë	N;ACC(SG;NDEF)	shkencë
+shkencë	N;DAT(PL;DEF)	shkencave
+shkencë	N;DAT(PL;NDEF)	shkencave
+shkencë	N;DAT(SG;DEF)	shkencës
+shkencë	N;DAT(SG;NDEF)	shkence
+shkencë	N;GEN(PL;DEF)	shkencave
+shkencë	N;GEN(PL;NDEF)	shkencave
+shkencë	N;GEN(SG;DEF)	shkencës
+shkencë	N;GEN(SG;NDEF)	shkence
+shkencë	N;NOM(PL;DEF)	shkencat
+shkencë	N;NOM(PL;NDEF)	shkenca
+shkencë	N;NOM(SG;DEF)	shkenca
+shkencë	N;NOM(SG;NDEF)	shkencë
+shkronjë	N;ABL(PL;DEF)	shkronjave
+shkronjë	N;ABL(PL;NDEF)	shkronjash
+shkronjë	N;ABL(SG;DEF)	shkronjës
+shkronjë	N;ABL(SG;NDEF)	shkronje
+shkronjë	N;ACC(PL;DEF)	shkronjat
+shkronjë	N;ACC(PL;NDEF)	shkronja
+shkronjë	N;ACC(SG;DEF)	shkronjën
+shkronjë	N;ACC(SG;NDEF)	shkronjë
+shkronjë	N;DAT(PL;DEF)	shkronjave
+shkronjë	N;DAT(PL;NDEF)	shkronjave
+shkronjë	N;DAT(SG;DEF)	shkronjës
+shkronjë	N;DAT(SG;NDEF)	shkronje
+shkronjë	N;GEN(PL;DEF)	shkronjave
+shkronjë	N;GEN(PL;NDEF)	shkronjave
+shkronjë	N;GEN(SG;DEF)	shkronjës
+shkronjë	N;GEN(SG;NDEF)	shkronje
+shkronjë	N;NOM(PL;DEF)	shkronjat
+shkronjë	N;NOM(PL;NDEF)	shkronja
+shkronjë	N;NOM(SG;DEF)	shkronja
+shkronjë	N;NOM(SG;NDEF)	shkronjë
+shtrembëroj	V;ADM;IPFV;NOM(1,PL)	shtrembëruakëshim
+shtrembëroj	V;ADM;IPFV;NOM(2,SG)	shtrembëruakëshe
+shtrembëroj	V;ADM;PRF;NOM(1,PL)	paskemi shtrembëruar
+shtrembëroj	V;ADM;PRF;NOM(3,SG)	paska shtrembëruar
+shtrembëroj	V;ADM;PRF;PST;NOM(1,PL)	paskëshim shtrembëruar
+shtrembëroj	V;ADM;PRF;PST;NOM(1,SG)	paskësha shtrembëruar
+shtrembëroj	V;ADM;PRF;PST;NOM(3,PL)	paskëshin shtrembëruar
+shtrembëroj	V;ADM;PRS;NOM(2,PL)	shtrembëruakeni
+shtrembëroj	V;ADM;PRS;NOM(3,PL)	shtrembëruakan
+shtrembëroj	V;ADM;PRS;NOM(3,SG)	shtrembëruaka
+shtrembëroj	V;COND;PRS;NOM(1,PL)	do të shtrembëronim
+shtrembëroj	V;COND;PRS;NOM(3,PL)	do të shtrembëronin
+shtrembëroj	V;IND;PRF;FUT;NOM(1,PL)	do të kemi shtrembëruar
+shtrembëroj	V;IND;PRF;FUT;NOM(1,SG)	do të kem shtrembëruar
+shtrembëroj	V;IND;PRF;FUT;NOM(2,PL)	do të keni shtrembëruar
+shtrembëroj	V;IND;PRF;FUT;NOM(3,PL)	do të kenë shtrembëruar
+shtrembëroj	V;IND;PRS;NOM(1,PL)	shtrembërojmë
+shtrembëroj	V;IND;PRS;NOM(2,PL)	shtrembëroni
+shtrembëroj	V;OPT;PRF;NOM(3,PL)	paçin shtrembëruar
+shtrembëroj	V;SBJV;PRF;NOM(3,SG)	të ketë shtrembëruar
+shtrembëroj	V;SBJV;PRF;PST;NOM(3,PL)	të kishin shtrembëruar
+shtrembëroj	V;SBJV;PRF;PST;NOM(3,SG)	të kishte shtrembëruar
+shtrembëroj	V;SBJV;PRS;NOM(2,PL)	të shtrembëroni
+shtrembëroj	V;SBJV;PST;NOM(1,PL)	të shtrembëronim
+shtrembëroj	V;SBJV;PST;NOM(3,PL)	të shtrembëronin
+shurrohem	V;ADM;IPFV;NOM(2,PL)	u shurruakëshit
+shurrohem	V;ADM;PRF;NOM(1,SG)	qenkam shurruar
+shurrohem	V;ADM;PRS;NOM(3,PL)	u shurruakan
+shurrohem	V;COND;PRF;NOM(1,PL)	do të ishim shurruar
+shurrohem	V;COND;PRS;NOM(1,PL)	do të shurroheshim
+shurrohem	V;COND;PRS;NOM(3,PL)	do të shurroheshin
+shurrohem	V;IND;FUT;NOM(2,PL)	do të shurroheni
+shurrohem	V;IND;FUT;NOM(3,PL)	do të shurrohen
+shurrohem	V;IND;IPFV;NOM(2,SG)	shurroheshe
+shurrohem	V;IND;PRF;FUT;NOM(3,PL)	do të jenë shurruar
+shurrohem	V;IND;PRF;NOM(3,SG)	është shurruar
+shurrohem	V;IND;PRF;PRF;NOM(2,PL)	ishit shurruar
+shurrohem	V;IND;PRF;PST;NOM(1,SG)	isha shurruar
+shurrohem	V;IND;PRF;PST;NOM(2,SG)	ishe shurruar
+shurrohem	V;IND;PRS;NOM(1,PL)	shurrohemi
+shurrohem	V;IND;PRS;NOM(2,SG)	shurrohesh
+shurrohem	V;IND;PST;NOM(2,PL)	u shurruat
+shurrohem	V;OPT;PRF;NOM(1,PL)	qofshim shurruar
+shurrohem	V;OPT;PRF;NOM(2,SG)	qofsh shurruar
+shurrohem	V;OPT;PRS;NOM(3,PL)	u shurrofshin
+shurrohem	V;SBJV;PRF;NOM(3,PL)	të jenë shurruar
+shurrohem	V;SBJV;PRF;PST;NOM(2,SG)	të ishe shurruar
+shurrohem	V;SBJV;PRS;NOM(1,PL)	të shurrohemi
+shurrohem	V;SBJV;PST;NOM(1,SG)	të shurrohesha
+shurrohem	V;SBJV;PST;NOM(3,PL)	të shurroheshin
+sulmoj	V;ADM;IPFV;NOM(2,SG)	sulmuakëshe
+sulmoj	V;ADM;PRF;PST;NOM(3,PL)	paskëshin sulmuar
+sulmoj	V;ADM;PRS;NOM(3,SG)	sulmuaka
+sulmoj	V;COND;PRF;NOM(2,PL)	do të kishit sulmuar
+sulmoj	V;COND;PRS;NOM(1,PL)	do të sulmonim
+sulmoj	V;COND;PRS;NOM(3,PL)	do të sulmonin
+sulmoj	V;COND;PRS;NOM(3,SG)	do të sulmonte
+sulmoj	V;IND;PRF;FUT;NOM(2,SG)	do të kesh sulmuar
+sulmoj	V;IND;PRF;NOM(2,PL)	keni sulmuar
+sulmoj	V;IND;PRF;NOM(2,SG)	ke sulmuar
+sulmoj	V;IND;PRF;PST;NOM(2,SG)	pate sulmuar
+sulmoj	V;IND;PRF;PST;NOM(3,SG)	pati sulmuar
+sulmoj	V;IND;PRS;NOM(3,PL)	sulmojnë
+sulmoj	V;IND;PRS;NOM(3,SG)	sulmon
+sulmoj	V;IND;PST;NOM(2,PL)	sulmuat
+sulmoj	V;OPT;PRF;NOM(1,PL)	paçim sulmuar
+sulmoj	V;OPT;PRF;NOM(2,PL)	paçit sulmuar
+sulmoj	V;OPT;PRS;NOM(3,SG)	sulmoftë
+sulmoj	V;SBJV;PRF;NOM(1,PL)	të kemi sulmuar
+sulmoj	V;SBJV;PRF;PRF;NOM(2,PL)	të kishit sulmuar
+sulmoj	V;SBJV;PRS;NOM(3,PL)	të sulmojnë
+sulmoj	V;SBJV;PST;NOM(1,SG)	të sulmoja
+sulmoj	V;SBJV;PST;NOM(2,SG)	të sulmoje
+sulmoj	V;SBJV;PST;NOM(3,SG)	të sulmonte
+sulmoj	V;V.PTCP	sulmuar
+teknologji	N;ABL(PL;DEF)	teknologjive
+teknologji	N;ABL(PL;NDEF)	teknologjish
+teknologji	N;ABL(SG;DEF)	teknologjisë
+teknologji	N;ABL(SG;NDEF)	teknologjie
+teknologji	N;ACC(PL;DEF)	teknologjitë
+teknologji	N;ACC(PL;NDEF)	teknologji
+teknologji	N;ACC(SG;DEF)	teknologjinë
+teknologji	N;ACC(SG;NDEF)	teknologji
+teknologji	N;DAT(PL;DEF)	teknologjive
+teknologji	N;DAT(PL;NDEF)	teknologjive
+teknologji	N;DAT(SG;DEF)	teknologjisë
+teknologji	N;DAT(SG;NDEF)	teknologjie
+teknologji	N;GEN(PL;DEF)	teknologjive
+teknologji	N;GEN(PL;NDEF)	teknologjive
+teknologji	N;GEN(SG;NDEF)	teknologjie
+teknologji	N;NOM(PL;DEF)	teknologjitë
+teknologji	N;NOM(PL;NDEF)	teknologji
+teknologji	N;NOM(SG;DEF)	teknologjia
+teknologji	N;NOM(SG;NDEF)	teknologji
+tërheq	V;ADM;PRF;NOM(2,SG)	paske tërhequr
+tërheq	V;ADM;PRF;PST;NOM(1,PL)	paskëshim tërhequr
+tërheq	V;ADM;PRS;NOM(1,SG)	tërheqkam
+tërheq	V;COND;PRF;NOM(3,PL)	do të kishin tërhequr
+tërheq	V;COND;PRF;NOM(3,SG)	do të kishte tërhequr
+tërheq	V;COND;PRS;NOM(3,SG)	do të tërhiqte
+tërheq	V;IMP;NOM(2,SG)	tërhiq
+tërheq	V;IND;FUT;NOM(1,SG)	do të tërheq
+tërheq	V;IND;IPFV;NOM(2,PL)	tërhiqnit
+tërheq	V;IND;IPFV;NOM(2,SG)	tërhiqje
+tërheq	V;IND;IPFV;NOM(3,SG)	tërhiqte
+tërheq	V;IND;PRF;FUT;NOM(3,PL)	do të kenë tërhequr
+tërheq	V;IND;PRF;NOM(1,PL)	kemi tërhequr
+tërheq	V;IND;PRF;PST;NOM(2,SG)	pate tërhequr
+tërheq	V;IND;PRS;NOM(2,SG)	tërheq
+tërheq	V;NFIN	për të tërhequr
+tërheq	V;OPT;PRS;NOM(2,PL)	tërheqshit
+tërheq	V;SBJV;PRF;NOM(2,SG)	të kesh tërhequr
+tërheq	V;SBJV;PRF;NOM(3,SG)	të ketë tërhequr
+tërheq	V;SBJV;PRF;PST;NOM(1,PL)	të kishim tërhequr
+tërheq	V;SBJV;PRS;NOM(1,PL)	të tërheqim
+tërheq	V;SBJV;PRS;NOM(2,PL)	të tërhiqni
+tërheq	V;SBJV;PRS;NOM(3,PL)	të tërheqin
+tërheq	V;SBJV;PST;NOM(3,PL)	të tërhiqnin
+tërheq	V;V.PTCP;PST	duke pasë tërhequr
+vyshkem	V;ADM;PRF;NOM(1,PL)	qenkemi vyshkuar
+vyshkem	V;ADM;PRF;NOM(1,SG)	qenkam vyshkuar
+vyshkem	V;ADM;PRF;NOM(2,PL)	qenkeni vyshkuar
+vyshkem	V;ADM;PRF;NOM(2,SG)	qenke vyshkuar
+vyshkem	V;ADM;PRF;NOM(3,PL)	qenkan vyshkuar
+vyshkem	V;COND;PRF;NOM(1,SG)	do të isha vyshkuar
+vyshkem	V;COND;PRF;NOM(2,PL)	do të ishit vyshkuar
+vyshkem	V;COND;PRS;NOM(1,PL)	do të vyshkeshim
+vyshkem	V;COND;PRS;NOM(1,SG)	do të vyshkesha
+vyshkem	V;IND;IPFV;NOM(2,PL)	vyshkeshit
+vyshkem	V;IND;IPFV;NOM(3,SG)	vyshkej
+vyshkem	V;IND;PRF;FUT;NOM(1,SG)	do të jem vyshkuar
+vyshkem	V;IND;PRF;NOM(3,PL)	janë vyshkuar
+vyshkem	V;IND;PRF;PST;NOM(2,SG)	ishe vyshkuar
+vyshkem	V;OPT;PRF;NOM(2,PL)	qofshit vyshkuar
+vyshkem	V;SBJV;PRF;NOM(1,PL)	të jemi vyshkuar
+vyshkem	V;SBJV;PRF;NOM(2,SG)	të jesh vyshkuar
+vyshkem	V;SBJV;PRF;NOM(3,SG)	të jetë vyshkuar
+vyshkem	V;SBJV;PRF;PST;NOM(1,SG)	të isha vyshkuar
+vyshkem	V;SBJV;PRF;PST;NOM(3,PL)	të ishin vyshkuar
+vyshkem	V;SBJV;PRS;NOM(1,SG)	të vyshkem
+vyshkem	V;SBJV;PST;NOM(2,PL)	të vyshkeshit
+vyshkem	V;SBJV;PST;NOM(2,SG)	të vyshkeshe
+vyshkem	V;V.PTCP;PRS	duke u vyshkuar
+vyshkem	V;V.PTCP;PST	duke u pasë vyshkuar
+xhaxha	N;ABL(PL;DEF)	xhaxhallarëve
+xhaxha	N;ABL(PL;NDEF)	xhaxhallarësh
+xhaxha	N;ABL(SG;DEF)	xhaxhait
+xhaxha	N;ABL(SG;NDEF)	xhaxhai
+xhaxha	N;ACC(PL;DEF)	xhaxhallarët
+xhaxha	N;ACC(PL;NDEF)	xhaxhallarë
+xhaxha	N;ACC(SG;DEF)	xhaxhain
+xhaxha	N;ACC(SG;NDEF)	xhaxha
+xhaxha	N;DAT(PL;DEF)	xhaxhallarëve
+xhaxha	N;DAT(PL;NDEF)	xhaxhallarëve
+xhaxha	N;DAT(SG;DEF)	xhaxhait
+xhaxha	N;DAT(SG;NDEF)	xhaxhai
+xhaxha	N;GEN(PL;DEF)	xhaxhallarëve
+xhaxha	N;GEN(PL;NDEF)	xhaxhallarëve
+xhaxha	N;GEN(SG;DEF)	xhaxhait
+xhaxha	N;GEN(SG;NDEF)	xhaxhai
+xhaxha	N;NOM(PL;DEF)	xhaxhallarët
+xhaxha	N;NOM(PL;NDEF)	xhaxhallarë
+xhaxha	N;NOM(SG;DEF)	xhaxhai
+xhaxha	N;NOM(SG;NDEF)	xhaxha
+zoologji	N;ABL(SG;DEF)	zoologjisë
+zoologji	N;ABL(SG;NDEF)	zoologjie
+zoologji	N;ACC(SG;DEF)	zoologjinë
+zoologji	N;ACC(SG;NDEF)	zoologji
+zoologji	N;DAT(SG;DEF)	zoologjisë
+zoologji	N;DAT(SG;NDEF)	zoologjie
+zoologji	N;GEN(SG;DEF)	zoologjisë
+zoologji	N;GEN(SG;NDEF)	zoologjie
+zoologji	N;NOM(SG;DEF)	zoologjia
+zoologji	N;NOM(SG;NDEF)	zoologji
+zyrë	N;ABL(PL;DEF)	zyrave
+zyrë	N;ABL(PL;NDEF)	zyrash
+zyrë	N;ABL(SG;DEF)	zyrës
+zyrë	N;ABL(SG;NDEF)	zyre
+zyrë	N;ACC(PL;NDEF)	zyra
+zyrë	N;ACC(SG;DEF)	zyrën
+zyrë	N;ACC(SG;NDEF)	zyrë
+zyrë	N;DAT(PL;DEF)	zyrave
+zyrë	N;DAT(PL;NDEF)	zyrave
+zyrë	N;DAT(SG;DEF)	zyrës
+zyrë	N;DAT(SG;NDEF)	zyre
+zyrë	N;GEN(PL;DEF)	zyrave
+zyrë	N;GEN(PL;NDEF)	zyrave
+zyrë	N;GEN(SG;DEF)	zyrës
+zyrë	N;GEN(SG;NDEF)	zyre
+zyrë	N;NOM(PL;DEF)	zyrat
+zyrë	N;NOM(PL;NDEF)	zyra
+zyrë	N;NOM(SG;DEF)	zyra
+zyrë	N;NOM(SG;NDEF)	zyrë
+çakmak	N;ABL(PL;DEF)	çakmakëve
+çakmak	N;ABL(PL;NDEF)	çakmakësh
+çakmak	N;ABL(SG;DEF)	çakmakut
+çakmak	N;ABL(SG;NDEF)	çakmaku
+çakmak	N;ACC(PL;DEF)	çakmakët
+çakmak	N;ACC(PL;NDEF)	çakmakë
+çakmak	N;ACC(SG;DEF)	çakmakun
+çakmak	N;ACC(SG;NDEF)	çakmak
+çakmak	N;DAT(PL;DEF)	çakmakëve
+çakmak	N;DAT(PL;NDEF)	çakmakëve
+çakmak	N;DAT(SG;DEF)	çakmakut
+çakmak	N;DAT(SG;NDEF)	çakmaku
+çakmak	N;GEN(PL;DEF)	çakmakëve
+çakmak	N;GEN(PL;NDEF)	çakmakëve
+çakmak	N;GEN(SG;DEF)	çakmakut
+çakmak	N;GEN(SG;NDEF)	çakmaku
+çakmak	N;NOM(PL;DEF)	çakmakët
+çakmak	N;NOM(PL;NDEF)	çakmakë
+çakmak	N;NOM(SG;DEF)	çakmaku
+çakmak	N;NOM(SG;NDEF)	çakmak
+çantë	N;ABL(PL;DEF)	çantave
+çantë	N;ABL(PL;NDEF)	çantash
+çantë	N;ABL(SG;DEF)	çantës
+çantë	N;ABL(SG;NDEF)	çante
+çantë	N;ACC(PL;DEF)	çantat
+çantë	N;ACC(PL;NDEF)	çanta
+çantë	N;ACC(SG;DEF)	çantën
+çantë	N;ACC(SG;NDEF)	çantë
+çantë	N;DAT(PL;DEF)	çantave
+çantë	N;DAT(PL;NDEF)	çantave
+çantë	N;DAT(SG;DEF)	çantës
+çantë	N;DAT(SG;NDEF)	çante
+çantë	N;GEN(PL;DEF)	çantave
+çantë	N;GEN(PL;NDEF)	çantave
+çantë	N;GEN(SG;DEF)	çantës
+çantë	N;GEN(SG;NDEF)	çante
+çantë	N;NOM(PL;DEF)	çantat
+çantë	N;NOM(PL;NDEF)	çanta
+çantë	N;NOM(SG;DEF)	çanta
+çantë	N;NOM(SG;NDEF)	çantë

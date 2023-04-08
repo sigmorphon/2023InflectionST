@@ -55,8 +55,17 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 | Swahili          | Bantu (Niger-Congo)          | swa  | https://github.com/unimorph/swa/ |
 | Turkish          | Turkic                       | tur  | https://github.com/unimorph/tur/ |
 
-[//]: # (#### Surprise Languages)
+#### Surprise Languages
 
+| Language      | Family                         | code | UM                               |
+|---------------|--------------------------------|------|----------------------------------|
+| Navajo        | Southern Athabaskan (Na-Dené)  | nav  | https://github.com/unimorph/nav/ |
+| Arabic, Gulf  | Semitic (Afro-Asiatic)         | afb  | https://github.com/unimorph/afb/ |
+| Albanian      | Indo-European                  | sqi  | https://github.com/unimorph/sqi/ |
+| German        | Germanic (Indo-European)       | deu  | https://github.com/unimorph/deu/ |
+| Sami          | Finnic (Uralic)                | sme  | https://github.com/unimorph/sme/ |
+| Belarusian    | Balto-Slavic (Indo-European)   | bel  | https://github.com/unimorph/bel/ |
+| Khaling       | Kiranti (Sino-Tibetan)         | klr  | https://github.com/unimorph/klr/ |
 
 ## Timeline
 

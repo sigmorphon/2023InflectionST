@@ -21,4 +21,10 @@ A note on the file names:
 * the NILK files contain the extracts from the adult-directed speech corpus
 * the dictionary used for the Dictionary file is:  Kang, B.-M., & Kim, H.-G. (2004). Hankwuke hyengtayso mich ehwi sayong pintouy pwunsek2 [Frequency analysis of Korean morpheme and word usage2]. Seoul: Institute of Korean Culture, Korea University
 
+A note on LanguageBackgroundInfo.csv columns:
+
+* The first column indexes the subject ID in the experiment (the column name is the same in the experimental data files)
+* The second column is the age at which they started speaking Korean in some context (home, school, with certain relatives, etc.)
+* The third column is a 7-point Likert-scaled question asking about which language they prefer to use on a daily basis, with 7 indicating a strong preference for Korean, and 1 indicating a strong preference for another language. This was meant to get at how Korean-dominant they are. 
+
 Please feel free to reach out if you have any questions, clarifications, or if you spot any errors - I'd love to hear from you! --> canaanbreiss1@gmail.com

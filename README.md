@@ -147,7 +147,7 @@ Then, to run the transducer [(Wu et al, 2021)](https://arxiv.org/abs/2005.10213)
 ```bash
 $ bash baselines/neural/example/sigmorphon2021-shared-tasks/task0-launch.sh
 ```
-
+The neural baseline is [available here](https://github.com/shijie-wu/neural-transducer).
 
 ### Organizers
 

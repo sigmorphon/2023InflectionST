@@ -57,15 +57,17 @@ In the ***Evaluation Phase***, the participants’ models will be evaluated on h
 
 #### Surprise Languages
 
-| Language      | Family                         | code | UM                               |
-|---------------|--------------------------------|------|----------------------------------|
-| Navajo        | Southern Athabaskan (Na-Dené)  | nav  | https://github.com/unimorph/nav/ |
-| Arabic, Gulf  | Semitic (Afro-Asiatic)         | afb  | https://github.com/unimorph/afb/ |
-| Albanian      | Indo-European                  | sqi  | https://github.com/unimorph/sqi/ |
-| German        | Germanic (Indo-European)       | deu  | https://github.com/unimorph/deu/ |
-| Sami          | Finnic (Uralic)                | sme  | https://github.com/unimorph/sme/ |
-| Belarusian    | Balto-Slavic (Indo-European)   | bel  | https://github.com/unimorph/bel/ |
-| Khaling       | Kiranti (Sino-Tibetan)         | klr  | https://github.com/unimorph/klr/ |
+| Language     | Family                        | code | UM                               |
+|--------------|-------------------------------|------|----------------------------------|
+| Navajo       | Southern Athabaskan (Na-Dené) | nav  | https://github.com/unimorph/nav/ |
+| Arabic, Gulf | Semitic (Afro-Asiatic)        | afb  | https://github.com/unimorph/afb/ |
+| Albanian     | Indo-European                 | sqi  | https://github.com/unimorph/sqi/ |
+| German       | Germanic (Indo-European)      | deu  | https://github.com/unimorph/deu/ |
+| Sami         | Finnic (Uralic)               | sme  | https://github.com/unimorph/sme/ |
+| Belarusian   | Balto-Slavic (Indo-European)  | bel  | https://github.com/unimorph/bel/ |
+| Khaling      | Kiranti (Sino-Tibetan)        | klr  | https://github.com/unimorph/klr/ |
+| Sanskrit     | Indo-Aryan (Indo-European)    | san  | https://github.com/unimorph/san/ |
+
 
 ## Timeline
 
@@ -111,11 +113,6 @@ Validation data is provided in 2 versions: uncovered version that includes the t
 and a covered version that do not include the target similarly to the test set. The test set will be released at the beginning of the test phase (see below). 
 
 
-## Evaluation
-
-***Evaluation script available here https://github.com/sigmorphon/2022InflectionST/tree/main/evaluation***
-
-
 ### Submission Instructions 
 
 Please submit your team's results to omer.goldman@gmail.com CCing your team mates
@@ -123,31 +120,10 @@ Please submit your team's results to omer.goldman@gmail.com CCing your team mate
 
 ### Baselines
 
-***Baseline results available here https://github.com/sigmorphon/2023InflectionST/tree/main/evaluation***
+***Baseline results will available at the end of the test phase, [here](https://github.com/sigmorphon/2023InflectionST/tree/main/part1/evaluation)***
 
-The organizers will provide one non-neural and one neural baseline for the participants’ consumption.
-Its use is optional and is provided to help the participants develop their own models faster.
-The neural baseline is a multilingual transformer ([Vaswani et al., 2017](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)). The version of this model adopted for character-level tasks currently holds the state-of-the-art on the 2017 SIGMORPHON shared task data. The transformer takes the lemma and morphological tags as input and outputs the target inflection. Given the low-resource setup, a single model will be trained on all languages. Additionally, we consider the data augmentation technique used by [Anastasopoulos and Neubig (2019)](https://www.aclweb.org/anthology/D19-1091/) as another baseline.
 
-To run the non-neural baseline use command:
-```bash
-$ python baselines/nonneural/baseline.py --path part1/development_languages/
-```
-
-To run the neural baseline first download and augment [(Anastasopoulos and Neubig, 2019)](https://arxiv.org/abs/1908.05838) the data
-```bash
-$ mkdir part1/original
-$ cp part1/development_languages/* part1/original
-
-$ bash baselines/neural/example/sigmorphon2021-shared-tasks/augment.sh
-$ python baselines/neural/example/sigmorphon2021-shared-tasks/task0-build-dataset.py all
-```
-
-Then, to run the transducer [(Wu et al, 2021)](https://arxiv.org/abs/2005.10213), one model per language.
-```bash
-$ bash baselines/neural/example/sigmorphon2021-shared-tasks/task0-launch.sh
-```
-The neural baseline is [available here](https://github.com/shijie-wu/neural-transducer).
+The baselines models are [here](https://github.com/sigmorphon/2023InflectionST/tree/main/part1/baselines)
 
 ### Organizers
 

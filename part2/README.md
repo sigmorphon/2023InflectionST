@@ -28,3 +28,8 @@ A note on LanguageBackgroundInfo.csv columns:
 * The third column is a 7-point Likert-scaled question asking about which language they prefer to use on a daily basis, with 7 indicating a strong preference for Korean, and 1 indicating a strong preference for another language. This was meant to get at how Korean-dominant they are. 
 
 Please feel free to reach out if you have any questions, clarifications, or if you spot any errors - I'd love to hear from you! --> canaanbreiss1@gmail.com
+
+**Update! Test data released!**
+* file test_with_right_answers.csv includes the missing columns in the previous test_no_answers.csv file
+* file new_data_with_right_answers.csv includes data from six brand-new subjects! 
+* the LanguageBackgroundInfo.csv file has been updated with the info for the six new subjects.

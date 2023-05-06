@@ -237,8 +237,7 @@ Systems will be evaluated according to how well they generalize and analyzed to 
   * March 31, 2023: Test data is available for participants
   * April 21, 2023: Final Submissions are due
   * April 25, 2023: Results announced to participants
-  * May 8, 2023: System papers due for review
-  * May 22, 2023: Reviews back to participants
+  * May 22, 2023: System papers due for review
   * May 31, 2023:  CR deadline; task paper due from organizers
 
 ### Submission Instructions 

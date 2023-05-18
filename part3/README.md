@@ -1,11 +1,9 @@
 # BGU 
 ## Accuracy for the highest prob form (top-1)
-POLISH: 0.73
-
-ESTONIAN: 0.55
-
-FINNISH: 0.44
-
+POLISH: 0.73  
+ESTONIAN: 0.55  
+FINNISH: 0.44  
+  
 ## Pearson's correlation
 Correlation for the probabilities of the forms predicted by the model and the ones from children's data (if they match)
 POLISH (134/150 forms): -0.02735669

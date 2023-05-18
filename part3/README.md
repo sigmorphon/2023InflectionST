@@ -1,7 +1,9 @@
 # BGU 
 ## Accuracy for the highest prob form (top-1)
 POLISH: 0.73
+
 ESTONIAN: 0.55
+
 FINNISH: 0.44
 
 ## Pearson's correlation

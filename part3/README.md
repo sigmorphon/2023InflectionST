@@ -12,7 +12,7 @@ FINNISH (134/162): 0.46281223
 
 On All forms (assigning zero probability for the cases where the correct form is not in top-10):  
 POLISH (150): 0.23111538    
-ESTONIAN (144): 0.57870074
+ESTONIAN (144): 0.57870074  
 FINNISH (162): 0.46264211
 
 
@@ -23,7 +23,7 @@ FINNISH (134/162): 0.98
 
 On All forms (assigning zero probability for the cases where the correct form is not in top-10):  
 POLISH: 0.94  
-ESTONIAN: 0.94  
+ESTONIAN: 0.94    
 FINNISH: 0.92  
 
 ## Forms that didn't have any correct prediction in top-10
